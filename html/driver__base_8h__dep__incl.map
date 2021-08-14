@@ -1,0 +1,10 @@
+<map id="modules/drivers/lidar/common/driver_factory/driver_base.h" name="modules/drivers/lidar/common/driver_factory/driver_base.h">
+<area shape="rect" id="node2" href="$lidar__driver__factory_8h.html" title="Defines the LidarFactory class. " alt="" coords="44,109,223,165"/>
+<area shape="rect" id="node4" href="$lidar_2hesai_2driver_2driver_8h.html" title="modules/drivers/lidar\l/hesai/driver/driver.h" alt="" coords="268,117,428,158"/>
+<area shape="rect" id="node6" href="$lidar_2robosense_2driver_2driver_8h.html" title="modules/drivers/lidar\l/robosense/driver/driver.h" alt="" coords="475,117,663,158"/>
+<area shape="rect" id="node8" href="$lidar_2velodyne_2driver_2driver_8h.html" title="modules/drivers/lidar\l/velodyne/driver/driver.h" alt="" coords="707,117,888,158"/>
+<area shape="rect" id="node3" href="$lidar__driver__component_8h.html" title="modules/drivers/lidar\l/lidar_driver_component.h" alt="" coords="5,221,197,262"/>
+<area shape="rect" id="node5" href="$hesai__component_8h.html" title="modules/drivers/lidar\l/hesai/driver/hesai_component.h" alt="" coords="221,221,456,262"/>
+<area shape="rect" id="node7" href="$robosense__driver__component_8h.html" title="modules/drivers/lidar\l/robosense/driver/robosense\l_driver_component.h" alt="" coords="481,213,687,269"/>
+<area shape="rect" id="node9" href="$velodyne__driver__component_8h.html" title="modules/drivers/lidar\l/velodyne/driver/velodyne\l_driver_component.h" alt="" coords="712,213,904,269"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classapollo_1_1planning_1_1NaviTask.html" title="apollo::planning::NaviTask" alt="" coords="5,78,199,105"/>
+<area shape="rect" id="node2" href="$classapollo_1_1planning_1_1NaviObstacleDecider.html" title="NaviObstacleDecider is used to make appropriate decisions for obstacles around the vehicle in navigat..." alt="" coords="247,5,468,47"/>
+<area shape="rect" id="node3" href="$classapollo_1_1planning_1_1NaviPathDecider.html" title="NaviPathDecider is used to generate the local driving path of the .* vehicle in navigation mode..." alt="" coords="261,71,453,112"/>
+<area shape="rect" id="node4" href="$classapollo_1_1planning_1_1NaviSpeedDecider.html" title="NaviSpeedDecider is used to generate an appropriate speed curve of the vehicle in navigation mode..." alt="" coords="255,136,459,177"/>
+</map>

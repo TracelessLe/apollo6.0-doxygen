@@ -1,0 +1,20 @@
+<map id="modules/control/controller/lat_controller.h" name="modules/control/controller/lat_controller.h">
+<area shape="rect" id="node7" href="$digital__filter_8h.html" title="Defines the DigitalFilter class. " alt="" coords="263,95,443,136"/>
+<area shape="rect" id="node10" href="$digital__filter__coefficients_8h.html" title="Functions to generate coefficients for digital filter. " alt="" coords="125,363,324,404"/>
+<area shape="rect" id="node16" href="$mean__filter_8h.html" title="Defines the MeanFilter class. " alt="" coords="467,95,647,136"/>
+<area shape="rect" id="node19" href="$interpolation__1d_8h.html" title="modules/control/common\l/interpolation_1d.h" alt="" coords="820,95,1008,136"/>
+<area shape="rect" id="node21" href="$leadlag__controller_8h.html" title="modules/control/common\l/leadlag_controller.h" alt="" coords="1819,95,2007,136"/>
+<area shape="rect" id="node23" href="$mrac__controller_8h.html" title="modules/control/common\l/mrac_controller.h" alt="" coords="1161,95,1349,136"/>
+<area shape="rect" id="node29" href="$trajectory__analyzer_8h.html" title="Defines the TrajectoryAnalyzer class. " alt="" coords="1664,184,1852,225"/>
+<area shape="rect" id="node42" href="$controller_8h.html" title="Defines the Controller base class. " alt="" coords="2505,95,2699,136"/>
+<area shape="rect" id="node11" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="133,459,287,486"/>
+<area shape="rect" id="node15" href="$binary_8h.html" title="cyber/binary.h" alt="" coords="477,549,591,575"/>
+<area shape="rect" id="node24" href="$common_2status_2status_8h.html" title="modules/common/status\l/status.h" alt="" coords="2401,363,2584,404"/>
+<area shape="rect" id="node27" href="$future_8h.html" title="modules/common/util\l/future.h" alt="" coords="2384,452,2548,493"/>
+<area shape="rect" id="node31" href="$box2d_8h.html" title="The class of Box2d. Here, the x/y axes are respectively Forward/Left, as opposed to what happens in e..." alt="" coords="1673,363,1851,404"/>
+<area shape="rect" id="node34" href="$vec2d_8h.html" title="Defines the Vec2d class. " alt="" coords="1559,541,1736,583"/>
+<area shape="rect" id="node38" href="$vehicle__state__provider_8h.html" title="modules/common/vehicle\l_state/vehicle_state_provider.h" alt="" coords="1795,273,2020,315"/>
+<area shape="rect" id="node33" href="$aabox2d_8h.html" title="Defines the AABox2d class. " alt="" coords="1677,452,1855,493"/>
+<area shape="rect" id="node36" href="$line__segment2d_8h.html" title="Define the LineSegment2d class. " alt="" coords="1879,452,2056,493"/>
+<area shape="rect" id="node43" href="$control_2common_2dependency__injector_8h.html" title="modules/control/common\l/dependency_injector.h" alt="" coords="2117,184,2305,225"/>
+</map>

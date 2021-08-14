@@ -1,0 +1,6 @@
+<map id="modules/perception/lidar/lib/interface/base_classifier.h" name="modules/perception/lidar/lib/interface/base_classifier.h">
+<area shape="rect" id="node2" href="$lidar__obstacle__tracking_8h.html" title="modules/perception\l/lidar/app/lidar_obstacle\l_tracking.h" alt="" coords="33,117,211,173"/>
+<area shape="rect" id="node4" href="$fused__classifier_8h.html" title="modules/perception\l/lidar/lib/classifier\l/fused_classifier/fused\l_classifier.h" alt="" coords="236,109,403,180"/>
+<area shape="rect" id="node5" href="$dummy__classifier_8h.html" title="modules/perception\l/lidar/lib/dummy/dummy\l_classifier.h" alt="" coords="427,117,609,173"/>
+<area shape="rect" id="node3" href="$recognition__component_8h.html" title="modules/perception\l/onboard/component/recognition\l_component.h" alt="" coords="5,228,239,284"/>
+</map>

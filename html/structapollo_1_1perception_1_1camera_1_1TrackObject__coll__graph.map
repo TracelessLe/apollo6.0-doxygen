@@ -1,0 +1,4 @@
+<map id="apollo::perception::camera::TrackObject" name="apollo::perception::camera::TrackObject">
+<area shape="rect" id="node2" href="$structapollo_1_1perception_1_1camera_1_1PatchIndicator.html" title="{apollo::perception\l::camera::PatchIndicator\n|+ frame_id\l+ patch_id\l|+ PatchIndicator()\l+ PatchIndicator()\l+ PatchIndicator()\l+ operator==()\l+ to_string()\l}" alt="" coords="5,167,184,333"/>
+<area shape="rect" id="node4" href="$structapollo_1_1perception_1_1base_1_1BBox2D.html" title="{apollo::perception\l::base::BBox2D\&lt; float \&gt;\n|+ xmin\l+ ymin\l+ xmax\l+ ymax\l|+ BBox2D()\l+ BBox2D()\l+ BBox2D()\l+ operator=()\l+ Center()\l+ Area()\l}" alt="" coords="209,145,389,355"/>
+</map>

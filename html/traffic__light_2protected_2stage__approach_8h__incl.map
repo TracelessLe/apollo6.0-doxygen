@@ -1,0 +1,26 @@
+<map id="modules/planning/scenarios/traffic_light/protected/stage_approach.h" name="modules/planning/scenarios/traffic_light/protected/stage_approach.h">
+<area shape="rect" id="node3" href="$stage_8h.html" title="modules/planning/scenarios\l/stage.h" alt="" coords="2850,317,3054,359"/>
+<area shape="rect" id="node49" href="$traffic__light__protected__scenario_8h.html" title="modules/planning/scenarios\l/traffic_light/protected\l/traffic_light_protected\l_scenario.h" alt="" coords="4690,109,4894,180"/>
+<area shape="rect" id="node7" href="$common_2status_2status_8h.html" title="modules/common/status\l/status.h" alt="" coords="762,675,945,716"/>
+<area shape="rect" id="node11" href="$factory_8h.html" title="Defines the Factory class. " alt="" coords="986,771,1150,813"/>
+<area shape="rect" id="node23" href="$planning_2common_2frame_8h.html" title="modules/planning/common\l/frame.h" alt="" coords="2802,585,3001,627"/>
+<area shape="rect" id="node47" href="$modules_2planning_2tasks_2task_8h.html" title="modules/planning/tasks\l/task.h" alt="" coords="2863,407,3041,448"/>
+<area shape="rect" id="node10" href="$future_8h.html" title="modules/common/util\l/future.h" alt="" coords="366,771,530,813"/>
+<area shape="rect" id="node13" href="$cyber_2common_2macros_8h.html" title="cyber/common/macros.h" alt="" coords="513,875,695,902"/>
+<area shape="rect" id="node18" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="936,875,1091,902"/>
+<area shape="rect" id="node17" href="$cyber_2base_2macros_8h.html" title="cyber/base/macros.h" alt="" coords="229,957,387,984"/>
+<area shape="rect" id="node22" href="$binary_8h.html" title="cyber/binary.h" alt="" coords="957,957,1070,984"/>
+<area shape="rect" id="node27" href="$vec2d_8h.html" title="Defines the Vec2d class. " alt="" coords="4413,868,4590,909"/>
+<area shape="rect" id="node28" href="$monitor__log__buffer_8h.html" title="The class of MonitorLogBuffer. " alt="" coords="4345,771,4540,813"/>
+<area shape="rect" id="node32" href="$ego__info_8h.html" title="modules/planning/common\l/ego_info.h" alt="" coords="3054,675,3253,716"/>
+<area shape="rect" id="node33" href="$planning_2common_2obstacle_8h.html" title="modules/planning/common\l/obstacle.h" alt="" coords="3094,771,3293,813"/>
+<area shape="rect" id="node35" href="$indexed__queue_8h.html" title="modules/planning/common\l/indexed_queue.h" alt="" coords="2425,771,2623,813"/>
+<area shape="rect" id="node36" href="$local__view_8h.html" title="modules/planning/common\l/local_view.h" alt="" coords="1793,675,1991,716"/>
+<area shape="rect" id="node39" href="$open__space__info_8h.html" title="modules/planning/common\l/open_space_info.h" alt="" coords="3326,675,3525,716"/>
+<area shape="rect" id="node40" href="$publishable__trajectory_8h.html" title="modules/planning/common\l/trajectory/publishable\l_trajectory.h" alt="" coords="3921,764,4119,820"/>
+<area shape="rect" id="node43" href="$reference__line__info_8h.html" title="modules/planning/common\l/reference_line_info.h" alt="" coords="3649,675,3847,716"/>
+<area shape="rect" id="node46" href="$reference__line__provider_8h.html" title="Declaration of the class ReferenceLineProvider. " alt="" coords="2295,675,2518,716"/>
+<area shape="rect" id="node44" href="$planning__context_8h.html" title="modules/planning/common\l/planning_context.h" alt="" coords="93,771,291,813"/>
+<area shape="rect" id="node48" href="$planning_2common_2dependency__injector_8h.html" title="modules/planning/common\l/dependency_injector.h" alt="" coords="2785,496,2983,537"/>
+<area shape="rect" id="node50" href="$scenario_8h.html" title="modules/planning/scenarios\l/scenario.h" alt="" coords="1083,228,1287,269"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="modules/localization/msf/msf_localization_component.h" name="modules/localization/msf/msf_localization_component.h">
+<area shape="rect" id="node4" href="$class__loader_8h.html" title="cyber/class_loader\l/class_loader.h" alt="" coords="825,452,967,493"/>
+<area shape="rect" id="node14" href="$component_8h.html" title="cyber/component/component.h" alt="" coords="2273,288,2497,315"/>
+<area shape="rect" id="node28" href="$cyber_8h.html" title="cyber/cyber.h" alt="" coords="2781,206,2891,233"/>
+<area shape="rect" id="node33" href="$raw__message_8h.html" title="cyber/message/raw_message.h" alt="" coords="187,556,413,583"/>
+<area shape="rect" id="node36" href="$msf__localization_8h.html" title="The class of MSFLocalization. " alt="" coords="3598,549,3773,590"/>
+<area shape="rect" id="node49" href="$transform__broadcaster_8h.html" title="modules/transform/transform\l_broadcaster.h" alt="" coords="1579,109,1794,151"/>
+<area shape="rect" id="node9" href="$class__loader__register__macro_8h.html" title="cyber/class_loader\l/class_loader_register\l_macro.h" alt="" coords="814,541,978,597"/>
+<area shape="rect" id="node10" href="$class__loader__utility_8h.html" title="cyber/class_loader\l/utility/class_loader\l_utility.h" alt="" coords="981,645,1131,701"/>
+<area shape="rect" id="node13" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="2429,757,2584,783"/>
+<area shape="rect" id="node15" href="$cyber_2base_2macros_8h.html" title="cyber/base/macros.h" alt="" coords="1357,370,1515,397"/>
+<area shape="rect" id="node18" href="$blocker__manager_8h.html" title="cyber/blocker/blocker\l_manager.h" alt="" coords="744,653,907,694"/>
+<area shape="rect" id="node20" href="$global__data_8h.html" title="cyber/common/global\l_data.h" alt="" coords="2544,653,2707,694"/>
+<area shape="rect" id="node21" href="$cyber_2common_2util_8h.html" title="cyber/common/util.h" alt="" coords="2659,757,2815,783"/>
+<area shape="rect" id="node22" href="$cyber_2common_2types_8h.html" title="cyber/common/types.h" alt="" coords="2245,556,2416,583"/>
+<area shape="rect" id="node23" href="$component__base_8h.html" title="cyber/component/component\l_base.h" alt="" coords="1890,363,2102,404"/>
+<area shape="rect" id="node25" href="$scheduler_8h.html" title="cyber/scheduler/scheduler.h" alt="" coords="2027,459,2229,486"/>
+<area shape="rect" id="node26" href="$routine__factory_8h.html" title="cyber/croutine/routine\l_factory.h" alt="" coords="2491,549,2656,590"/>
+<area shape="rect" id="node27" href="$data__visitor_8h.html" title="cyber/data/data_visitor.h" alt="" coords="1561,660,1743,687"/>
+<area shape="rect" id="node24" href="$cyber_2node_2node_8h.html" title="cyber/node/node.h" alt="" coords="2326,660,2469,687"/>
+<area shape="rect" id="node29" href="$init_8h.html" title="cyber/init.h" alt="" coords="2738,370,2833,397"/>
+<area shape="rect" id="node30" href="$cyber_2task_2task_8h.html" title="cyber/task/task.h" alt="" coords="2959,370,3094,397"/>
+<area shape="rect" id="node31" href="$time_8h.html" title="cyber/time/time.h" alt="" coords="3456,288,3595,315"/>
+<area shape="rect" id="node32" href="$cyber_2timer_2timer_8h.html" title="cyber/timer/timer.h" alt="" coords="1991,288,2137,315"/>
+<area shape="rect" id="node35" href="$protobuf__factory_8h.html" title="cyber/message/protobuf\l_factory.h" alt="" coords="286,653,466,694"/>
+<area shape="rect" id="node45" href="$monitor__log__buffer_8h.html" title="The class of MonitorLogBuffer. " alt="" coords="3136,653,3331,694"/>
+<area shape="rect" id="node46" href="$common_2status_2status_8h.html" title="modules/common/status\l/status.h" alt="" coords="3558,749,3741,791"/>
+<area shape="rect" id="node47" href="$localization__integ_8h.html" title="The class of LocalizationInteg. " alt="" coords="4079,645,4284,701"/>
+</map>

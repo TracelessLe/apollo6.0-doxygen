@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classapollo_1_1perception_1_1benchmark_1_1BaseRangeInterface.html" title="apollo::perception\l::benchmark::BaseRangeInterface" alt="" coords="5,133,248,174"/>
+<area shape="rect" id="node2" href="$classapollo_1_1perception_1_1benchmark_1_1BoxBasedRangeInterface.html" title="apollo::perception\l::benchmark::BoxBasedRange\lInterface" alt="" coords="299,5,517,61"/>
+<area shape="rect" id="node3" href="$classapollo_1_1perception_1_1benchmark_1_1DistanceBasedRangeInterface.html" title="apollo::perception\l::benchmark::DistanceBased\lRangeInterface" alt="" coords="304,85,512,141"/>
+<area shape="rect" id="node5" href="$classapollo_1_1perception_1_1benchmark_1_1DistanceBasedRangeRadarInterface.html" title="apollo::perception\l::benchmark::DistanceBased\lRangeRadarInterface" alt="" coords="304,165,512,221"/>
+<area shape="rect" id="node6" href="$classapollo_1_1perception_1_1benchmark_1_1ViewBasedRangeInterface.html" title="apollo::perception\l::benchmark::ViewBasedRange\lInterface" alt="" coords="296,245,520,301"/>
+<area shape="rect" id="node4" href="$classapollo_1_1perception_1_1benchmark_1_1RoiDistanceBasedRangeInterface.html" title="apollo::perception\l::benchmark::RoiDistanceBased\lRangeInterface" alt="" coords="568,85,796,141"/>
+</map>

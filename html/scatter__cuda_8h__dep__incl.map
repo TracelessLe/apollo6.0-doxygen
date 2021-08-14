@@ -1,0 +1,5 @@
+<map id="modules/perception/lidar/lib/detector/point_pillars_detection/scatter_cuda.h" name="modules/perception/lidar/lib/detector/point_pillars_detection/scatter_cuda.h">
+<area shape="rect" id="node2" href="$point__pillars_8h.html" title="Algorithm for PointPillars. " alt="" coords="118,124,293,195"/>
+<area shape="rect" id="node3" href="$mask__pillars__detection_8h.html" title="modules/perception\l/lidar/lib/detector\l/mask_pillars_detection\l/mask_pillars_detection.h" alt="" coords="5,243,195,313"/>
+<area shape="rect" id="node4" href="$point__pillars__detection_8h.html" title="modules/perception\l/lidar/lib/detector\l/point_pillars_detection\l/point_pillars_detection.h" alt="" coords="219,243,405,313"/>
+</map>

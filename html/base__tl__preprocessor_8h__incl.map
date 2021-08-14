@@ -1,0 +1,18 @@
+<map id="modules/perception/camera/lib/interface/base_tl_preprocessor.h" name="modules/perception/camera/lib/interface/base_tl_preprocessor.h">
+<area shape="rect" id="node5" href="$cyber_2common_2macros_8h.html" title="cyber/common/macros.h" alt="" coords="1765,221,1947,247"/>
+<area shape="rect" id="node14" href="$registerer_8h.html" title="modules/perception\l/lib/registerer/registerer.h" alt="" coords="171,213,357,255"/>
+<area shape="rect" id="node20" href="$camera_2lib_2interface_2base__init__options_8h.html" title="modules/perception\l/camera/lib/interface\l/base_init_options.h" alt="" coords="109,109,267,165"/>
+<area shape="rect" id="node21" href="$pose_8h.html" title="modules/perception\l/camera/lib/traffic\l_light/preprocessor/pose.h" alt="" coords="501,109,694,165"/>
+<area shape="rect" id="node40" href="$perception_2base_2traffic__light_8h.html" title="modules/perception\l/base/traffic_light.h" alt="" coords="1334,213,1485,255"/>
+<area shape="rect" id="node11" href="$cyber_2base_2macros_8h.html" title="cyber/base/macros.h" alt="" coords="2031,310,2188,337"/>
+<area shape="rect" id="node15" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="260,489,415,515"/>
+<area shape="rect" id="node19" href="$binary_8h.html" title="cyber/binary.h" alt="" coords="246,571,359,597"/>
+<area shape="rect" id="node23" href="$eigen__defs_8h.html" title="modules/common/util\l/eigen_defs.h" alt="" coords="534,213,698,255"/>
+<area shape="rect" id="node26" href="$image__8u_8h.html" title="modules/perception\l/base/image_8u.h" alt="" coords="905,213,1055,255"/>
+<area shape="rect" id="node27" href="$blob_8h.html" title="modules/perception\l/base/blob.h" alt="" coords="905,303,1055,344"/>
+<area shape="rect" id="node33" href="$box_8h.html" title="modules/perception\l/base/box.h" alt="" coords="1334,303,1485,344"/>
+<area shape="rect" id="node30" href="$syncedmem_8h.html" title="modules/perception\l/base/syncedmem.h" alt="" coords="297,392,450,433"/>
+<area shape="rect" id="node31" href="$perception_2base_2common_8h.html" title="modules/perception\l/base/common.h" alt="" coords="610,481,761,523"/>
+<area shape="rect" id="node36" href="$comparison__traits_8h.html" title="modules/perception\l/base/comparison_traits.h" alt="" coords="1785,392,1975,433"/>
+<area shape="rect" id="node39" href="$point_8h.html" title="modules/perception\l/base/point.h" alt="" coords="1507,392,1658,433"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="apollo::drivers::velodyne::VelodyneDriverComponent" name="apollo::drivers::velodyne::VelodyneDriverComponent">
+<area shape="rect" id="node2" href="$classapollo_1_1cyber_1_1Component.html" title="The Component can process up to four channels of messages. The message type is specified when the com..." alt="" coords="17,447,227,568"/>
+<area shape="rect" id="node3" href="$classapollo_1_1cyber_1_1ComponentBase.html" title="{apollo::cyber::ComponentBase\n|# is_shutdown_\l# node_\l# config_file_path_\l# readers_\l|+ ~ComponentBase()\l+ Initialize()\l+ Initialize()\l+ Shutdown()\l+ GetProtoConfig()\l# Init()\l# Clear()\l# ConfigFilePath()\l# LoadConfigFiles()\l# LoadConfigFiles()\l}" alt="" coords="11,145,233,399"/>
+</map>

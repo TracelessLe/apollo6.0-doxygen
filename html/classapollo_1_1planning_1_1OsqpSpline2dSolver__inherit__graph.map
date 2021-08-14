@@ -1,0 +1,3 @@
+<map id="apollo::planning::OsqpSpline2dSolver" name="apollo::planning::OsqpSpline2dSolver">
+<area shape="rect" id="node2" href="$classapollo_1_1planning_1_1Spline2dSolver.html" title="{apollo::planning::Spline2d\lSolver\n|# spline_\l# kernel_\l# constraint_\l|+ Spline2dSolver()\l+ ~Spline2dSolver()\l+ Reset()\l+ mutable_constraint()\l+ mutable_kernel()\l+ mutable_spline()\l+ Solve()\l+ spline()\l}" alt="" coords="21,5,212,229"/>
+</map>

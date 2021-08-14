@@ -1,0 +1,6 @@
+<map id="modules/perception/camera/lib/traffic_light/preprocessor/pose.h" name="modules/perception/camera/lib/traffic_light/preprocessor/pose.h">
+<area shape="rect" id="node2" href="$base__tl__preprocessor_8h.html" title="modules/perception\l/camera/lib/interface\l/base_tl_preprocessor.h" alt="" coords="5,117,180,173"/>
+<area shape="rect" id="node3" href="$tl__preprocessor_8h.html" title="modules/perception\l/camera/lib/traffic\l_light/preprocessor/tl\l_preprocessor.h" alt="" coords="139,228,297,299"/>
+<area shape="rect" id="node5" href="$multi__camera__projection_8h.html" title="modules/perception\l/camera/lib/traffic\l_light/preprocessor/multi\l_camera_projection.h" alt="" coords="255,109,439,180"/>
+<area shape="rect" id="node4" href="$trafficlights__perception__component_8h.html" title="modules/perception\l/onboard/component/trafficlights\l_perception_component.h" alt="" coords="101,347,335,403"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="apollo::localization::msf::LosslessMapCell" name="apollo::localization::msf::LosslessMapCell">
+<area shape="rect" id="node2" href="$structapollo_1_1localization_1_1msf_1_1LosslessMapSingleCell.html" title="{apollo::localization\l::msf::LosslessMapSingleCell\n|+ intensity\l+ intensity_var\l+ altitude\l+ altitude_var\l+ count\l|+ LosslessMapSingleCell()\l+ Reset()\l+ AddSample()\l+ operator=()\l+ LoadBinary()\l+ CreateBinary()\l+ GetBinarySize()\l}" alt="" coords="5,5,216,244"/>
+</map>

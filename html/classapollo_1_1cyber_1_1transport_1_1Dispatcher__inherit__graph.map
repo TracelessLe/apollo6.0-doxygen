@@ -1,0 +1,5 @@
+<map id="apollo::cyber::transport::Dispatcher" name="apollo::cyber::transport::Dispatcher">
+<area shape="rect" id="node2" href="$classapollo_1_1cyber_1_1transport_1_1IntraDispatcher.html" title="{apollo::cyber::transport\l::IntraDispatcher\n||+ ~IntraDispatcher()\l+ OnMessage()\l+ AddListener()\l+ AddListener()\l+ RemoveListener()\l+ RemoveListener()\l}" alt="" coords="5,277,179,443"/>
+<area shape="rect" id="node3" href="$classapollo_1_1cyber_1_1transport_1_1RtpsDispatcher.html" title="{apollo::cyber::transport\l::RtpsDispatcher\n||+ ~RtpsDispatcher()\l+ Shutdown()\l+ AddListener()\l+ AddListener()\l+ set_participant()\l}" alt="" coords="203,285,376,435"/>
+<area shape="rect" id="node4" href="$classapollo_1_1cyber_1_1transport_1_1ShmDispatcher.html" title="{apollo::cyber::transport\l::ShmDispatcher\n||+ ~ShmDispatcher()\l+ Shutdown()\l+ AddListener()\l+ AddListener()\l}" alt="" coords="400,292,573,428"/>
+</map>

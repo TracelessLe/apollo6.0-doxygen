@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classapollo_1_1perception_1_1camera_1_1BaseObstacleTracker.html" title="apollo::perception\l::camera::BaseObstacleTracker" alt="" coords="5,39,228,80"/>
+<area shape="rect" id="node2" href="$classapollo_1_1perception_1_1camera_1_1DummyObstacleTracker.html" title="apollo::perception\l::camera::DummyObstacleTracker" alt="" coords="276,5,519,47"/>
+<area shape="rect" id="node3" href="$classapollo_1_1perception_1_1camera_1_1OMTObstacleTracker.html" title="apollo::perception\l::camera::OMTObstacleTracker" alt="" coords="287,71,507,112"/>
+</map>

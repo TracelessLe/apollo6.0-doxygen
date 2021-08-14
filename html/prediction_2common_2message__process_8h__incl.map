@@ -1,0 +1,25 @@
+<map id="modules/prediction/common/message_process.h" name="modules/prediction/common/message_process.h">
+<area shape="rect" id="node7" href="$container__manager_8h.html" title="Use container manager to manage all containers. " alt="" coords="388,496,540,552"/>
+<area shape="rect" id="node21" href="$prediction_2evaluator_2evaluator__manager_8h.html" title="Use evaluator manager to manage all evaluators. " alt="" coords="2431,95,2585,151"/>
+<area shape="rect" id="node40" href="$predictor__manager_8h.html" title="Use predictor manager to manage all predictors. " alt="" coords="2965,95,3112,151"/>
+<area shape="rect" id="node43" href="$prediction_2scenario_2scenario__manager_8h.html" title="modules/prediction\l/scenario/scenario_manager.h" alt="" coords="1952,199,2168,240"/>
+<area shape="rect" id="node9" href="$cyber_2common_2macros_8h.html" title="cyber/common/macros.h" alt="" coords="1297,615,1479,641"/>
+<area shape="rect" id="node19" href="$container_8h.html" title="Define the data container base class. " alt="" coords="653,607,816,649"/>
+<area shape="rect" id="node14" href="$cyber_2base_2macros_8h.html" title="cyber/base/macros.h" alt="" coords="1313,711,1471,738"/>
+<area shape="rect" id="node25" href="$semantic__map_8h.html" title="modules/prediction\l/common/semantic_map.h" alt="" coords="1424,503,1619,545"/>
+<area shape="rect" id="node29" href="$prediction_2evaluator_2evaluator_8h.html" title="Define the data container base class. " alt="" coords="2679,199,2844,240"/>
+<area shape="rect" id="node30" href="$prediction_2container_2obstacles_2obstacle_8h.html" title="Obstacle. " alt="" coords="3019,496,3173,552"/>
+<area shape="rect" id="node37" href="$obstacles__container_8h.html" title="Obstacles container. " alt="" coords="2894,288,3061,344"/>
+<area shape="rect" id="node33" href="$junction__analyzer_8h.html" title="modules/prediction\l/common/junction_analyzer.h" alt="" coords="2731,607,2944,649"/>
+<area shape="rect" id="node34" href="$obstacle__clusters_8h.html" title="modules/prediction\l/container/obstacles\l/obstacle_clusters.h" alt="" coords="3019,600,3173,656"/>
+<area shape="rect" id="node38" href="$lru__cache_8h.html" title="modules/common/util\l/lru_cache.h" alt="" coords="3437,607,3601,649"/>
+<area shape="rect" id="node39" href="$submodule__output_8h.html" title="Output information of prediction container submodule. " alt="" coords="3217,392,3399,448"/>
+<area shape="rect" id="node41" href="$predictor_8h.html" title="Define the predictor base class. " alt="" coords="3019,199,3176,240"/>
+<area shape="rect" id="node42" href="$adc__trajectory__container_8h.html" title="ADC trajectory container. " alt="" coords="1970,496,2169,552"/>
+<area shape="rect" id="node44" href="$scenario__analyzer_8h.html" title="modules/prediction\l/scenario/analyzer/scenario\l_analyzer.h" alt="" coords="1741,392,1941,448"/>
+<area shape="rect" id="node47" href="$feature__extractor_8h.html" title="modules/prediction\l/scenario/feature_extractor\l/feature_extractor.h" alt="" coords="1143,392,1342,448"/>
+<area shape="rect" id="node49" href="$cruise__scenario__features_8h.html" title="modules/prediction\l/scenario/scenario_features\l/cruise_scenario_features.h" alt="" coords="1966,392,2167,448"/>
+<area shape="rect" id="node45" href="$environment__features_8h.html" title="modules/prediction\l/common/environment\l_features.h" alt="" coords="2293,496,2464,552"/>
+<area shape="rect" id="node46" href="$scenario__features_8h.html" title="modules/prediction\l/scenario/scenario_features\l/scenario_features.h" alt="" coords="1694,496,1895,552"/>
+<area shape="rect" id="node48" href="$pose__container_8h.html" title="Obstacles container. " alt="" coords="709,496,867,552"/>
+</map>

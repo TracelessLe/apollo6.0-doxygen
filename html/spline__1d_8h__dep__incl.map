@@ -1,0 +1,6 @@
+<map id="modules/planning/math/smoothing_spline/spline_1d.h" name="modules/planning/math/smoothing_spline/spline_1d.h">
+<area shape="rect" id="node2" href="$spline__1d__solver_8h.html" title="modules/planning/math\l/smoothing_spline/spline\l_1d_solver.h" alt="" coords="26,199,210,255"/>
+<area shape="rect" id="node4" href="$spline__1d__constraint_8h.html" title=": wrapp up solver constraint interface with direct methods and preset methods " alt="" coords="26,95,210,151"/>
+<area shape="rect" id="node5" href="$spline__1d__kernel_8h.html" title=": wrap up solver constraint interface with direct methods and preset methods " alt="" coords="234,95,418,151"/>
+<area shape="rect" id="node3" href="$osqp__spline__1d__solver_8h.html" title="modules/planning/math\l/smoothing_spline/osqp\l_spline_1d_solver.h" alt="" coords="30,303,206,359"/>
+</map>

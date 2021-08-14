@@ -1,0 +1,23 @@
+<map id="modules/localization/msf/local_map/base_map/base_map_fwd.h" name="modules/localization/msf/local_map/base_map/base_map_fwd.h">
+<area shape="rect" id="node2" href="$local__map_2base__map_2base__map__config_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map_config.h" alt="" coords="878,109,1071,165"/>
+<area shape="rect" id="node3" href="$local__map_2base__map_2base__map_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map.h" alt="" coords="789,421,982,477"/>
+<area shape="rect" id="node7" href="$local__map_2base__map_2base__map__node_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map_node.h" alt="" coords="609,317,802,373"/>
+<area shape="rect" id="node16" href="$local__map_2base__map_2base__map__node__index_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map_node_index.h" alt="" coords="1063,213,1257,269"/>
+<area shape="rect" id="node21" href="$local__map_2base__map_2base__map__pool_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map_pool.h" alt="" coords="1598,317,1791,373"/>
+<area shape="rect" id="node22" href="$local__map_2base__map_2base__map__matrix_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map_matrix.h" alt="" coords="270,213,463,269"/>
+<area shape="rect" id="node10" href="$lossless__map__pool_8h.html" title="modules/localization\l/msf/local_map/lossless\l_map/lossless_map_pool.h" alt="" coords="1336,629,1533,685"/>
+<area shape="rect" id="node13" href="$lossy__map__pool__2d_8h.html" title="modules/localization\l/msf/local_map/lossy\l_map/lossy_map_pool_2d.h" alt="" coords="1557,629,1760,685"/>
+<area shape="rect" id="node17" href="$lossless__map__config_8h.html" title="modules/localization\l/msf/local_map/lossless\l_map/lossless_map_config.h" alt="" coords="5,213,213,269"/>
+<area shape="rect" id="node18" href="$lossy__map__config__2d_8h.html" title="modules/localization\l/msf/local_map/lossy\l_map/lossy_map_config_2d.h" alt="" coords="488,213,701,269"/>
+<area shape="rect" id="node19" href="$local__map_2ndt__map_2ndt__map__config_8h.html" title="modules/localization\l/msf/local_map/ndt_map\l/ndt_map_config.h" alt="" coords="1187,317,1370,373"/>
+<area shape="rect" id="node20" href="$local__map_2ndt__map_2ndt__map__matrix_8h.html" title="modules/localization\l/msf/local_map/ndt_map\l/ndt_map_matrix.h" alt="" coords="929,317,1111,373"/>
+<area shape="rect" id="node4" href="$lossless__map_8h.html" title="modules/localization\l/msf/local_map/lossless\l_map/lossless_map.h" alt="" coords="637,525,816,581"/>
+<area shape="rect" id="node5" href="$lossy__map__2d_8h.html" title="modules/localization\l/msf/local_map/lossy\l_map/lossy_map_2d.h" alt="" coords="841,525,1007,581"/>
+<area shape="rect" id="node6" href="$local__map_2ndt__map_2ndt__map_8h.html" title="modules/localization\l/msf/local_map/ndt_map\l/ndt_map.h" alt="" coords="1031,525,1214,581"/>
+<area shape="rect" id="node8" href="$lossless__map__matrix_8h.html" title="modules/localization\l/msf/local_map/lossless\l_map/lossless_map_matrix.h" alt="" coords="114,421,326,477"/>
+<area shape="rect" id="node9" href="$lossless__map__node_8h.html" title="modules/localization\l/msf/local_map/lossless\l_map/lossless_map_node.h" alt="" coords="129,525,330,581"/>
+<area shape="rect" id="node11" href="$lossy__map__matrix__2d_8h.html" title="modules/localization\l/msf/local_map/lossy\l_map/lossy_map_matrix_2d.h" alt="" coords="401,421,618,477"/>
+<area shape="rect" id="node12" href="$lossy__map__node__2d_8h.html" title="modules/localization\l/msf/local_map/lossy\l_map/lossy_map_node_2d.h" alt="" coords="406,525,613,581"/>
+<area shape="rect" id="node14" href="$local__map_2ndt__map_2ndt__map__node_8h.html" title="modules/localization\l/msf/local_map/ndt_map\l/ndt_map_node.h" alt="" coords="1058,421,1241,477"/>
+<area shape="rect" id="node15" href="$local__map_2ndt__map_2ndt__map__pool_8h.html" title="modules/localization\l/msf/local_map/ndt_map\l/ndt_map_pool.h" alt="" coords="1238,525,1421,581"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classapollo_1_1drivers_1_1lidar_1_1LidarDriver.html" title="The class which defines the lidar driver . " alt="" coords="5,71,157,112"/>
+<area shape="rect" id="node2" href="$classapollo_1_1drivers_1_1hesai_1_1HesaiDriver.html" title="apollo::drivers::hesai\l::HesaiDriver" alt="" coords="221,5,380,47"/>
+<area shape="rect" id="node3" href="$classapollo_1_1drivers_1_1robosense_1_1RobosenseDriver.html" title="apollo::drivers::robosense\l::RobosenseDriver" alt="" coords="205,71,396,112"/>
+<area shape="rect" id="node4" href="$classapollo_1_1drivers_1_1velodyne_1_1VelodyneDriver.html" title="apollo::drivers::velodyne\l::VelodyneDriver" alt="" coords="209,136,392,177"/>
+<area shape="rect" id="node5" href="$classapollo_1_1drivers_1_1velodyne_1_1Velodyne64Driver.html" title="apollo::drivers::velodyne\l::Velodyne64Driver" alt="" coords="444,136,627,177"/>
+</map>

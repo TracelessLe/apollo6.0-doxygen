@@ -1,0 +1,9 @@
+<map id="modules/map/hdmap/adapter/proto_organizer.h" name="modules/map/hdmap/adapter/proto_organizer.h">
+<area shape="rect" id="node6" href="$modules_2common_2util_2util_8h.html" title="Some util functions. " alt="" coords="691,95,855,136"/>
+<area shape="rect" id="node24" href="$common__define_8h.html" title="modules/map/hdmap/adapter\l/xml_parser/common_define.h" alt="" coords="1728,95,1947,136"/>
+<area shape="rect" id="node11" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="1575,191,1729,218"/>
+<area shape="rect" id="node16" href="$cyber_2common_2types_8h.html" title="cyber/common/types.h" alt="" coords="763,191,933,218"/>
+<area shape="rect" id="node18" href="$config__gflags_8h.html" title="modules/common/configs\l/config_gflags.h" alt="" coords="957,184,1147,225"/>
+<area shape="rect" id="node20" href="$vec2d_8h.html" title="Defines the Vec2d class. " alt="" coords="1171,184,1349,225"/>
+<area shape="rect" id="node15" href="$binary_8h.html" title="cyber/binary.h" alt="" coords="1734,273,1847,300"/>
+</map>

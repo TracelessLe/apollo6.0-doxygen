@@ -1,0 +1,36 @@
+<map id="modules/perception/onboard/component/detection_component.h" name="modules/perception/onboard/component/detection_component.h">
+<area shape="rect" id="node5" href="$cyber_8h.html" title="cyber/cyber.h" alt="" coords="3563,339,3672,366"/>
+<area shape="rect" id="node30" href="$lidar__obstacle__detection_8h.html" title="modules/perception\l/lidar/app/lidar_obstacle\l_detection.h" alt="" coords="627,421,805,477"/>
+<area shape="rect" id="node33" href="$lidar__frame_8h.html" title="modules/perception\l/lidar/common/lidar\l_frame.h" alt="" coords="757,644,907,700"/>
+<area shape="rect" id="node43" href="$lidar__inner__component__messages_8h.html" title="modules/perception\l/onboard/component/lidar\l_inner_component_messages.h" alt="" coords="3433,109,3660,165"/>
+<area shape="rect" id="node47" href="$transform__wrapper_8h.html" title="modules/perception\l/onboard/transform_wrapper\l/transform_wrapper.h" alt="" coords="1810,644,2017,700"/>
+<area shape="rect" id="node7" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="3195,941,3349,968"/>
+<area shape="rect" id="node12" href="$component_8h.html" title="cyber/component/component.h" alt="" coords="3079,436,3303,463"/>
+<area shape="rect" id="node21" href="$cyber_2node_2node_8h.html" title="cyber/node/node.h" alt="" coords="3462,852,3605,879"/>
+<area shape="rect" id="node25" href="$init_8h.html" title="cyber/init.h" alt="" coords="3655,436,3750,463"/>
+<area shape="rect" id="node26" href="$cyber_2task_2task_8h.html" title="cyber/task/task.h" alt="" coords="3774,436,3909,463"/>
+<area shape="rect" id="node27" href="$time_8h.html" title="cyber/time/time.h" alt="" coords="4035,436,4173,463"/>
+<area shape="rect" id="node28" href="$cyber_2timer_2timer_8h.html" title="cyber/timer/timer.h" alt="" coords="2457,659,2604,685"/>
+<area shape="rect" id="node11" href="$binary_8h.html" title="cyber/binary.h" alt="" coords="2966,1023,3079,1050"/>
+<area shape="rect" id="node14" href="$cyber_2base_2macros_8h.html" title="cyber/base/macros.h" alt="" coords="2945,547,3103,574"/>
+<area shape="rect" id="node15" href="$blocker__manager_8h.html" title="cyber/blocker/blocker\l_manager.h" alt="" coords="2835,845,2997,886"/>
+<area shape="rect" id="node16" href="$global__data_8h.html" title="cyber/common/global\l_data.h" alt="" coords="3275,845,3437,886"/>
+<area shape="rect" id="node17" href="$cyber_2common_2util_8h.html" title="cyber/common/util.h" alt="" coords="3014,941,3170,968"/>
+<area shape="rect" id="node18" href="$cyber_2common_2types_8h.html" title="cyber/common/types.h" alt="" coords="3068,755,3239,782"/>
+<area shape="rect" id="node19" href="$component__base_8h.html" title="cyber/component/component\l_base.h" alt="" coords="2659,540,2871,581"/>
+<area shape="rect" id="node22" href="$scheduler_8h.html" title="cyber/scheduler/scheduler.h" alt="" coords="2932,659,3135,685"/>
+<area shape="rect" id="node23" href="$routine__factory_8h.html" title="cyber/croutine/routine\l_factory.h" alt="" coords="3313,748,3479,789"/>
+<area shape="rect" id="node24" href="$data__visitor_8h.html" title="cyber/data/data_visitor.h" alt="" coords="2577,852,2759,879"/>
+<area shape="rect" id="node31" href="$base__lidar__obstacle__detection_8h.html" title="modules/perception\l/lidar/lib/interface\l/base_lidar_obstacle\l_detection.h" alt="" coords="827,525,981,596"/>
+<area shape="rect" id="node38" href="$base__pointcloud__preprocessor_8h.html" title="modules/perception\l/lidar/lib/interface\l/base_pointcloud_preprocessor.h" alt="" coords="1056,533,1291,589"/>
+<area shape="rect" id="node39" href="$base__lidar__detector_8h.html" title="modules/perception\l/lidar/lib/interface\l/base_lidar_detector.h" alt="" coords="245,533,411,589"/>
+<area shape="rect" id="node40" href="$map__manager_8h.html" title="modules/perception\l/lidar/lib/map_manager\l/map_manager.h" alt="" coords="629,533,803,589"/>
+<area shape="rect" id="node41" href="$object__builder_8h.html" title="modules/perception\l/lidar/lib/object_builder\l/object_builder.h" alt="" coords="435,533,605,589"/>
+<area shape="rect" id="node42" href="$object__filter__bank_8h.html" title="modules/perception\l/lidar/lib/object_filter\l_bank/object_filter_bank.h" alt="" coords="195,837,389,893"/>
+<area shape="rect" id="node34" href="$hdmap__struct_8h.html" title="modules/perception\l/base/hdmap_struct.h" alt="" coords="1085,748,1248,789"/>
+<area shape="rect" id="node35" href="$point__cloud_8h.html" title="modules/perception\l/base/point_cloud.h" alt="" coords="967,845,1118,886"/>
+<area shape="rect" id="node36" href="$object__pool__types_8h.html" title="modules/perception\l/base/object_pool_types.h" alt="" coords="870,748,1061,789"/>
+<area shape="rect" id="node37" href="$sensor__meta_8h.html" title="modules/perception\l/base/sensor_meta.h" alt="" coords="1075,1016,1232,1057"/>
+<area shape="rect" id="node44" href="$inner__component__messages_8h.html" title="modules/perception\l/onboard/inner_component\l_messages/inner_component\l_messages.h" alt="" coords="3583,213,3795,284"/>
+<area shape="rect" id="node50" href="$buffer_8h.html" title="modules/transform/buffer.h" alt="" coords="1830,755,2029,782"/>
+</map>

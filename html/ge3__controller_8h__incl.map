@@ -1,0 +1,22 @@
+<map id="modules/canbus/vehicle/ge3/ge3_controller.h" name="modules/canbus/vehicle/ge3/ge3_controller.h">
+<area shape="rect" id="node7" href="$pc__bcm__201_8h.html" title="modules/canbus/vehicle\l/ge3/protocol/pc_bcm_201.h" alt="" coords="228,95,432,136"/>
+<area shape="rect" id="node20" href="$pc__bcs__202_8h.html" title="modules/canbus/vehicle\l/ge3/protocol/pc_bcs_202.h" alt="" coords="456,95,655,136"/>
+<area shape="rect" id="node21" href="$pc__epb__203_8h.html" title="modules/canbus/vehicle\l/ge3/protocol/pc_epb_203.h" alt="" coords="678,95,878,136"/>
+<area shape="rect" id="node22" href="$pc__eps__204_8h.html" title="modules/canbus/vehicle\l/ge3/protocol/pc_eps_204.h" alt="" coords="1105,95,1304,136"/>
+<area shape="rect" id="node23" href="$pc__vcu__205_8h.html" title="modules/canbus/vehicle\l/ge3/protocol/pc_vcu_205.h" alt="" coords="5,95,204,136"/>
+<area shape="rect" id="node24" href="$vehicle__controller_8h.html" title="The class of VehicleController. " alt="" coords="1429,95,1607,136"/>
+<area shape="rect" id="node9" href="$protocol__data_8h.html" title="The class of ProtocolData. " alt="" coords="63,273,266,315"/>
+<area shape="rect" id="node12" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="1922,370,2077,397"/>
+<area shape="rect" id="node18" href="$canbus__consts_8h.html" title="modules/drivers/canbus\l/common/canbus_consts.h" alt="" coords="487,363,682,404"/>
+<area shape="rect" id="node17" href="$binary_8h.html" title="cyber/binary.h" alt="" coords="2144,452,2257,479"/>
+<area shape="rect" id="node27" href="$vehicle__config__helper_8h.html" title="modules/common/configs\l/vehicle_config_helper.h" alt="" coords="1269,184,1458,225"/>
+<area shape="rect" id="node41" href="$can__sender_8h.html" title="Defines SenderMessage class and CanSender class. " alt="" coords="1491,184,1678,225"/>
+<area shape="rect" id="node48" href="$message__manager_8h.html" title="The class of MessageManager. " alt="" coords="2285,184,2521,225"/>
+<area shape="rect" id="node30" href="$cyber_2common_2macros_8h.html" title="cyber/common/macros.h" alt="" coords="959,281,1141,307"/>
+<area shape="rect" id="node36" href="$box2d_8h.html" title="The class of Box2d. Here, the x/y axes are respectively Forward/Left, as opposed to what happens in e..." alt="" coords="757,273,935,315"/>
+<area shape="rect" id="node35" href="$cyber_2base_2macros_8h.html" title="cyber/base/macros.h" alt="" coords="1095,370,1253,397"/>
+<area shape="rect" id="node39" href="$aabox2d_8h.html" title="Defines the AABox2d class. " alt="" coords="757,363,935,404"/>
+<area shape="rect" id="node45" href="$time_8h.html" title="cyber/time/time.h" alt="" coords="1622,281,1761,307"/>
+<area shape="rect" id="node46" href="$can__client_8h.html" title="Defines the CanFrame struct and CanClient interface. " alt="" coords="1887,273,2064,315"/>
+<area shape="rect" id="node47" href="$byte_8h.html" title="Defines the Byte class. " alt="" coords="2315,363,2492,404"/>
+</map>

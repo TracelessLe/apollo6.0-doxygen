@@ -1,0 +1,7 @@
+<map id="apollo::perception::lidar::BaseLidarDetector" name="apollo::perception::lidar::BaseLidarDetector">
+<area shape="rect" id="node2" href="$classapollo_1_1perception_1_1lidar_1_1CNNSegmentation.html" title="{apollo::perception\l::lidar::CNNSegmentation\n||+ CNNSegmentation()\l+ ~CNNSegmentation()\l+ Init()\l+ Detect()\l+ Name()\l}" alt="" coords="5,211,192,362"/>
+<area shape="rect" id="node3" href="$classapollo_1_1perception_1_1lidar_1_1DummySegmentation.html" title="{apollo::perception\l::lidar::DummySegmentation\n||+ DummySegmentation()\l+ ~DummySegmentation()\l+ Init()\l+ Detect()\l+ Name()\l}" alt="" coords="216,211,427,362"/>
+<area shape="rect" id="node4" href="$classapollo_1_1perception_1_1lidar_1_1MaskPillarsDetection.html" title="{apollo::perception\l::lidar::MaskPillarsDetection\n||+ MaskPillarsDetection()\l+ ~MaskPillarsDetection()\l+ Init()\l+ Detect()\l+ Name()\l}" alt="" coords="451,211,655,362"/>
+<area shape="rect" id="node5" href="$classapollo_1_1perception_1_1lidar_1_1NCutSegmentation.html" title="{apollo::perception\l::lidar::NCutSegmentation\n||+ NCutSegmentation()\l+ ~NCutSegmentation()\l+ Init()\l+ Detect()\l+ Name()\l+ ByPassROIService()\l}" alt="" coords="679,204,870,369"/>
+<area shape="rect" id="node6" href="$classapollo_1_1perception_1_1lidar_1_1PointPillarsDetection.html" title="{apollo::perception\l::lidar::PointPillarsDetection\n||+ PointPillarsDetection()\l+ ~PointPillarsDetection()\l+ Init()\l+ Detect()\l+ Name()\l}" alt="" coords="895,211,1097,362"/>
+</map>

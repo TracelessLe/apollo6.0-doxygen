@@ -1,0 +1,9 @@
+<map id="modules/perception/inference/onnx/onnx_obstacle_detector.h" name="modules/perception/inference/onnx/onnx_obstacle_detector.h">
+<area shape="rect" id="node11" href="$perception__gflags_8h.html" title="modules/perception\l/common/perception_gflags.h" alt="" coords="1302,109,1517,151"/>
+<area shape="rect" id="node13" href="$inference_8h.html" title="modules/perception\l/inference/inference.h" alt="" coords="567,109,731,151"/>
+<area shape="rect" id="node15" href="$blob_8h.html" title="modules/perception\l/base/blob.h" alt="" coords="518,199,669,240"/>
+<area shape="rect" id="node18" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="557,385,712,411"/>
+<area shape="rect" id="node23" href="$syncedmem_8h.html" title="modules/perception\l/base/syncedmem.h" alt="" coords="313,288,466,329"/>
+<area shape="rect" id="node22" href="$binary_8h.html" title="cyber/binary.h" alt="" coords="439,467,553,493"/>
+<area shape="rect" id="node24" href="$perception_2base_2common_8h.html" title="modules/perception\l/base/common.h" alt="" coords="269,377,419,419"/>
+</map>

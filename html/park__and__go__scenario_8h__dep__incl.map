@@ -1,0 +1,6 @@
+<map id="modules/planning/scenarios/park_and_go/park_and_go_scenario.h" name="modules/planning/scenarios/park_and_go/park_and_go_scenario.h">
+<area shape="rect" id="node2" href="$stage__adjust_8h.html" title="modules/planning/scenarios\l/park_and_go/stage_adjust.h" alt="" coords="5,109,213,151"/>
+<area shape="rect" id="node3" href="$stage__check_8h.html" title="modules/planning/scenarios\l/park_and_go/stage_check.h" alt="" coords="238,109,445,151"/>
+<area shape="rect" id="node4" href="$stage__cruise_8h.html" title="modules/planning/scenarios\l/park_and_go/stage_cruise.h" alt="" coords="469,109,675,151"/>
+<area shape="rect" id="node5" href="$stage__pre__cruise_8h.html" title="modules/planning/scenarios\l/park_and_go/stage_pre_cruise.h" alt="" coords="700,109,935,151"/>
+</map>

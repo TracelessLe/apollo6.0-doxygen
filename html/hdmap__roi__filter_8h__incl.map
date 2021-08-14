@@ -1,0 +1,28 @@
+<map id="modules/perception/lidar/lib/roi_filter/hdmap_roi_filter/hdmap_roi_filter.h" name="modules/perception/lidar/lib/roi_filter/hdmap_roi_filter/hdmap_roi_filter.h">
+<area shape="rect" id="node4" href="$eigen__defs_8h.html" title="modules/common/util\l/eigen_defs.h" alt="" coords="115,823,279,864"/>
+<area shape="rect" id="node9" href="$point__cloud_8h.html" title="modules/perception\l/base/point_cloud.h" alt="" coords="350,726,500,767"/>
+<area shape="rect" id="node14" href="$lidar_2lib_2interface_2base__roi__filter_8h.html" title="modules/perception\l/lidar/lib/interface\l/base_roi_filter.h" alt="" coords="2491,124,2642,180"/>
+<area shape="rect" id="node47" href="$bitmap2d_8h.html" title="modules/perception\l/lidar/lib/roi_filter\l/hdmap_roi_filter/bitmap2d.h" alt="" coords="1634,511,1845,567"/>
+<area shape="rect" id="node49" href="$roi__service_8h.html" title="modules/perception\l/lidar/lib/scene_manager\l/roi_service/roi_service.h" alt="" coords="2440,511,2624,567"/>
+<area shape="rect" id="node13" href="$point_8h.html" title="modules/perception\l/base/point.h" alt="" coords="760,823,911,864"/>
+<area shape="rect" id="node15" href="$cyber_2common_2macros_8h.html" title="cyber/common/macros.h" alt="" coords="2687,733,2870,760"/>
+<area shape="rect" id="node22" href="$registerer_8h.html" title="modules/perception\l/lib/registerer/registerer.h" alt="" coords="2425,726,2612,767"/>
+<area shape="rect" id="node28" href="$lidar__frame_8h.html" title="modules/perception\l/lidar/common/lidar\l_frame.h" alt="" coords="1124,228,1275,284"/>
+<area shape="rect" id="node19" href="$cyber_2base_2macros_8h.html" title="cyber/base/macros.h" alt="" coords="3285,830,3442,857"/>
+<area shape="rect" id="node23" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="3005,830,3160,857"/>
+<area shape="rect" id="node27" href="$binary_8h.html" title="cyber/binary.h" alt="" coords="2643,912,2756,939"/>
+<area shape="rect" id="node29" href="$hdmap__struct_8h.html" title="modules/perception\l/base/hdmap_struct.h" alt="" coords="165,622,328,663"/>
+<area shape="rect" id="node30" href="$object__pool__types_8h.html" title="modules/perception\l/base/object_pool_types.h" alt="" coords="1104,332,1295,373"/>
+<area shape="rect" id="node46" href="$sensor__meta_8h.html" title="modules/perception\l/base/sensor_meta.h" alt="" coords="2648,518,2805,559"/>
+<area shape="rect" id="node31" href="$modules_2perception_2base_2concurrent__object__pool_8h.html" title="modules/perception\l/base/concurrent_object\l_pool.h" alt="" coords="2223,719,2400,775"/>
+<area shape="rect" id="node36" href="$perception_2base_2frame_8h.html" title="modules/perception\l/base/frame.h" alt="" coords="1263,421,1414,463"/>
+<area shape="rect" id="node40" href="$base_2object_8h.html" title="modules/perception\l/base/object.h" alt="" coords="1050,518,1200,559"/>
+<area shape="rect" id="node35" href="$modules_2perception_2base_2object__pool_8h.html" title="modules/perception\l/base/object_pool.h" alt="" coords="2318,823,2468,864"/>
+<area shape="rect" id="node37" href="$frame__supplement_8h.html" title="modules/perception\l/base/frame_supplement.h" alt="" coords="1422,622,1618,663"/>
+<area shape="rect" id="node44" href="$object__types_8h.html" title="modules/perception\l/base/object_types.h" alt="" coords="1088,726,1244,767"/>
+<area shape="rect" id="node38" href="$blob_8h.html" title="modules/perception\l/base/blob.h" alt="" coords="1422,726,1572,767"/>
+<area shape="rect" id="node39" href="$base_2image_8h.html" title="modules/perception\l/base/image.h" alt="" coords="1596,726,1747,767"/>
+<area shape="rect" id="node43" href="$base_2object__supplement_8h.html" title="modules/perception\l/base/object_supplement.h" alt="" coords="605,622,802,663"/>
+<area shape="rect" id="node45" href="$vehicle__struct_8h.html" title="modules/perception\l/base/vehicle_struct.h" alt="" coords="928,622,1092,663"/>
+<area shape="rect" id="node50" href="$scene__service_8h.html" title="modules/perception\l/lidar/lib/scene_manager\l/scene_service.h" alt="" coords="2558,615,2740,671"/>
+</map>

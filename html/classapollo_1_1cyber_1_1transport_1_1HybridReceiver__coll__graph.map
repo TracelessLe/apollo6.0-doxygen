@@ -1,0 +1,5 @@
+<map id="apollo::cyber::transport::HybridReceiver&lt; M &gt;" name="apollo::cyber::transport::HybridReceiver&lt; M &gt;">
+<area shape="rect" id="node2" href="$classapollo_1_1cyber_1_1transport_1_1Receiver.html" title="{apollo::cyber::transport\l::Receiver\&lt; M \&gt;\n|# msg_listener_\l|+ Receiver()\l+ ~Receiver()\l+ Enable()\l+ Disable()\l+ Enable()\l+ Disable()\l# OnNewMessage()\l}" alt="" coords="60,492,233,672"/>
+<area shape="rect" id="node3" href="$classapollo_1_1cyber_1_1transport_1_1Endpoint.html" title="{apollo::cyber::transport\l::Endpoint\n|# enabled_\l|+ Endpoint()\l+ ~Endpoint()\l+ id()\l+ attributes()\l}" alt="" coords="60,307,233,443"/>
+<area shape="rect" id="node5" href="$classapollo_1_1cyber_1_1transport_1_1Identity.html" title="{apollo::cyber::transport\l::Identity\n||+ Identity()\l+ Identity()\l+ ~Identity()\l+ operator=()\l+ operator==()\l+ operator!=()\l+ ToString()\l+ Length()\l+ HashValue()\l+ data()\l+ set_data()\l}" alt="" coords="144,5,317,244"/>
+</map>

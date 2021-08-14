@@ -1,0 +1,10 @@
+<map id="modules/v2x/fusion/libs/common/v2x_object.h" name="modules/v2x/fusion/libs/common/v2x_object.h">
+<area shape="rect" id="node7" href="$base_2object__supplement_8h.html" title="modules/perception\l/base/object_supplement.h" alt="" coords="993,95,1191,136"/>
+<area shape="rect" id="node21" href="$object__types_8h.html" title="modules/perception\l/base/object_types.h" alt="" coords="1475,184,1631,225"/>
+<area shape="rect" id="node24" href="$sensor__meta_8h.html" title="modules/perception\l/base/sensor_meta.h" alt="" coords="1359,95,1516,136"/>
+<area shape="rect" id="node10" href="$eigen__defs_8h.html" title="modules/common/util\l/eigen_defs.h" alt="" coords="1130,273,1294,315"/>
+<area shape="rect" id="node15" href="$box_8h.html" title="modules/perception\l/base/box.h" alt="" coords="295,184,446,225"/>
+<area shape="rect" id="node22" href="$point__cloud_8h.html" title="modules/perception\l/base/point_cloud.h" alt="" coords="838,184,989,225"/>
+<area shape="rect" id="node18" href="$comparison__traits_8h.html" title="modules/perception\l/base/comparison_traits.h" alt="" coords="47,273,238,315"/>
+<area shape="rect" id="node20" href="$point_8h.html" title="modules/perception\l/base/point.h" alt="" coords="573,273,723,315"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classapollo_1_1cyber_1_1ReaderBase.html" title="Base Class for Reader Reader is identified by one apollo::cyber::proto::RoleAttribute, it contains the channel_name, channel_id that we subscribe, and host_name, process_id and node that we are located, and qos that describes our transportation quality. " alt="" coords="5,13,196,39"/>
+<area shape="rect" id="node2" href="$classapollo_1_1cyber_1_1Reader.html" title="Reader subscribes a channel, it has two main functions: " alt="" coords="244,5,403,47"/>
+<area shape="rect" id="node3" href="$classapollo_1_1cyber_1_1blocker_1_1IntraReader.html" title="apollo::cyber::blocker\l::IntraReader\&lt; MessageT \&gt;" alt="" coords="451,5,651,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="apollo::cyber::Reader&lt; MessageT &gt;" name="apollo::cyber::Reader&lt; MessageT &gt;">
+<area shape="rect" id="node3" href="$classapollo_1_1cyber_1_1blocker_1_1IntraReader.html" title="{apollo::cyber::blocker\l::IntraReader\&lt; MessageT \&gt;\n||+ IntraReader()\l+ ~IntraReader()\l+ Init()\l+ Shutdown()\l+ ClearData()\l+ Observe()\l+ Empty()\l+ HasReceived()\l+ Enqueue()\l+ SetHistoryDepth()\l+ GetHistoryDepth()\l+ GetLatestObserved()\l+ GetOldestObserved()\l+ Begin()\l+ End()\l}" alt="" coords="5,623,205,920"/>
+<area shape="rect" id="node2" href="$classapollo_1_1cyber_1_1ReaderBase.html" title="Base Class for Reader Reader is identified by one apollo::cyber::proto::RoleAttribute, it contains the channel_name, channel_id that we subscribe, and host_name, process_id and node that we are located, and qos that describes our transportation quality. " alt="" coords="10,5,201,244"/>
+</map>

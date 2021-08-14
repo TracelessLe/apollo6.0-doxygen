@@ -1,0 +1,3 @@
+<map id="apollo::cyber::scheduler::SchedulerClassic" name="apollo::cyber::scheduler::SchedulerClassic">
+<area shape="rect" id="node2" href="$classapollo_1_1cyber_1_1scheduler_1_1Scheduler.html" title="{apollo::cyber::scheduler\l::Scheduler\n|# id_cr_lock_\l# id_map_mutex_\l# cr_wl_mtx_\l# id_cr_\l# pctxs_\l# processors_\l# inner_thr_confs_\l# process_level_cpuset_\l# proc_num_\l# task_pool_size_\l# stop_\l|+ ~Scheduler()\l+ CreateTask()\l+ CreateTask()\l+ NotifyTask()\l+ Shutdown()\l+ TaskPoolSize()\l+ RemoveTask()\l+ ProcessLevelResourceControl()\l+ SetInnerThreadAttr()\l+ DispatchTask()\l+ NotifyProcessor()\l+ RemoveCRoutine()\l+ CheckSchedStatus()\l+ SetInnerThreadConfs()\l+ Instance()\l# Scheduler()\l}" alt="" coords="5,5,244,464"/>
+</map>

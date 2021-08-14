@@ -1,0 +1,29 @@
+<map id="modules/planning/scenarios/park/valet_parking/stage_approaching_parking_spot.h" name="modules/planning/scenarios/park/valet_parking/stage_approaching_parking_spot.h">
+<area shape="rect" id="node3" href="$valet__parking__scenario_8h.html" title="modules/planning/scenarios\l/park/valet_parking/valet\l_parking_scenario.h" alt="" coords="250,109,454,165"/>
+<area shape="rect" id="node49" href="$stage_8h.html" title="modules/planning/scenarios\l/stage.h" alt="" coords="3666,303,3870,344"/>
+<area shape="rect" id="node5" href="$hdmap__util_8h.html" title="modules/map/hdmap/hdmap\l_util.h" alt="" coords="728,928,938,969"/>
+<area shape="rect" id="node19" href="$path_8h.html" title="modules/map/pnc_map\l/path.h" alt="" coords="1064,839,1239,880"/>
+<area shape="rect" id="node23" href="$pnc__map_8h.html" title="modules/map/pnc_map\l/pnc_map.h" alt="" coords="1328,660,1503,701"/>
+<area shape="rect" id="node30" href="$scenario_8h.html" title="modules/planning/scenarios\l/scenario.h" alt="" coords="3526,213,3730,255"/>
+<area shape="rect" id="node7" href="$config__gflags_8h.html" title="modules/common/configs\l/config_gflags.h" alt="" coords="440,1017,629,1059"/>
+<area shape="rect" id="node9" href="$hdmap_8h.html" title="modules/map/hdmap/hdmap.h" alt="" coords="1493,1025,1714,1051"/>
+<area shape="rect" id="node12" href="$cyber_2common_2macros_8h.html" title="cyber/common/macros.h" alt="" coords="3643,1114,3826,1141"/>
+<area shape="rect" id="node15" href="$hdmap__common_8h.html" title="modules/map/hdmap/hdmap\l_common.h" alt="" coords="1418,1107,1627,1148"/>
+<area shape="rect" id="node16" href="$vec2d_8h.html" title="Defines the Vec2d class. " alt="" coords="1088,1196,1266,1237"/>
+<area shape="rect" id="node20" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="2776,935,2930,962"/>
+<area shape="rect" id="node21" href="$box2d_8h.html" title="The class of Box2d. Here, the x/y axes are respectively Forward/Left, as opposed to what happens in e..." alt="" coords="1240,1017,1418,1059"/>
+<area shape="rect" id="node22" href="$line__segment2d_8h.html" title="Define the LineSegment2d class. " alt="" coords="962,1107,1139,1148"/>
+<area shape="rect" id="node29" href="$route__segments_8h.html" title="modules/map/pnc_map\l/route_segments.h" alt="" coords="1328,749,1503,791"/>
+<area shape="rect" id="node32" href="$common_2status_2status_8h.html" title="modules/common/status\l/status.h" alt="" coords="3543,571,3726,612"/>
+<area shape="rect" id="node36" href="$factory_8h.html" title="Defines the Factory class. " alt="" coords="3856,481,4020,523"/>
+<area shape="rect" id="node38" href="$planning_2common_2frame_8h.html" title="modules/planning/common\l/frame.h" alt="" coords="2664,481,2863,523"/>
+<area shape="rect" id="node48" href="$planning__context_8h.html" title="modules/planning/common\l/planning_context.h" alt="" coords="4104,392,4303,433"/>
+<area shape="rect" id="node50" href="$modules_2planning_2tasks_2task_8h.html" title="modules/planning/tasks\l/task.h" alt="" coords="3552,392,3730,433"/>
+<area shape="rect" id="node35" href="$future_8h.html" title="modules/common/util\l/future.h" alt="" coords="3452,660,3616,701"/>
+<area shape="rect" id="node40" href="$monitor__log__buffer_8h.html" title="The class of MonitorLogBuffer. " alt="" coords="3298,1107,3493,1148"/>
+<area shape="rect" id="node42" href="$ego__info_8h.html" title="modules/planning/common\l/ego_info.h" alt="" coords="2420,749,2619,791"/>
+<area shape="rect" id="node43" href="$planning_2common_2obstacle_8h.html" title="modules/planning/common\l/obstacle.h" alt="" coords="2420,839,2619,880"/>
+<area shape="rect" id="node44" href="$indexed__queue_8h.html" title="modules/planning/common\l/indexed_queue.h" alt="" coords="3047,839,3246,880"/>
+<area shape="rect" id="node45" href="$local__view_8h.html" title="modules/planning/common\l/local_view.h" alt="" coords="1780,749,1979,791"/>
+<area shape="rect" id="node46" href="$open__space__info_8h.html" title="modules/planning/common\l/open_space_info.h" alt="" coords="2103,571,2302,612"/>
+</map>

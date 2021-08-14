@@ -1,0 +1,9 @@
+<map id="modules/prediction/container/container_manager.h" name="modules/prediction/container/container_manager.h">
+<area shape="rect" id="node2" href="$prediction_2common_2message__process_8h.html" title="modules/prediction\l/common/message_process.h" alt="" coords="88,303,303,344"/>
+<area shape="rect" id="node5" href="$feature__extractor_8h.html" title="modules/prediction\l/scenario/feature_extractor\l/feature_extractor.h" alt="" coords="164,109,363,165"/>
+<area shape="rect" id="node7" href="$obstacles__prioritizer_8h.html" title="modules/prediction\l/scenario/prioritization\l/obstacles_prioritizer.h" alt="" coords="387,109,556,165"/>
+<area shape="rect" id="node8" href="$right__of__way_8h.html" title="modules/prediction\l/scenario/right_of_way\l/right_of_way.h" alt="" coords="580,109,749,165"/>
+<area shape="rect" id="node3" href="$prediction__component_8h.html" title="modules/prediction\l/prediction_component.h" alt="" coords="5,399,188,441"/>
+<area shape="rect" id="node4" href="$predictor__submodule_8h.html" title="Use predictor submodule to manage all predictors. " alt="" coords="212,392,379,448"/>
+<area shape="rect" id="node6" href="$prediction_2scenario_2scenario__manager_8h.html" title="modules/prediction\l/scenario/scenario_manager.h" alt="" coords="161,213,377,255"/>
+</map>

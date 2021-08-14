@@ -1,0 +1,28 @@
+<map id="modules/planning/constraint_checker/collision_checker.h" name="modules/planning/constraint_checker/collision_checker.h">
+<area shape="rect" id="node4" href="$box2d_8h.html" title="The class of Box2d. Here, the x/y axes are respectively Forward/Left, as opposed to what happens in e..." alt="" coords="3181,913,3358,955"/>
+<area shape="rect" id="node11" href="$planning_2common_2obstacle_8h.html" title="modules/planning/common\l/obstacle.h" alt="" coords="3014,452,3213,493"/>
+<area shape="rect" id="node35" href="$reference__line__info_8h.html" title="modules/planning/common\l/reference_line_info.h" alt="" coords="1258,273,1457,315"/>
+<area shape="rect" id="node46" href="$discretized__trajectory_8h.html" title="modules/planning/common\l/trajectory/discretized\l_trajectory.h" alt="" coords="546,631,745,687"/>
+<area shape="rect" id="node48" href="$path__time__graph_8h.html" title="modules/planning/lattice\l/behavior/path_time_graph.h" alt="" coords="2954,95,3163,136"/>
+<area shape="rect" id="node7" href="$aabox2d_8h.html" title="Defines the AABox2d class. " alt="" coords="3002,1003,3179,1044"/>
+<area shape="rect" id="node8" href="$vec2d_8h.html" title="Defines the Vec2d class. " alt="" coords="3711,1092,3889,1133"/>
+<area shape="rect" id="node10" href="$line__segment2d_8h.html" title="Define the LineSegment2d class. " alt="" coords="3407,1003,3585,1044"/>
+<area shape="rect" id="node16" href="$indexed__list_8h.html" title="modules/planning/common\l/indexed_list.h" alt="" coords="1551,541,1750,583"/>
+<area shape="rect" id="node20" href="$st__boundary_8h.html" title="modules/planning/common\l/speed/st_boundary.h" alt="" coords="2530,735,2729,776"/>
+<area shape="rect" id="node28" href="$reference__line_8h.html" title="modules/planning/reference\l_line/reference_line.h" alt="" coords="3198,541,3402,583"/>
+<area shape="rect" id="node18" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="568,742,723,769"/>
+<area shape="rect" id="node19" href="$map__util_8h.html" title="Some map util functions. " alt="" coords="1582,638,1746,679"/>
+<area shape="rect" id="node23" href="$polygon2d_8h.html" title="Define the Polygon2d class. " alt="" coords="3333,824,3510,865"/>
+<area shape="rect" id="node24" href="$st__point_8h.html" title="modules/planning/common\l/speed/st_point.h" alt="" coords="4065,913,4263,955"/>
+<area shape="rect" id="node30" href="$path_8h.html" title="modules/map/pnc_map\l/path.h" alt="" coords="2819,638,2994,679"/>
+<area shape="rect" id="node31" href="$hdmap__common_8h.html" title="modules/map/hdmap/hdmap\l_common.h" alt="" coords="2905,735,3114,776"/>
+<area shape="rect" id="node38" href="$pnc__map_8h.html" title="modules/map/pnc_map\l/pnc_map.h" alt="" coords="1234,452,1409,493"/>
+<area shape="rect" id="node39" href="$path__data_8h.html" title="modules/planning/common\l/path/path_data.h" alt="" coords="853,452,1051,493"/>
+<area shape="rect" id="node40" href="$path__boundary_8h.html" title="modules/planning/common\l/path_boundary.h" alt="" coords="346,735,545,776"/>
+<area shape="rect" id="node41" href="$path__decision_8h.html" title="modules/planning/common\l/path_decision.h" alt="" coords="1954,363,2153,404"/>
+<area shape="rect" id="node42" href="$planning__context_8h.html" title="modules/planning/common\l/planning_context.h" alt="" coords="1258,363,1457,404"/>
+<area shape="rect" id="node43" href="$planning__gflags_8h.html" title="modules/planning/common\l/planning_gflags.h" alt="" coords="1481,363,1679,404"/>
+<area shape="rect" id="node44" href="$speed__data_8h.html" title="modules/planning/common\l/speed/speed_data.h" alt="" coords="2293,638,2491,679"/>
+<area shape="rect" id="node45" href="$st__graph__data_8h.html" title=": data with map info and obstacle info " alt="" coords="1821,638,2019,679"/>
+<area shape="rect" id="node50" href="$planning_2common_2frame_8h.html" title="modules/planning/common\l/frame.h" alt="" coords="2293,184,2491,225"/>
+</map>

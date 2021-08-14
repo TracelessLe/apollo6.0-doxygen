@@ -1,0 +1,37 @@
+<map id="modules/perception/camera/lib/traffic_light" name="modules/perception/camera/lib/traffic_light">
+<area shape="rect" id="node2" href="dir_7cbf669580582400a61478e60d641b5f.html" title="detector" alt="" coords="57,63,133,111"/>
+<area shape="rect" id="node5" href="dir_b7e54f8867fbb6821830910b8e5b05cd.html" title="common" alt="" coords="5,351,84,399"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000283_000233.html" title="1" alt="" coords="46,324,55,339"/>
+<area shape="rect" id="node6" href="dir_d02d02be719011d60be6590b147f8f58.html" title="base" alt="" coords="162,447,234,495"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000283_000004.html" title="8" alt="" coords="193,420,202,434"/>
+<area shape="rect" id="node8" href="dir_2ac0934c762d8eaa0397f340e0f89d73.html" title="interface" alt="" coords="261,159,341,207"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000283_000260.html" title="3" alt="" coords="240,154,250,169"/>
+<area shape="rect" id="node9" href="dir_295fd8abc5bfd1713a517796fcbf4ff2.html" title="inference" alt="" coords="53,255,135,303"/>
+<area shape="rect" id="edge12-headlabel" href="dir_000283_000036.html" title="3" alt="" coords="98,229,107,244"/>
+<area shape="rect" id="node3" href="dir_40d5323035aba5b3ebfee0358b5b8acd.html" title="preprocessor" alt="" coords="374,63,481,111"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000286_000004.html" title="6" alt="" coords="249,462,258,477"/>
+<area shape="rect" id="node7" href="dir_9a5e51f49964887903df6eed98080585.html" title="common" alt="" coords="159,543,237,591"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000286_000028.html" title="1" alt="" coords="252,561,261,576"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000286_000260.html" title="2" alt="" coords="339,146,349,161"/>
+<area shape="rect" id="node10" href="dir_5d322f5bfd19ce2531287ebbeaa56809.html" title="common" alt="" coords="261,255,340,303"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000286_000035.html" title="1" alt="" coords="332,237,341,252"/>
+<area shape="rect" id="node11" href="dir_4c1a26545ee9c743bf92254028874005.html" title="lib" alt="" coords="342,351,414,399"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000286_000009.html" title="1" alt="" coords="389,327,398,341"/>
+<area shape="rect" id="node4" href="dir_0816bd9a779f851d68acf8e192e52280.html" title="tracker" alt="" coords="158,63,230,111"/>
+<area shape="rect" id="edge23-headlabel" href="dir_000287_000260.html" title="1" alt="" coords="259,133,268,147"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000233_000004.html" title="16" alt="" coords="142,424,160,439"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000233_000028.html" title="1" alt="" coords="169,516,179,530"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000004_000028.html" title="3" alt="" coords="202,517,211,531"/>
+<area shape="rect" id="edge15-headlabel" href="dir_000260_000282.html" title="1" alt="" coords="288,122,298,136"/>
+<area shape="rect" id="edge13-headlabel" href="dir_000260_000286.html" title="1" alt="" coords="379,108,389,123"/>
+<area shape="rect" id="edge14-headlabel" href="dir_000260_000004.html" title="5" alt="" coords="207,422,216,437"/>
+<area shape="rect" id="edge16-headlabel" href="dir_000260_000035.html" title="17" alt="" coords="300,229,318,243"/>
+<area shape="rect" id="edge17-headlabel" href="dir_000260_000009.html" title="18" alt="" coords="373,324,391,339"/>
+<area shape="rect" id="edge18-headlabel" href="dir_000036_000233.html" title="1" alt="" coords="68,331,78,345"/>
+<area shape="rect" id="edge19-headlabel" href="dir_000036_000004.html" title="11" alt="" coords="171,419,189,434"/>
+<area shape="rect" id="edge20-headlabel" href="dir_000035_000233.html" title="6" alt="" coords="99,354,109,369"/>
+<area shape="rect" id="edge21-headlabel" href="dir_000035_000004.html" title="16" alt="" coords="222,428,239,443"/>
+<area shape="rect" id="edge22-headlabel" href="dir_000035_000009.html" title="1" alt="" coords="349,323,358,338"/>
+<area shape="rect" id="clust2" href="dir_74e43c2ce820d5a172d2cefd90a00148.html" alt="" coords="46,52,491,121"/>
+<area shape="rect" id="clust1" href="dir_3c460c13d3fd2212308b796ada0161bd.html" title="lib" alt="" coords="35,16,502,132"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="apollo::planning::scenario::bare_intersection::BareIntersectionUnprotectedStageIntersectionCruise" name="apollo::planning::scenario::bare_intersection::BareIntersectionUnprotectedStageIntersectionCruise">
+<area shape="rect" id="node2" href="$classapollo_1_1planning_1_1scenario_1_1Stage.html" title="{apollo::planning::scenario\l::Stage\n|# tasks_\l# task_list_\l# config_\l# next_stage_\l# context_\l# name_\l# injector_\l|+ Stage()\l+ ~Stage()\l+ config()\l+ stage_type()\l+ Process()\l+ TaskList()\l+ Name()\l+ GetContextAs()\l+ SetContext()\l+ FindTask()\l+ NextStage()\l# ExecuteTaskOnReferenceLine()\l# ExecuteTaskOnReferenceLine\lForOnlineLearning()\l# ExecuteTaskOnOpenSpace()\l# FinishScenario()\l# RecordDebugInfo()\l}" alt="" coords="15,5,254,420"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="modules/common/configs/vehicle_config_helper.h" name="modules/common/configs/vehicle_config_helper.h">
+<area shape="rect" id="node2" href="$vehicle__controller_8h.html" title="The class of VehicleController. " alt="" coords="1556,109,1735,151"/>
+<area shape="rect" id="node25" href="$vehicle__model_8h.html" title="modules/common/vehicle\l_model/vehicle_model.h" alt="" coords="3431,109,3622,151"/>
+<area shape="rect" id="node26" href="$cipv__camera_8h.html" title="modules/perception\l/camera/app/cipv_camera.h" alt="" coords="3647,109,3849,151"/>
+<area shape="rect" id="node29" href="$open__space__info_8h.html" title="modules/planning/common\l/open_space_info.h" alt="" coords="3874,109,4073,151"/>
+<area shape="rect" id="node30" href="$obstacle__blocking__analyzer_8h.html" title="modules/planning/common\l/obstacle_blocking_analyzer.h" alt="" coords="4097,109,4314,151"/>
+<area shape="rect" id="node31" href="$end__condition__sampler_8h.html" title="modules/planning/lattice\l/trajectory_generation\l/end_condition_sampler.h" alt="" coords="4338,102,4526,158"/>
+<area shape="rect" id="node32" href="$birdview__img__feature__renderer_8h.html" title="Define the birdview img feature renderer class. " alt="" coords="4550,102,4791,158"/>
+<area shape="rect" id="node33" href="$navi__obstacle__decider_8h.html" title="This file provides the declaration of the class &quot;NaviSpeedDecider&quot;. " alt="" coords="4816,102,4987,158"/>
+<area shape="rect" id="node34" href="$hybrid__a__star_8h.html" title="modules/planning/open\l_space/coarse_trajectory\l_generator/hybrid_a_star.h" alt="" coords="5011,102,5205,158"/>
+<area shape="rect" id="node35" href="$distance__approach__interface_8h.html" title="modules/planning/open\l_space/trajectory_smoother\l/distance_approach_interface.h" alt="" coords="5381,102,5606,158"/>
+<area shape="rect" id="node36" href="$distance__approach__ipopt__cuda__interface_8h.html" title="modules/planning/open\l_space/trajectory_smoother\l/distance_approach_ipopt\l_cuda_interface.h" alt="" coords="4825,213,5028,284"/>
+<area shape="rect" id="node37" href="$distance__approach__ipopt__fixed__dual__interface_8h.html" title="modules/planning/open\l_space/trajectory_smoother\l/distance_approach_ipopt\l_fixed_dual_interface.h" alt="" coords="5052,213,5255,284"/>
+<area shape="rect" id="node38" href="$distance__approach__ipopt__fixed__ts__interface_8h.html" title="modules/planning/open\l_space/trajectory_smoother\l/distance_approach_ipopt\l_fixed_ts_interface.h" alt="" coords="5279,213,5481,284"/>
+<area shape="rect" id="node39" href="$distance__approach__ipopt__interface_8h.html" title="modules/planning/open\l_space/trajectory_smoother\l/distance_approach_ipopt\l_interface.h" alt="" coords="5505,213,5708,284"/>
+<area shape="rect" id="node40" href="$distance__approach__ipopt__relax__end__interface_8h.html" title="modules/planning/open\l_space/trajectory_smoother\l/distance_approach_ipopt\l_relax_end_interface.h" alt="" coords="5732,213,5935,284"/>
+<area shape="rect" id="node41" href="$distance__approach__ipopt__relax__end__slack__interface_8h.html" title="modules/planning/open\l_space/trajectory_smoother\l/distance_approach_ipopt\l_relax_end_slack_interface.h" alt="" coords="5959,213,6169,284"/>
+<area shape="rect" id="node42" href="$dual__variable__warm__start__ipopt__interface_8h.html" title="modules/planning/open\l_space/trajectory_smoother\l/dual_variable_warm_start\l_ipopt_interface.h" alt="" coords="5781,95,5984,165"/>
+<area shape="rect" id="node43" href="$dual__variable__warm__start__ipopt__qp__interface_8h.html" title="modules/planning/open\l_space/trajectory_smoother\l/dual_variable_warm_start\l_ipopt_qp_interface.h" alt="" coords="6008,95,6211,165"/>
+<area shape="rect" id="node44" href="$dual__variable__warm__start__osqp__interface_8h.html" title="modules/planning/open\l_space/trajectory_smoother\l/dual_variable_warm_start\l_osqp_interface.h" alt="" coords="6235,95,6437,165"/>
+<area shape="rect" id="node45" href="$dual__variable__warm__start__slack__osqp__interface_8h.html" title="modules/planning/open\l_space/trajectory_smoother\l/dual_variable_warm_start\l_slack_osqp_interface.h" alt="" coords="6461,95,6664,165"/>
+<area shape="rect" id="node46" href="$stage__check_8h.html" title="modules/planning/scenarios\l/park_and_go/stage_check.h" alt="" coords="6689,109,6895,151"/>
+<area shape="rect" id="node47" href="$open__space__fallback__decider_8h.html" title="modules/planning/tasks\l/deciders/open_space_decider\l/open_space_fallback_decider.h" alt="" coords="6919,102,7147,158"/>
+<area shape="rect" id="node48" href="$open__space__roi__decider_8h.html" title="modules/planning/tasks\l/deciders/open_space_decider\l/open_space_roi_decider.h" alt="" coords="7171,102,7389,158"/>
+<area shape="rect" id="node49" href="$open__space__trajectory__partition_8h.html" title="modules/planning/tasks\l/optimizers/open_space\l_trajectory_partition/open\l_space_trajectory_partition.h" alt="" coords="7413,95,7624,165"/>
+<area shape="rect" id="node50" href="$gridded__path__time__graph_8h.html" title="modules/planning/tasks\l/optimizers/path_time\l_heuristic/gridded_path\l_time_graph.h" alt="" coords="7649,95,7826,165"/>
+<area shape="rect" id="node3" href="$canbus__component_8h.html" title="modules/canbus/canbus\l_component.h" alt="" coords="3481,228,3660,269"/>
+<area shape="rect" id="node4" href="$abstract__vehicle__factory_8h.html" title="modules/canbus/vehicle\l/abstract_vehicle_factory.h" alt="" coords="923,228,1119,269"/>
+<area shape="rect" id="node5" href="$ch__vehicle__factory_8h.html" title="modules/canbus/vehicle\l/ch/ch_vehicle_factory.h" alt="" coords="2769,339,2948,381"/>
+<area shape="rect" id="node6" href="$devkit__vehicle__factory_8h.html" title="modules/canbus/vehicle\l/devkit/devkit_vehicle\l_factory.h" alt="" coords="5,332,184,388"/>
+<area shape="rect" id="node7" href="$ge3__vehicle__factory_8h.html" title="modules/canbus/vehicle\l/ge3/ge3_vehicle_factory.h" alt="" coords="208,339,403,381"/>
+<area shape="rect" id="node8" href="$gem__vehicle__factory_8h.html" title="modules/canbus/vehicle\l/gem/gem_vehicle_factory.h" alt="" coords="427,339,632,381"/>
+<area shape="rect" id="node9" href="$lexus__vehicle__factory_8h.html" title="modules/canbus/vehicle\l/lexus/lexus_vehicle_factory.h" alt="" coords="657,339,874,381"/>
+<area shape="rect" id="node10" href="$lincoln__vehicle__factory_8h.html" title="modules/canbus/vehicle\l/lincoln/lincoln_vehicle\l_factory.h" alt="" coords="899,332,1077,388"/>
+<area shape="rect" id="node11" href="$neolix__edu__vehicle__factory_8h.html" title="modules/canbus/vehicle\l/neolix_edu/neolix_edu\l_vehicle_factory.h" alt="" coords="1101,332,1280,388"/>
+<area shape="rect" id="node12" href="$transit__vehicle__factory_8h.html" title="modules/canbus/vehicle\l/transit/transit_vehicle\l_factory.h" alt="" coords="1304,332,1483,388"/>
+<area shape="rect" id="node13" href="$wey__vehicle__factory_8h.html" title="modules/canbus/vehicle\l/wey/wey_vehicle_factory.h" alt="" coords="1507,339,1709,381"/>
+<area shape="rect" id="node14" href="$zhongyun__vehicle__factory_8h.html" title="modules/canbus/vehicle\l/zhongyun/zhongyun_vehicle\l_factory.h" alt="" coords="1733,332,1944,388"/>
+<area shape="rect" id="node15" href="$ch__controller_8h.html" title="modules/canbus/vehicle\l/ch/ch_controller.h" alt="" coords="1347,228,1525,269"/>
+<area shape="rect" id="node16" href="$devkit__controller_8h.html" title="modules/canbus/vehicle\l/devkit/devkit_controller.h" alt="" coords="1549,228,1741,269"/>
+<area shape="rect" id="node17" href="$ge3__controller_8h.html" title="modules/canbus/vehicle\l/ge3/ge3_controller.h" alt="" coords="1765,228,1944,269"/>
+<area shape="rect" id="node18" href="$gem__controller_8h.html" title="modules/canbus/vehicle\l/gem/gem_controller.h" alt="" coords="1968,228,2147,269"/>
+<area shape="rect" id="node19" href="$lexus__controller_8h.html" title="modules/canbus/vehicle\l/lexus/lexus_controller.h" alt="" coords="2171,228,2351,269"/>
+<area shape="rect" id="node20" href="$lincoln__controller_8h.html" title="The class of LincolnController. " alt="" coords="2375,228,2571,269"/>
+<area shape="rect" id="node21" href="$neolix__edu__controller_8h.html" title="modules/canbus/vehicle\l/neolix_edu/neolix_edu\l_controller.h" alt="" coords="2596,221,2775,277"/>
+<area shape="rect" id="node22" href="$transit__controller_8h.html" title="modules/canbus/vehicle\l/transit/transit_controller.h" alt="" coords="2799,228,2993,269"/>
+<area shape="rect" id="node23" href="$wey__controller_8h.html" title="modules/canbus/vehicle\l/wey/wey_controller.h" alt="" coords="3017,228,3196,269"/>
+<area shape="rect" id="node24" href="$zhongyun__controller_8h.html" title="modules/canbus/vehicle\l/zhongyun/zhongyun_controller.h" alt="" coords="3221,228,3457,269"/>
+<area shape="rect" id="node27" href="$visualizer_8h.html" title="modules/perception\l/camera/tools/offline\l/visualizer.h" alt="" coords="3786,221,3942,277"/>
+<area shape="rect" id="node28" href="$camera__obstacle__detection__component_8h.html" title="modules/perception\l/onboard/component/camera\l_obstacle_detection_component.h" alt="" coords="3683,332,3927,388"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classapollo_1_1prediction_1_1network_1_1NetModel.html" title="NetModel is a base class for specific network model It contains a pure virtual function Run which mus..." alt="" coords="5,39,159,80"/>
+<area shape="rect" id="node2" href="$classapollo_1_1planning_1_1AutotuningMLPModel.html" title="apollo::planning::Autotuning\lMLPModel" alt="" coords="207,5,412,47"/>
+<area shape="rect" id="node3" href="$classapollo_1_1prediction_1_1network_1_1RnnModel.html" title="RnnModel is a derived class from NetModel, it has a specific layers structure. " alt="" coords="232,71,387,112"/>
+</map>

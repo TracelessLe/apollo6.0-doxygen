@@ -1,0 +1,21 @@
+<map id="modules/dreamview/backend/hmi/hmi.h" name="modules/dreamview/backend/hmi/hmi.h">
+<area shape="rect" id="node4" href="$monitor__log__buffer_8h.html" title="The class of MonitorLogBuffer. " alt="" coords="897,95,1092,136"/>
+<area shape="rect" id="node23" href="$websocket__handler_8h.html" title="modules/dreamview/backend\l/handlers/websocket_handler.h" alt="" coords="2450,363,2673,404"/>
+<area shape="rect" id="node29" href="$hmi__worker_8h.html" title="modules/dreamview/backend\l/hmi/hmi_worker.h" alt="" coords="1921,184,2135,225"/>
+<area shape="rect" id="node40" href="$map__service_8h.html" title="modules/dreamview/backend\l/map/map_service.h" alt="" coords="3953,95,4167,136"/>
+<area shape="rect" id="node9" href="$monitor__logger_8h.html" title="The class of MonitorLogger. " alt="" coords="668,184,863,225"/>
+<area shape="rect" id="node10" href="$cyber_8h.html" title="cyber/cyber.h" alt="" coords="1107,281,1216,307"/>
+<area shape="rect" id="node22" href="$message__util_8h.html" title="Some string util functions. " alt="" coords="465,363,629,404"/>
+<area shape="rect" id="node11" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="1419,452,1573,479"/>
+<area shape="rect" id="node12" href="$component_8h.html" title="cyber/component/component.h" alt="" coords="1077,370,1301,397"/>
+<area shape="rect" id="node13" href="$init_8h.html" title="cyber/init.h" alt="" coords="1427,370,1522,397"/>
+<area shape="rect" id="node14" href="$cyber_2node_2node_8h.html" title="cyber/node/node.h" alt="" coords="298,370,441,397"/>
+<area shape="rect" id="node15" href="$cyber_2task_2task_8h.html" title="cyber/task/task.h" alt="" coords="145,452,279,479"/>
+<area shape="rect" id="node16" href="$time_8h.html" title="cyber/time/time.h" alt="" coords="1749,370,1888,397"/>
+<area shape="rect" id="node19" href="$cyber_2timer_2timer_8h.html" title="cyber/timer/timer.h" alt="" coords="907,370,1053,397"/>
+<area shape="rect" id="node18" href="$duration_8h.html" title="cyber/time/duration.h" alt="" coords="1800,452,1963,479"/>
+<area shape="rect" id="node42" href="$pnc__map_8h.html" title="modules/map/pnc_map\l/pnc_map.h" alt="" coords="4166,184,4341,225"/>
+<area shape="rect" id="node48" href="$hdmap_8h.html" title="modules/map/hdmap/hdmap.h" alt="" coords="2781,452,3003,479"/>
+<area shape="rect" id="node49" href="$path_8h.html" title="modules/map/pnc_map\l/path.h" alt="" coords="2222,363,2397,404"/>
+<area shape="rect" id="node50" href="$route__segments_8h.html" title="modules/map/pnc_map\l/route_segments.h" alt="" coords="4019,273,4194,315"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="apollo::planning::NaviPathDecider" name="apollo::planning::NaviPathDecider">
+<area shape="rect" id="node2" href="$classapollo_1_1planning_1_1NaviTask.html" title="{apollo::planning::NaviTask\n|# is_init_\l|+ NaviTask()\l+ ~NaviTask()\l+ Name()\l+ Execute()\l+ Init()\l}" alt="" coords="105,307,298,443"/>
+<area shape="rect" id="node3" href="$classapollo_1_1planning_1_1Frame.html" title="Frame holds all data for one planning cycle. " alt="" coords="5,5,184,244"/>
+<area shape="rect" id="node4" href="$classapollo_1_1planning_1_1ReferenceLineInfo.html" title="ReferenceLineInfo holds all data for one reference line. " alt="" coords="209,5,410,244"/>
+</map>

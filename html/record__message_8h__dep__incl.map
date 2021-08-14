@@ -1,0 +1,17 @@
+<map id="cyber/record/record_message.h" name="cyber/record/record_message.h">
+<area shape="rect" id="node2" href="$py__record_8h.html" title="cyber/python/internal\l/py_record.h" alt="" coords="5,206,167,247"/>
+<area shape="rect" id="node3" href="$record__reader_8h.html" title="cyber/record/record\l_reader.h" alt="" coords="371,102,519,143"/>
+<area shape="rect" id="node4" href="$record__viewer_8h.html" title="cyber/record/record\l_viewer.h" alt="" coords="191,206,339,247"/>
+<area shape="rect" id="node8" href="$trigger__base_8h.html" title="modules/data/tools\l/smart_recorder/trigger\l_base.h" alt="" coords="1136,95,1308,151"/>
+<area shape="rect" id="node12" href="$record__processor_8h.html" title="modules/data/tools\l/smart_recorder/record\l_processor.h" alt="" coords="647,199,818,255"/>
+<area shape="rect" id="node5" href="$play__task__producer_8h.html" title="cyber/tools/cyber_recorder\l/player/play_task_producer.h" alt="" coords="363,206,572,247"/>
+<area shape="rect" id="node7" href="$realtime__record__processor_8h.html" title="modules/data/tools\l/smart_recorder/realtime\l_record_processor.h" alt="" coords="554,303,738,359"/>
+<area shape="rect" id="node6" href="$player_8h.html" title="cyber/tools/cyber_recorder\l/player/player.h" alt="" coords="335,310,530,351"/>
+<area shape="rect" id="node9" href="$drive__event__trigger_8h.html" title="modules/data/tools\l/smart_recorder/drive\l_event_trigger.h" alt="" coords="1431,199,1594,255"/>
+<area shape="rect" id="node10" href="$emergency__mode__trigger_8h.html" title="modules/data/tools\l/smart_recorder/emergency\l_mode_trigger.h" alt="" coords="1618,199,1821,255"/>
+<area shape="rect" id="node11" href="$hard__brake__trigger_8h.html" title="modules/data/tools\l/smart_recorder/hard\l_brake_trigger.h" alt="" coords="1845,199,2004,255"/>
+<area shape="rect" id="node14" href="$regular__interval__trigger_8h.html" title="modules/data/tools\l/smart_recorder/regular\l_interval_trigger.h" alt="" coords="843,199,1017,255"/>
+<area shape="rect" id="node15" href="$small__topics__trigger_8h.html" title="modules/data/tools\l/smart_recorder/small\l_topics_trigger.h" alt="" coords="1042,199,1207,255"/>
+<area shape="rect" id="node16" href="$swerve__trigger_8h.html" title="modules/data/tools\l/smart_recorder/swerve\l_trigger.h" alt="" coords="1231,199,1407,255"/>
+<area shape="rect" id="node13" href="$post__record__processor_8h.html" title="modules/data/tools\l/smart_recorder/post\l_record_processor.h" alt="" coords="762,303,919,359"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="modules/drivers/canbus/can_comm/message_manager.h" name="modules/drivers/canbus/can_comm/message_manager.h">
+<area shape="rect" id="node9" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="1146,191,1301,218"/>
+<area shape="rect" id="node15" href="$time_8h.html" title="cyber/time/time.h" alt="" coords="753,102,891,129"/>
+<area shape="rect" id="node21" href="$protocol__data_8h.html" title="The class of ProtocolData. " alt="" coords="1169,95,1371,136"/>
+<area shape="rect" id="node25" href="$byte_8h.html" title="Defines the Byte class. " alt="" coords="1512,184,1689,225"/>
+<area shape="rect" id="node14" href="$binary_8h.html" title="cyber/binary.h" alt="" coords="993,273,1107,300"/>
+<area shape="rect" id="node17" href="$duration_8h.html" title="cyber/time/duration.h" alt="" coords="741,191,903,218"/>
+<area shape="rect" id="node24" href="$canbus__consts_8h.html" title="modules/drivers/canbus\l/common/canbus_consts.h" alt="" coords="927,184,1122,225"/>
+</map>

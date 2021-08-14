@@ -1,0 +1,24 @@
+<map id="cyber/python/internal" name="cyber/python/internal">
+<area shape="rect" id="node1" href="dir_8a018acfb7cedaf2817109db8276ae88.html" title="internal" alt="" coords="267,52,339,100"/>
+<area shape="rect" id="node2" href="dir_5c096e2f7245124bef1321ef8d744b66.html" title="parameter" alt="" coords="5,148,96,196"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000067_000065.html" title="3" alt="" coords="112,147,121,161"/>
+<area shape="rect" id="node3" href="dir_f12202c4b93b4aaf4ca4ff498fb3a3d4.html" title="timer" alt="" coords="120,148,192,196"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000067_000089.html" title="1" alt="" coords="207,138,217,153"/>
+<area shape="rect" id="node4" href="dir_1d8b49bd0d37082c629c29cedef2fd87.html" title="record" alt="" coords="267,148,339,196"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000067_000068.html" title="3" alt="" coords="306,122,316,137"/>
+<area shape="rect" id="node5" href="dir_3fffa734e35fe7a4c940cc4fcb531c32.html" title="service_discovery" alt="" coords="447,244,585,292"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000067_000078.html" title="1" alt="" coords="523,219,533,234"/>
+<area shape="rect" id="node6" href="dir_52f442cebc9d443001a260be1c66077b.html" title="node" alt="" coords="413,148,485,196"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000067_000062.html" title="3" alt="" coords="398,124,407,139"/>
+<area shape="rect" id="node7" href="dir_f8aad6a80ed33e2fb523a6020027251f.html" title="message" alt="" coords="335,244,417,292"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000067_000061.html" title="6" alt="" coords="375,217,384,232"/>
+<area shape="rect" id="node8" href="dir_5eaf8aeebf9257b727ca2b9e35fa6b02.html" title="time" alt="" coords="216,244,288,292"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000067_000088.html" title="2" alt="" coords="251,218,260,232"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000089_000088.html" title="1" alt="" coords="216,217,225,232"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000068_000061.html" title="2" alt="" coords="348,217,358,231"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000068_000088.html" title="2" alt="" coords="276,224,286,239"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000062_000078.html" title="3" alt="" coords="491,216,500,231"/>
+<area shape="rect" id="edge12-headlabel" href="dir_000062_000061.html" title="1" alt="" coords="408,227,417,242"/>
+<area shape="rect" id="edge13-headlabel" href="dir_000062_000088.html" title="1" alt="" coords="304,243,313,257"/>
+<area shape="rect" id="clust1" href="dir_4454a6a464b7af4e8ce6ccd27ba9afe5.html" title="python" alt="" coords="256,16,349,111"/>
+</map>

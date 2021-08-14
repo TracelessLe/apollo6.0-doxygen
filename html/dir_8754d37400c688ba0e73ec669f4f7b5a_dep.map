@@ -1,0 +1,29 @@
+<map id="modules/perception/camera/lib/obstacle/detector/smoke" name="modules/perception/camera/lib/obstacle/detector/smoke">
+<area shape="rect" id="node1" href="dir_8754d37400c688ba0e73ec669f4f7b5a.html" title="smoke" alt="" coords="264,52,336,100"/>
+<area shape="rect" id="node2" href="dir_d02d02be719011d60be6590b147f8f58.html" title="base" alt="" coords="215,436,287,484"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000273_000004.html" title="8" alt="" coords="260,412,269,426"/>
+<area shape="rect" id="node3" href="dir_18d9a5161f8f3b04a13e1e82887a7e8f.html" title="yolo" alt="" coords="140,148,212,196"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000273_000274.html" title="1" alt="" coords="222,136,231,151"/>
+<area shape="rect" id="node4" href="dir_0d6dc3a33fbbb812401bd489d918ef1b.html" title="cyber" alt="" coords="253,532,325,580"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000273_000000.html" title="1" alt="" coords="341,537,350,551"/>
+<area shape="rect" id="node5" href="dir_2ac0934c762d8eaa0397f340e0f89d73.html" title="interface" alt="" coords="388,244,468,292"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000273_000260.html" title="2" alt="" coords="415,216,424,231"/>
+<area shape="rect" id="node6" href="dir_295fd8abc5bfd1713a517796fcbf4ff2.html" title="inference" alt="" coords="5,244,88,292"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000273_000036.html" title="3" alt="" coords="69,224,78,239"/>
+<area shape="rect" id="node7" href="dir_5d322f5bfd19ce2531287ebbeaa56809.html" title="common" alt="" coords="287,340,366,388"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000273_000035.html" title="3" alt="" coords="327,314,336,328"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000004_000000.html" title="2" alt="" coords="276,504,285,519"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000274_000004.html" title="8" alt="" coords="242,408,252,423"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000274_000000.html" title="1" alt="" coords="238,511,248,525"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000274_000260.html" title="2" alt="" coords="369,231,379,246"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000274_000036.html" title="3" alt="" coords="94,232,104,247"/>
+<area shape="rect" id="edge12-headlabel" href="dir_000274_000035.html" title="3" alt="" coords="299,313,308,328"/>
+<area shape="rect" id="edge13-headlabel" href="dir_000260_000004.html" title="5" alt="" coords="302,441,312,455"/>
+<area shape="rect" id="edge14-headlabel" href="dir_000260_000000.html" title="2" alt="" coords="327,516,336,531"/>
+<area shape="rect" id="edge15-headlabel" href="dir_000260_000035.html" title="17" alt="" coords="363,326,380,341"/>
+<area shape="rect" id="edge16-headlabel" href="dir_000036_000004.html" title="11" alt="" coords="209,410,226,425"/>
+<area shape="rect" id="edge17-headlabel" href="dir_000036_000000.html" title="2" alt="" coords="233,529,242,543"/>
+<area shape="rect" id="edge18-headlabel" href="dir_000035_000004.html" title="16" alt="" coords="279,419,297,434"/>
+<area shape="rect" id="edge19-headlabel" href="dir_000035_000000.html" title="6" alt="" coords="301,508,310,523"/>
+<area shape="rect" id="clust1" href="dir_1442705608a05ee0547eaeb55fbc44f8.html" title="detector" alt="" coords="253,16,347,111"/>
+</map>

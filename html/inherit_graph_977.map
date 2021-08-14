@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classapollo_1_1perception_1_1radar_1_1BaseRoiFilter.html" title="apollo::perception\l::radar::BaseRoiFilter" alt="" coords="5,39,161,80"/>
+<area shape="rect" id="node2" href="$classapollo_1_1perception_1_1radar_1_1DummyRoiFilter.html" title="apollo::perception\l::radar::DummyRoiFilter" alt="" coords="226,5,402,47"/>
+<area shape="rect" id="node3" href="$classapollo_1_1perception_1_1radar_1_1HdmapRadarRoiFilter.html" title="apollo::perception\l::radar::HdmapRadarRoiFilter" alt="" coords="209,71,419,112"/>
+</map>

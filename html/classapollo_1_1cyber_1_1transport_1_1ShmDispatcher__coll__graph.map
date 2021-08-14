@@ -1,0 +1,5 @@
+<map id="apollo::cyber::transport::ShmDispatcher" name="apollo::cyber::transport::ShmDispatcher">
+<area shape="rect" id="node2" href="$classapollo_1_1cyber_1_1transport_1_1Dispatcher.html" title="{apollo::cyber::transport\l::Dispatcher\n|# is_shutdown_\l|+ Dispatcher()\l+ ~Dispatcher()\l+ Shutdown()\l+ AddListener()\l+ AddListener()\l+ RemoveListener()\l+ RemoveListener()\l+ HasChannel()\l}" alt="" coords="103,292,276,487"/>
+<area shape="rect" id="node3" href="$classapollo_1_1cyber_1_1base_1_1AtomicRWLock.html" title="{apollo::cyber::base\l::AtomicRWLock\n|+ RW_LOCK_FREE\l+ WRITE_EXCLUSIVE\l+ MAX_RETRY_TIMES\l|+ AtomicRWLock()\l+ AtomicRWLock()\l}" alt="" coords="5,49,165,185"/>
+<area shape="rect" id="node4" href="$classapollo_1_1cyber_1_1base_1_1AtomicHashMap.html" title="{apollo::cyber::base\l::AtomicHashMap\&lt; uint64\l_t, ListenerHandlerBasePtr \&gt;\n||+ AtomicHashMap()\l+ AtomicHashMap()\l+ operator=()\l+ Has()\l+ Get()\l+ Get()\l+ Set()\l+ Set()\l+ Set()\l}" alt="" coords="189,5,400,229"/>
+</map>

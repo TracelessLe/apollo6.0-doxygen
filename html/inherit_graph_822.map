@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classapollo_1_1perception_1_1inference_1_1ArgMax1Plugin.html" title="apollo::perception\l::inference::ArgMax1Plugin" alt="" coords="146,5,342,47"/>
+<area shape="rect" id="node3" href="$classapollo_1_1perception_1_1inference_1_1DFMBPSROIAlignPlugin.html" title="apollo::perception\l::inference::DFMBPSROIAlign\lPlugin" alt="" coords="140,71,348,127"/>
+<area shape="rect" id="node4" href="$classapollo_1_1perception_1_1inference_1_1RCNNProposalPlugin.html" title="apollo::perception\l::inference::RCNNProposalPlugin" alt="" coords="128,152,360,193"/>
+<area shape="rect" id="node5" href="$classapollo_1_1perception_1_1inference_1_1ReLUPlugin.html" title="apollo::perception\l::inference::ReLUPlugin" alt="" coords="159,217,329,259"/>
+<area shape="rect" id="node6" href="$classapollo_1_1perception_1_1inference_1_1RPNProposalSSDPlugin.html" title="apollo::perception\l::inference::RPNProposalSSDPlugin" alt="" coords="120,283,368,324"/>
+<area shape="rect" id="node7" href="$classapollo_1_1perception_1_1inference_1_1SLICEPlugin.html" title="apollo::perception\l::inference::SLICEPlugin" alt="" coords="157,348,331,389"/>
+<area shape="rect" id="node8" href="$classapollo_1_1perception_1_1inference_1_1SoftmaxPlugin.html" title="apollo::perception\l::inference::SoftmaxPlugin" alt="" coords="147,413,341,455"/>
+</map>

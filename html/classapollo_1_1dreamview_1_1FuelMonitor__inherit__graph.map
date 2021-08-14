@@ -1,0 +1,4 @@
+<map id="apollo::dreamview::FuelMonitor" name="apollo::dreamview::FuelMonitor">
+<area shape="rect" id="node2" href="$classapollo_1_1dreamview_1_1DataCollectionMonitor.html" title="A module that monitor data collection progress for calibration purpose. " alt="" coords="5,263,208,428"/>
+<area shape="rect" id="node3" href="$classapollo_1_1dreamview_1_1PreprocessMonitor.html" title="A module that monitor data preprocess progress for sensor calibration purpose. " alt="" coords="232,263,411,428"/>
+</map>

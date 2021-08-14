@@ -1,0 +1,25 @@
+<map id="modules/perception/camera/lib/obstacle/detector/smoke/smoke_obstacle_detector.h" name="modules/perception/camera/lib/obstacle/detector/smoke/smoke_obstacle_detector.h">
+<area shape="rect" id="node7" href="$file_8h.html" title="cyber/common/file.h" alt="" coords="752,265,907,291"/>
+<area shape="rect" id="node22" href="$box_8h.html" title="modules/perception\l/base/box.h" alt="" coords="1470,257,1621,299"/>
+<area shape="rect" id="node29" href="$object__types_8h.html" title="modules/perception\l/base/object_types.h" alt="" coords="2042,465,2198,507"/>
+<area shape="rect" id="node30" href="$modules_2perception_2camera_2common_2util_8h.html" title="modules/perception\l/camera/common/util.h" alt="" coords="2436,257,2609,299"/>
+<area shape="rect" id="node36" href="$base__feature__extractor_8h.html" title="modules/perception\l/camera/lib/interface\l/base_feature_extractor.h" alt="" coords="4327,250,4515,306"/>
+<area shape="rect" id="node41" href="$base__obstacle__detector_8h.html" title="modules/perception\l/camera/lib/interface\l/base_obstacle_detector.h" alt="" coords="4635,250,4826,306"/>
+<area shape="rect" id="node43" href="$smoke_2region__output_8h.html" title="modules/perception\l/camera/lib/obstacle\l/detector/smoke/region\l_output.h" alt="" coords="1924,124,2097,195"/>
+<area shape="rect" id="node45" href="$yolo_2region__output_8h.html" title="modules/perception\l/camera/lib/obstacle\l/detector/yolo/region\l_output.h" alt="" coords="2615,124,2772,195"/>
+<area shape="rect" id="node47" href="$inference_8h.html" title="modules/perception\l/inference/inference.h" alt="" coords="3743,257,3907,299"/>
+<area shape="rect" id="node49" href="$resize_8h.html" title="modules/perception\l/inference/utils/resize.h" alt="" coords="3303,257,3478,299"/>
+<area shape="rect" id="node50" href="$modules_2perception_2inference_2utils_2util_8h.html" title="modules/perception\l/inference/utils/util.h" alt="" coords="3123,257,3279,299"/>
+<area shape="rect" id="node17" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="2444,473,2599,499"/>
+<area shape="rect" id="node21" href="$binary_8h.html" title="cyber/binary.h" alt="" coords="2475,555,2589,581"/>
+<area shape="rect" id="node25" href="$comparison__traits_8h.html" title="modules/perception\l/base/comparison_traits.h" alt="" coords="1153,369,1343,410"/>
+<area shape="rect" id="node28" href="$point_8h.html" title="modules/perception\l/base/point.h" alt="" coords="1721,369,1871,410"/>
+<area shape="rect" id="node32" href="$blob_8h.html" title="modules/perception\l/base/blob.h" alt="" coords="3111,369,3262,410"/>
+<area shape="rect" id="node34" href="$base_2image_8h.html" title="modules/perception\l/base/image.h" alt="" coords="2937,369,3087,410"/>
+<area shape="rect" id="node35" href="$base_2object_8h.html" title="modules/perception\l/base/object.h" alt="" coords="2209,369,2359,410"/>
+<area shape="rect" id="node37" href="$camera_8h.html" title="modules/perception\l/base/camera.h" alt="" coords="4655,369,4806,410"/>
+<area shape="rect" id="node38" href="$camera__frame_8h.html" title="modules/perception\l/camera/common/camera\l_frame.h" alt="" coords="4129,361,4319,417"/>
+<area shape="rect" id="node39" href="$camera_2lib_2interface_2base__init__options_8h.html" title="modules/perception\l/camera/lib/interface\l/base_init_options.h" alt="" coords="4932,361,5089,417"/>
+<area shape="rect" id="node40" href="$registerer_8h.html" title="modules/perception\l/lib/registerer/registerer.h" alt="" coords="4393,369,4580,410"/>
+<area shape="rect" id="node44" href="$math__functions_8h.html" title="modules/perception\l/camera/common/math\l_functions.h" alt="" coords="1697,250,1871,306"/>
+</map>

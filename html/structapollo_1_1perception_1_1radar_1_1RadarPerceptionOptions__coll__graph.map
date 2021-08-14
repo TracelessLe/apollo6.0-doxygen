@@ -1,0 +1,5 @@
+<map id="apollo::perception::radar::RadarPerceptionOptions" name="apollo::perception::radar::RadarPerceptionOptions">
+<area shape="rect" id="node2" href="$structapollo_1_1perception_1_1radar_1_1TrackerOptions.html" title="{apollo::perception\l::radar::TrackerOptions\n||}" alt="" coords="5,35,175,127"/>
+<area shape="rect" id="node3" href="$structapollo_1_1perception_1_1radar_1_1RoiFilterOptions.html" title="{apollo::perception\l::radar::RoiFilterOptions\n|+ roi\l|}" alt="" coords="199,35,373,127"/>
+<area shape="rect" id="node4" href="$structapollo_1_1perception_1_1radar_1_1DetectorOptions.html" title="{apollo::perception\l::radar::DetectorOptions\n|+ radar2world_pose\l+ radar2novatel_trans\l+ car_linear_speed\l+ car_angular_speed\l+ roi\l|}" alt="" coords="398,5,577,156"/>
+</map>

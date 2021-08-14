@@ -1,0 +1,5 @@
+<map id="apollo::planning::TrajectoryOptimizer" name="apollo::planning::TrajectoryOptimizer">
+<area shape="rect" id="node3" href="$classapollo_1_1planning_1_1OpenSpaceTrajectoryPartition.html" title="{apollo::planning::OpenSpace\lTrajectoryPartition\n||+ OpenSpaceTrajectoryPartition()\l+ ~OpenSpaceTrajectoryPartition()\l+ Restart()\l}" alt="" coords="5,483,255,605"/>
+<area shape="rect" id="node4" href="$classapollo_1_1planning_1_1OpenSpaceTrajectoryProvider.html" title="{apollo::planning::OpenSpace\lTrajectoryProvider\n||+ OpenSpaceTrajectoryProvider()\l+ ~OpenSpaceTrajectoryProvider()\l+ Stop()\l+ Restart()\l}" alt="" coords="279,476,528,612"/>
+<area shape="rect" id="node2" href="$classapollo_1_1planning_1_1Task.html" title="{apollo::planning::Task\n|# frame_\l# reference_line_info_\l# config_\l# name_\l# injector_\l|+ Task()\l+ Task()\l+ ~Task()\l+ Name()\l+ Config()\l+ Execute()\l+ Execute()\l}" alt="" coords="181,5,351,229"/>
+</map>

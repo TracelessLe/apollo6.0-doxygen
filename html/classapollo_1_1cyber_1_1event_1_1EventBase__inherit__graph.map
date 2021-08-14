@@ -1,0 +1,4 @@
+<map id="apollo::cyber::event::EventBase" name="apollo::cyber::event::EventBase">
+<area shape="rect" id="node2" href="$classapollo_1_1cyber_1_1event_1_1SchedEvent.html" title="{apollo::cyber::event\l::SchedEvent\n||+ SchedEvent()\l+ SerializeToString()\l+ set_cr_id()\l+ set_cr_state()\l+ set_proc_id()\l}" alt="" coords="5,329,160,479"/>
+<area shape="rect" id="node3" href="$classapollo_1_1cyber_1_1event_1_1TransportEvent.html" title="{apollo::cyber::event\l::TransportEvent\n||+ TransportEvent()\l+ SerializeToString()\l+ set_msg_seq()\l+ set_channel_id()\l+ set_adder()\l+ ShowTransPerf()\l}" alt="" coords="184,321,339,487"/>
+</map>

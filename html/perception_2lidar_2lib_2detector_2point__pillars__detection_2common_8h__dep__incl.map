@@ -1,0 +1,8 @@
+<map id="modules/perception/lidar/lib/detector/point_pillars_detection/common.h" name="modules/perception/lidar/lib/detector/point_pillars_detection/common.h">
+<area shape="rect" id="node2" href="$point__pillars_8h.html" title="Algorithm for PointPillars. " alt="" coords="118,361,293,432"/>
+<area shape="rect" id="node5" href="$nms__cuda_8h.html" title="Non&#45;maximum suppresion for network output. " alt="" coords="181,124,355,195"/>
+<area shape="rect" id="node7" href="$pfe__cuda_8h.html" title="modules/perception\l/lidar/lib/detector\l/point_pillars_detection\l/pfe_cuda.h" alt="" coords="379,124,554,195"/>
+<area shape="rect" id="node3" href="$mask__pillars__detection_8h.html" title="modules/perception\l/lidar/lib/detector\l/mask_pillars_detection\l/mask_pillars_detection.h" alt="" coords="5,480,195,551"/>
+<area shape="rect" id="node4" href="$point__pillars__detection_8h.html" title="modules/perception\l/lidar/lib/detector\l/point_pillars_detection\l/point_pillars_detection.h" alt="" coords="219,480,405,551"/>
+<area shape="rect" id="node6" href="$postprocess__cuda_8h.html" title="Postprocess for network output. " alt="" coords="181,243,355,313"/>
+</map>

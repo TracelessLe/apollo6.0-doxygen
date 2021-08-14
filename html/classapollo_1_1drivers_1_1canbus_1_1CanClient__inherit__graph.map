@@ -1,0 +1,6 @@
+<map id="apollo::drivers::canbus::CanClient" name="apollo::drivers::canbus::CanClient">
+<area shape="rect" id="node2" href="$classapollo_1_1drivers_1_1canbus_1_1can_1_1EsdCanClient.html" title="The class which defines an ESD CAN client which inherits CanClient. " alt="" coords="5,270,175,450"/>
+<area shape="rect" id="node3" href="$classapollo_1_1drivers_1_1canbus_1_1can_1_1FakeCanClient.html" title="The class which defines a fake CAN client which inherits CanClient. This fake CAN client is used for ..." alt="" coords="199,270,368,450"/>
+<area shape="rect" id="node4" href="$classapollo_1_1drivers_1_1canbus_1_1can_1_1HermesCanClient.html" title="The class which defines a BCAN client which inherits CanClient. " alt="" coords="392,263,567,457"/>
+<area shape="rect" id="node5" href="$classapollo_1_1drivers_1_1canbus_1_1can_1_1SocketCanClientRaw.html" title="The class which defines an ESD CAN client which inherites CanClient. " alt="" coords="591,270,787,450"/>
+</map>

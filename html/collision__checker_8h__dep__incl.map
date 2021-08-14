@@ -1,0 +1,8 @@
+<map id="modules/planning/constraint_checker/collision_checker.h" name="modules/planning/constraint_checker/collision_checker.h">
+<area shape="rect" id="node2" href="$backup__trajectory__generator_8h.html" title="modules/planning/lattice\l/trajectory_generation\l/backup_trajectory_generator.h" alt="" coords="5,95,229,151"/>
+<area shape="rect" id="node3" href="$node3d_8h.html" title="modules/planning/open\l_space/coarse_trajectory\l_generator/node3d.h" alt="" coords="253,95,437,151"/>
+<area shape="rect" id="node4" href="$hybrid__a__star_8h.html" title="modules/planning/open\l_space/coarse_trajectory\l_generator/hybrid_a_star.h" alt="" coords="247,303,441,359"/>
+<area shape="rect" id="node7" href="$reeds__shepp__path_8h.html" title="modules/planning/open\l_space/coarse_trajectory\l_generator/reeds_shepp_path.h" alt="" coords="307,199,533,255"/>
+<area shape="rect" id="node5" href="$open__space__trajectory__optimizer_8h.html" title="modules/planning/tasks\l/optimizers/open_space\l_trajectory_generation\l/open_space_trajectory_optimizer.h" alt="" coords="217,407,471,477"/>
+<area shape="rect" id="node6" href="$open__space__trajectory__provider_8h.html" title="modules/planning/tasks\l/optimizers/open_space\l_trajectory_generation\l/open_space_trajectory_provider.h" alt="" coords="221,525,467,596"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="modules/planning/common/decision_data.h" name="modules/planning/common/decision_data.h">
+<area shape="rect" id="node2" href="$box2d_8h.html" title="The class of Box2d. Here, the x/y axes are respectively Forward/Left, as opposed to what happens in e..." alt="" coords="1148,795,1326,836"/>
+<area shape="rect" id="node10" href="$planning_2common_2obstacle_8h.html" title="modules/planning/common\l/obstacle.h" alt="" coords="1214,95,1412,136"/>
+<area shape="rect" id="node33" href="$reference__line_8h.html" title="modules/planning/reference\l_line/reference_line.h" alt="" coords="1946,184,2150,225"/>
+<area shape="rect" id="node6" href="$aabox2d_8h.html" title="Defines the AABox2d class. " alt="" coords="1572,884,1750,925"/>
+<area shape="rect" id="node7" href="$vec2d_8h.html" title="Defines the Vec2d class. " alt="" coords="782,973,959,1015"/>
+<area shape="rect" id="node9" href="$line__segment2d_8h.html" title="Define the LineSegment2d class. " alt="" coords="1371,884,1548,925"/>
+<area shape="rect" id="node16" href="$indexed__list_8h.html" title="modules/planning/common\l/indexed_list.h" alt="" coords="1107,184,1306,225"/>
+<area shape="rect" id="node25" href="$st__boundary_8h.html" title="modules/planning/common\l/speed/st_boundary.h" alt="" coords="986,616,1184,657"/>
+<area shape="rect" id="node18" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="1502,459,1657,486"/>
+<area shape="rect" id="node23" href="$map__util_8h.html" title="Some map util functions. " alt="" coords="1128,273,1292,315"/>
+<area shape="rect" id="node22" href="$binary_8h.html" title="cyber/binary.h" alt="" coords="1452,802,1566,829"/>
+<area shape="rect" id="node28" href="$polygon2d_8h.html" title="Define the Polygon2d class. " alt="" coords="1515,705,1692,747"/>
+<area shape="rect" id="node29" href="$st__point_8h.html" title="modules/planning/common\l/speed/st_point.h" alt="" coords="282,884,480,925"/>
+<area shape="rect" id="node35" href="$path_8h.html" title="modules/map/pnc_map\l/path.h" alt="" coords="2062,363,2236,404"/>
+<area shape="rect" id="node48" href="$reference__point_8h.html" title="modules/planning/reference\l_line/reference_point.h" alt="" coords="2772,273,2976,315"/>
+<area shape="rect" id="node37" href="$hdmap_8h.html" title="modules/map/hdmap/hdmap.h" alt="" coords="2840,541,3061,568"/>
+<area shape="rect" id="node44" href="$hdmap__common_8h.html" title="modules/map/hdmap/hdmap\l_common.h" alt="" coords="2422,616,2631,657"/>
+<area shape="rect" id="node45" href="$hdmap__util_8h.html" title="modules/map/hdmap/hdmap\l_util.h" alt="" coords="2974,452,3183,493"/>
+<area shape="rect" id="node38" href="$cyber_2common_2macros_8h.html" title="cyber/common/macros.h" alt="" coords="2655,623,2838,650"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="modules/perception/camera/common/object_template_manager.h" name="modules/perception/camera/common/object_template_manager.h">
+<area shape="rect" id="node5" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="452,131,607,158"/>
+<area shape="rect" id="node10" href="$cyber_2common_2macros_8h.html" title="cyber/common/macros.h" alt="" coords="857,131,1039,158"/>
+<area shape="rect" id="node20" href="$object__types_8h.html" title="modules/perception\l/base/object_types.h" alt="" coords="39,124,195,165"/>
+<area shape="rect" id="node22" href="$mutex_8h.html" title="modules/perception\l/lib/thread/mutex.h" alt="" coords="1353,124,1503,165"/>
+<area shape="rect" id="node9" href="$binary_8h.html" title="cyber/binary.h" alt="" coords="473,228,586,255"/>
+<area shape="rect" id="node16" href="$cyber_2base_2macros_8h.html" title="cyber/base/macros.h" alt="" coords="1251,228,1408,255"/>
+</map>

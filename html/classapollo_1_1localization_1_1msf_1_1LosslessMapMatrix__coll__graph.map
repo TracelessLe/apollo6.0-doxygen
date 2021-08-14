@@ -1,0 +1,5 @@
+<map id="apollo::localization::msf::LosslessMapMatrix" name="apollo::localization::msf::LosslessMapMatrix">
+<area shape="rect" id="node2" href="$classapollo_1_1localization_1_1msf_1_1BaseMapMatrix.html" title="The data structure of the map cells in a map node. " alt="" coords="5,321,168,531"/>
+<area shape="rect" id="node3" href="$structapollo_1_1localization_1_1msf_1_1LosslessMapCell.html" title="The multiple layers of the cell. " alt="" coords="192,307,363,545"/>
+<area shape="rect" id="node4" href="$structapollo_1_1localization_1_1msf_1_1LosslessMapSingleCell.html" title="{apollo::localization\l::msf::LosslessMapSingleCell\n|+ intensity\l+ intensity_var\l+ altitude\l+ altitude_var\l+ count\l|+ LosslessMapSingleCell()\l+ Reset()\l+ AddSample()\l+ operator=()\l+ LoadBinary()\l+ CreateBinary()\l+ GetBinarySize()\l}" alt="" coords="172,5,383,244"/>
+</map>

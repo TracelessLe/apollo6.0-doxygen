@@ -1,0 +1,51 @@
+<map id="modules/common/util/eigen_defs.h" name="modules/common/util/eigen_defs.h">
+<area shape="rect" id="node2" href="$velodyne__utility_8h.html" title="The utilities of velodyne. " alt="" coords="5,102,197,158"/>
+<area shape="rect" id="node3" href="$visualization__engine_8h.html" title="The engine for localization visualization. " alt="" coords="273,95,445,165"/>
+<area shape="rect" id="node4" href="$visualization__manager_8h.html" title="modules/localization\l/msf/local_tool/local\l_visualization/engine\l/visualization_manager.h" alt="" coords="54,213,239,284"/>
+<area shape="rect" id="node5" href="$online__visualizer__component_8h.html" title="modules/localization\l/msf/local_tool/local\l_visualization/online\l_visual/online_visualizer\l_component.h" alt="" coords="242,332,425,417"/>
+<area shape="rect" id="node6" href="$offline__local__visualizer_8h.html" title="The offline tool for localization visualization. " alt="" coords="264,213,496,284"/>
+<area shape="rect" id="node7" href="$poses__interpolation_8h.html" title="modules/localization\l/msf/local_tool/map_creation\l/poses_interpolation/poses\l_interpolation.h" alt="" coords="571,95,781,165"/>
+<area shape="rect" id="node8" href="$point__cloud_8h.html" title="modules/perception\l/base/point_cloud.h" alt="" coords="2579,109,2730,151"/>
+<area shape="rect" id="node10" href="$base_2object__supplement_8h.html" title="modules/perception\l/base/object_supplement.h" alt="" coords="653,228,851,269"/>
+<area shape="rect" id="node14" href="$visualizer_8h.html" title="modules/perception\l/camera/tools/offline\l/visualizer.h" alt="" coords="3131,666,3287,722"/>
+<area shape="rect" id="node15" href="$camera__obstacle__detection__component_8h.html" title="modules/perception\l/onboard/component/camera\l_obstacle_detection_component.h" alt="" coords="1662,777,1906,833"/>
+<area shape="rect" id="node16" href="$fusion__camera__detection__component_8h.html" title="modules/perception\l/onboard/component/fusion\l_camera_detection_component.h" alt="" coords="2614,777,2853,833"/>
+<area shape="rect" id="node17" href="$lane__detection__component_8h.html" title="modules/perception\l/onboard/component/lane\l_detection_component.h" alt="" coords="3219,777,3407,833"/>
+<area shape="rect" id="node27" href="$hdmap__struct_8h.html" title="modules/perception\l/base/hdmap_struct.h" alt="" coords="3647,465,3809,507"/>
+<area shape="rect" id="node28" href="$hdmap__input_8h.html" title="modules/perception\l/map/hdmap/hdmap_input.h" alt="" coords="3604,562,3809,603"/>
+<area shape="rect" id="node33" href="$perception_2common_2geometry_2common_8h.html" title="modules/perception\l/common/geometry/common.h" alt="" coords="3765,228,3987,269"/>
+<area shape="rect" id="node43" href="$roi__boundary__filter_8h.html" title="modules/perception\l/lidar/lib/object_filter\l_bank/roi_boundary_filter\l/roi_boundary_filter.h" alt="" coords="4012,213,4199,284"/>
+<area shape="rect" id="node44" href="$hdmap__roi__filter_8h.html" title="modules/perception\l/lidar/lib/roi_filter\l/hdmap_roi_filter/hdmap\l_roi_filter.h" alt="" coords="4223,213,4404,284"/>
+<area shape="rect" id="node45" href="$pose_8h.html" title="modules/perception\l/camera/lib/traffic\l_light/preprocessor/pose.h" alt="" coords="4631,102,4825,158"/>
+<area shape="rect" id="node47" href="$perception_2camera_2lib_2obstacle_2tracker_2common_2kalman__filter_8h.html" title="modules/perception\l/camera/lib/obstacle\l/tracker/common/kalman\l_filter.h" alt="" coords="4849,95,5036,165"/>
+<area shape="rect" id="node48" href="$omt__obstacle__tracker_8h.html" title="modules/perception\l/camera/lib/obstacle\l/tracker/omt/omt_obstacle\l_tracker.h" alt="" coords="5060,95,5255,165"/>
+<area shape="rect" id="node49" href="$ccrf__type__fusion_8h.html" title="modules/perception\l/lidar/lib/classifier\l/fused_classifier/ccrf\l_type_fusion.h" alt="" coords="5275,213,5429,284"/>
+<area shape="rect" id="node50" href="$modules_2perception_2lidar_2lib_2classifier_2fused__classifier_2util_8h.html" title="modules/perception\l/lidar/lib/classifier\l/fused_classifier/util.h" alt="" coords="5330,102,5494,158"/>
+<area shape="rect" id="node9" href="$frame__supplement_8h.html" title="modules/perception\l/base/frame_supplement.h" alt="" coords="2014,228,2210,269"/>
+<area shape="rect" id="node11" href="$base_2object_8h.html" title="modules/perception\l/base/object.h" alt="" coords="2209,354,2359,395"/>
+<area shape="rect" id="node12" href="$object__pool__types_8h.html" title="modules/perception\l/base/object_pool_types.h" alt="" coords="2683,465,2874,507"/>
+<area shape="rect" id="node18" href="$lidar__frame_8h.html" title="modules/perception\l/lidar/common/lidar\l_frame.h" alt="" coords="2703,555,2854,611"/>
+<area shape="rect" id="node20" href="$object__builder_8h.html" title="modules/perception\l/lidar/lib/object_builder\l/object_builder.h" alt="" coords="2525,666,2696,722"/>
+<area shape="rect" id="node21" href="$mask__pillars__detection_8h.html" title="modules/perception\l/lidar/lib/detector\l/mask_pillars_detection\l/mask_pillars_detection.h" alt="" coords="2720,659,2909,729"/>
+<area shape="rect" id="node22" href="$point__pillars__detection_8h.html" title="modules/perception\l/lidar/lib/detector\l/point_pillars_detection\l/point_pillars_detection.h" alt="" coords="2315,659,2501,729"/>
+<area shape="rect" id="node23" href="$roi__filter_8h.html" title="modules/perception\l/common/geometry/roi\l_filter.h" alt="" coords="3359,555,3529,611"/>
+<area shape="rect" id="node30" href="$point__cloud__util_8h.html" title="modules/perception\l/base/point_cloud_util.h" alt="" coords="2717,228,2893,269"/>
+<area shape="rect" id="node31" href="$basic_8h.html" title="modules/perception\l/common/geometry/basic.h" alt="" coords="2968,228,3168,269"/>
+<area shape="rect" id="node32" href="$downsampling_8h.html" title="modules/perception\l/common/point_cloud\l_processing/downsampling.h" alt="" coords="3189,347,3400,403"/>
+<area shape="rect" id="node34" href="$conditional__clustering_8h.html" title="modules/perception\l/common/graph/conditional\l_clustering.h" alt="" coords="3192,221,3392,277"/>
+<area shape="rect" id="node35" href="$perception_2common_2point__cloud__processing_2common_8h.html" title="modules/perception\l/common/point_cloud\l_processing/common.h" alt="" coords="3417,221,3589,277"/>
+<area shape="rect" id="node36" href="$cloud__mask_8h.html" title="modules/perception\l/lidar/common/cloud\l_mask.h" alt="" coords="2336,221,2491,277"/>
+<area shape="rect" id="node37" href="$spp__cluster_8h.html" title="modules/perception\l/lidar/lib/detector\l/cnn_segmentation/spp\l_engine/spp_cluster.h" alt="" coords="2384,339,2557,410"/>
+<area shape="rect" id="node38" href="$feature__descriptor_8h.html" title="modules/perception\l/lidar/common/feature\l_descriptor.h" alt="" coords="926,221,1093,277"/>
+<area shape="rect" id="node39" href="$pcl__util_8h.html" title="modules/perception\l/lidar/common/pcl_util.h" alt="" coords="1117,228,1296,269"/>
+<area shape="rect" id="node40" href="$feature__generator_8h.html" title="modules/perception\l/lidar/lib/detector\l/cnn_segmentation/feature\l_generator.h" alt="" coords="1320,213,1517,284"/>
+<area shape="rect" id="node41" href="$flood__fill_8h.html" title="modules/perception\l/lidar/lib/detector\l/ncut_segmentation/common\l/flood_fill.h" alt="" coords="1542,213,1754,284"/>
+<area shape="rect" id="node42" href="$lr__classifier_8h.html" title="modules/perception\l/lidar/lib/detector\l/ncut_segmentation/common\l/lr_classifier.h" alt="" coords="1778,213,1990,284"/>
+<area shape="rect" id="node24" href="$landmark__struct_8h.html" title="modules/perception\l/base/landmark_struct.h" alt="" coords="875,354,1053,395"/>
+<area shape="rect" id="node25" href="$plane__motion_8h.html" title="modules/perception\l/camera/lib/motion/plane\l_motion.h" alt="" coords="1078,347,1263,403"/>
+<area shape="rect" id="node26" href="$v2x__object_8h.html" title="modules/v2x/fusion\l/libs/common/v2x_object.h" alt="" coords="653,354,851,395"/>
+<area shape="rect" id="node13" href="$camera__frame_8h.html" title="modules/perception\l/camera/common/camera\l_frame.h" alt="" coords="3115,555,3304,611"/>
+<area shape="rect" id="node19" href="$map__manager_8h.html" title="modules/perception\l/lidar/lib/map_manager\l/map_manager.h" alt="" coords="2933,666,3107,722"/>
+<area shape="rect" id="node29" href="$inner__component__messages_8h.html" title="modules/perception\l/onboard/inner_component\l_messages/inner_component\l_messages.h" alt="" coords="3311,659,3523,729"/>
+<area shape="rect" id="node46" href="$base__tl__preprocessor_8h.html" title="modules/perception\l/camera/lib/interface\l/base_tl_preprocessor.h" alt="" coords="4641,221,4815,277"/>
+</map>

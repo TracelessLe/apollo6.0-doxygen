@@ -1,0 +1,6 @@
+<map id="modules/perception/camera/app/cipv_camera.h" name="modules/perception/camera/app/cipv_camera.h">
+<area shape="rect" id="node2" href="$visualizer_8h.html" title="modules/perception\l/camera/tools/offline\l/visualizer.h" alt="" coords="289,95,445,151"/>
+<area shape="rect" id="node3" href="$camera__obstacle__detection__component_8h.html" title="modules/perception\l/onboard/component/camera\l_obstacle_detection_component.h" alt="" coords="5,199,249,255"/>
+<area shape="rect" id="node4" href="$fusion__camera__detection__component_8h.html" title="modules/perception\l/onboard/component/fusion\l_camera_detection_component.h" alt="" coords="485,199,724,255"/>
+<area shape="rect" id="node5" href="$lane__detection__component_8h.html" title="modules/perception\l/onboard/component/lane\l_detection_component.h" alt="" coords="273,199,461,255"/>
+</map>

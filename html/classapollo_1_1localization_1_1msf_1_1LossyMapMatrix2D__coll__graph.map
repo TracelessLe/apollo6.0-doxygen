@@ -1,0 +1,4 @@
+<map id="apollo::localization::msf::LossyMapMatrix2D" name="apollo::localization::msf::LossyMapMatrix2D">
+<area shape="rect" id="node2" href="$classapollo_1_1localization_1_1msf_1_1BaseMapMatrix.html" title="The data structure of the map cells in a map node. " alt="" coords="5,5,168,215"/>
+<area shape="rect" id="node3" href="$structapollo_1_1localization_1_1msf_1_1LossyMapCell2D.html" title="{apollo::localization\l::msf::LossyMapCell2D\n|+ count\l+ intensity\l+ intensity_var\l+ altitude\l+ altitude_ground\l+ is_ground_useful\l|+ LossyMapCell2D()\l+ Reset()\l+ operator=()\l}" alt="" coords="192,13,363,207"/>
+</map>

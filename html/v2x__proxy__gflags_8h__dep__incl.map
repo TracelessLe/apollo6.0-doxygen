@@ -1,0 +1,7 @@
+<map id="modules/v2x/common/v2x_proxy_gflags.h" name="modules/v2x/common/v2x_proxy_gflags.h">
+<area shape="rect" id="node2" href="$trafficlights__perception__component_8h.html" title="modules/perception\l/onboard/component/trafficlights\l_perception_component.h" alt="" coords="5,95,240,151"/>
+<area shape="rect" id="node3" href="$grpc__client_8h.html" title="define v2x proxy module and onboard unit interface grpc implement " alt="" coords="263,95,475,151"/>
+<area shape="rect" id="node6" href="$os__interface_8h.html" title="define v2x proxy module and apollo os interface " alt="" coords="475,206,677,247"/>
+<area shape="rect" id="node4" href="$obu__interface__grpc__impl_8h.html" title="define v2x proxy module and onboard unit interface grpc impl class " alt="" coords="243,199,451,255"/>
+<area shape="rect" id="node5" href="$v2x__proxy_8h.html" title="define v2x proxy class " alt="" coords="372,303,551,344"/>
+</map>

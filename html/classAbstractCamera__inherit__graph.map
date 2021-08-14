@@ -1,0 +1,4 @@
+<map id="AbstractCamera" name="AbstractCamera">
+<area shape="rect" id="node2" href="$classFreeCamera.html" title="{FreeCamera\n||+ FreeCamera()\l+ ~FreeCamera()\l+ UpdateWorld()\l+ tanslation()\l+ set_translation()\l+ Walk()\l+ Starfe()\l+ Lift()\l}" alt="" coords="5,512,149,692"/>
+<area shape="rect" id="node3" href="$classTargetCamera.html" title="{TargetCamera\n||+ TargetCamera()\l+ UpdateWorld()\l+ target_pos()\l+ set_target_pos()\l+ set_target_pos()\l+ distance()\l+ set_distance()\l+ Rotate()\l}" alt="" coords="174,512,317,692"/>
+</map>

@@ -1,0 +1,30 @@
+<map id="modules/perception/onboard/msg_buffer/msg_buffer.h" name="modules/perception/onboard/msg_buffer/msg_buffer.h">
+<area shape="rect" id="node9" href="$cyber_8h.html" title="cyber/cyber.h" alt="" coords="3377,109,3487,136"/>
+<area shape="rect" id="node10" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="3752,623,3907,650"/>
+<area shape="rect" id="node15" href="$component_8h.html" title="cyber/component/component.h" alt="" coords="1837,184,2061,211"/>
+<area shape="rect" id="node35" href="$cyber_2node_2node_8h.html" title="cyber/node/node.h" alt="" coords="1081,355,1223,382"/>
+<area shape="rect" id="node42" href="$init_8h.html" title="cyber/init.h" alt="" coords="3798,445,3893,471"/>
+<area shape="rect" id="node44" href="$cyber_2task_2task_8h.html" title="cyber/task/task.h" alt="" coords="3475,534,3610,561"/>
+<area shape="rect" id="node47" href="$time_8h.html" title="cyber/time/time.h" alt="" coords="269,184,408,211"/>
+<area shape="rect" id="node49" href="$cyber_2timer_2timer_8h.html" title="cyber/timer/timer.h" alt="" coords="3299,445,3445,471"/>
+<area shape="rect" id="node14" href="$binary_8h.html" title="cyber/binary.h" alt="" coords="3373,705,3486,732"/>
+<area shape="rect" id="node16" href="$cyber_2base_2macros_8h.html" title="cyber/base/macros.h" alt="" coords="3561,705,3719,732"/>
+<area shape="rect" id="node19" href="$blocker__manager_8h.html" title="cyber/blocker/blocker\l_manager.h" alt="" coords="545,527,708,568"/>
+<area shape="rect" id="node23" href="$global__data_8h.html" title="cyber/common/global\l_data.h" alt="" coords="1784,527,1947,568"/>
+<area shape="rect" id="node31" href="$cyber_2common_2util_8h.html" title="cyber/common/util.h" alt="" coords="1609,623,1765,650"/>
+<area shape="rect" id="node32" href="$cyber_2common_2types_8h.html" title="cyber/common/types.h" alt="" coords="3104,445,3275,471"/>
+<area shape="rect" id="node33" href="$component__base_8h.html" title="cyber/component/component\l_base.h" alt="" coords="1986,259,2198,300"/>
+<area shape="rect" id="node39" href="$scheduler_8h.html" title="cyber/scheduler/scheduler.h" alt="" coords="2315,355,2517,382"/>
+<area shape="rect" id="node40" href="$routine__factory_8h.html" title="cyber/croutine/routine\l_factory.h" alt="" coords="1877,437,2043,479"/>
+<area shape="rect" id="node41" href="$data__visitor_8h.html" title="cyber/data/data_visitor.h" alt="" coords="1310,534,1493,561"/>
+<area shape="rect" id="node22" href="$blocker_8h.html" title="cyber/blocker/blocker.h" alt="" coords="651,623,824,650"/>
+<area shape="rect" id="node25" href="$atomic__hash__map_8h.html" title="cyber/base/atomic_hash\l_map.h" alt="" coords="2649,616,2829,657"/>
+<area shape="rect" id="node29" href="$atomic__rw__lock_8h.html" title="cyber/base/atomic_rw\l_lock.h" alt="" coords="2853,616,3019,657"/>
+<area shape="rect" id="node30" href="$cyber_2common_2macros_8h.html" title="cyber/common/macros.h" alt="" coords="2219,623,2402,650"/>
+<area shape="rect" id="node37" href="$node__channel__impl_8h.html" title="cyber/node/node_channel\l_impl.h" alt="" coords="737,437,925,479"/>
+<area shape="rect" id="node38" href="$node__service__impl_8h.html" title="cyber/node/node_service\l_impl.h" alt="" coords="1051,437,1235,479"/>
+<area shape="rect" id="node43" href="$state_8h.html" title="cyber/state.h" alt="" coords="3635,534,3741,561"/>
+<area shape="rect" id="node46" href="$task__manager_8h.html" title="cyber/task/task_manager.h" alt="" coords="2426,623,2625,650"/>
+<area shape="rect" id="node48" href="$duration_8h.html" title="cyber/time/duration.h" alt="" coords="2679,266,2841,293"/>
+<area shape="rect" id="node50" href="$timing__wheel_8h.html" title="cyber/timer/timing\l_wheel.h" alt="" coords="3206,527,3349,568"/>
+</map>

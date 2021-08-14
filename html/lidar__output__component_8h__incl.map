@@ -1,0 +1,33 @@
+<map id="modules/perception/onboard/component/lidar_output_component.h" name="modules/perception/onboard/component/lidar_output_component.h">
+<area shape="rect" id="node3" href="$component_8h.html" title="cyber/component/component.h" alt="" coords="2103,317,2327,344"/>
+<area shape="rect" id="node45" href="$inner__component__messages_8h.html" title="modules/perception\l/onboard/inner_component\l_messages/inner_component\l_messages.h" alt="" coords="4263,109,4475,180"/>
+<area shape="rect" id="node6" href="$cyber_2base_2macros_8h.html" title="cyber/base/macros.h" alt="" coords="3937,1107,4095,1133"/>
+<area shape="rect" id="node9" href="$blocker__manager_8h.html" title="cyber/blocker/blocker\l_manager.h" alt="" coords="3548,735,3711,776"/>
+<area shape="rect" id="node15" href="$global__data_8h.html" title="cyber/common/global\l_data.h" alt="" coords="2101,928,2264,969"/>
+<area shape="rect" id="node25" href="$cyber_2common_2util_8h.html" title="cyber/common/util.h" alt="" coords="2147,1025,2303,1051"/>
+<area shape="rect" id="node26" href="$cyber_2common_2types_8h.html" title="cyber/common/types.h" alt="" coords="1552,935,1723,962"/>
+<area shape="rect" id="node27" href="$component__base_8h.html" title="cyber/component/component\l_base.h" alt="" coords="955,392,1167,433"/>
+<area shape="rect" id="node35" href="$scheduler_8h.html" title="cyber/scheduler/scheduler.h" alt="" coords="1265,489,1468,515"/>
+<area shape="rect" id="node37" href="$routine__factory_8h.html" title="cyber/croutine/routine\l_factory.h" alt="" coords="1885,571,2051,612"/>
+<area shape="rect" id="node38" href="$data__visitor_8h.html" title="cyber/data/data_visitor.h" alt="" coords="2641,660,2823,687"/>
+<area shape="rect" id="node13" href="$blocker_8h.html" title="cyber/blocker/blocker.h" alt="" coords="3461,839,3635,865"/>
+<area shape="rect" id="node17" href="$atomic__hash__map_8h.html" title="cyber/base/atomic_hash\l_map.h" alt="" coords="1222,1017,1402,1059"/>
+<area shape="rect" id="node21" href="$atomic__rw__lock_8h.html" title="cyber/base/atomic_rw\l_lock.h" alt="" coords="1629,1017,1795,1059"/>
+<area shape="rect" id="node23" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="1043,1025,1197,1051"/>
+<area shape="rect" id="node24" href="$cyber_2common_2macros_8h.html" title="cyber/common/macros.h" alt="" coords="2481,1025,2663,1051"/>
+<area shape="rect" id="node30" href="$class__loader_8h.html" title="cyber/class_loader\l/class_loader.h" alt="" coords="2990,831,3133,873"/>
+<area shape="rect" id="node32" href="$environment_8h.html" title="cyber/common/environment.h" alt="" coords="803,935,1021,962"/>
+<area shape="rect" id="node33" href="$file_8h.html" title="cyber/common/file.h" alt="" coords="675,839,829,865"/>
+<area shape="rect" id="node34" href="$cyber_2node_2node_8h.html" title="cyber/node/node.h" alt="" coords="398,1025,541,1051"/>
+<area shape="rect" id="node36" href="$croutine_8h.html" title="cyber/croutine/croutine.h" alt="" coords="1461,839,1645,865"/>
+<area shape="rect" id="node44" href="$perf__event__cache_8h.html" title="cyber/event/perf_event\l_cache.h" alt="" coords="2440,928,2613,969"/>
+<area shape="rect" id="node39" href="$channel__buffer_8h.html" title="cyber/data/channel\l_buffer.h" alt="" coords="2520,831,2667,873"/>
+<area shape="rect" id="node40" href="$data__dispatcher_8h.html" title="cyber/data/data_dispatcher.h" alt="" coords="2465,742,2676,769"/>
+<area shape="rect" id="node41" href="$data__visitor__base_8h.html" title="cyber/data/data_visitor\l_base.h" alt="" coords="2742,831,2914,873"/>
+<area shape="rect" id="node42" href="$all__latest_8h.html" title="cyber/data/fusion/all\l_latest.h" alt="" coords="2287,735,2441,776"/>
+<area shape="rect" id="node43" href="$data__fusion_8h.html" title="cyber/data/fusion/data\l_fusion.h" alt="" coords="2176,831,2344,873"/>
+<area shape="rect" id="node46" href="$cyber_8h.html" title="cyber/cyber.h" alt="" coords="407,235,516,262"/>
+<area shape="rect" id="node47" href="$perception_2base_2frame_8h.html" title="modules/perception\l/base/frame.h" alt="" coords="4670,831,4821,873"/>
+<area shape="rect" id="node48" href="$hdmap__struct_8h.html" title="modules/perception\l/base/hdmap_struct.h" alt="" coords="4432,831,4595,873"/>
+<area shape="rect" id="node49" href="$impending__collision__edge_8h.html" title="modules/perception\l/base/impending_collision\l_edge.h" alt="" coords="3913,824,4103,880"/>
+</map>

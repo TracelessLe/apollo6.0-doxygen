@@ -1,0 +1,6 @@
+<map id="apollo::localization::msf::pyramid_map::BaseMap" name="apollo::localization::msf::pyramid_map::BaseMap">
+<area shape="rect" id="node2" href="$classapollo_1_1localization_1_1msf_1_1MapNodeCache.html" title="{apollo::localization\l::msf::MapNodeCache\&lt;\l apollo::localization\l::msf::pyramid_map::MapNodeIndex,\l apollo::localization::msf::pyramid\l_map::BaseMapNode \&gt;\n||+ MapNodeCache()\l+ ~MapNodeCache()\l+ Get()\l+ GetSilent()\l+ Put()\l+ Remove()\l+ ClearOne()\l+ IsExist()\l+ ChangeCapacity()\l+ Size()\l+ Capacity()\l+ CacheL1Destroy()\l+ CacheL2Destroy()\l}" alt="" coords="5,799,268,1125"/>
+<area shape="rect" id="node3" href="$classapollo_1_1localization_1_1msf_1_1pyramid__map_1_1BaseMapConfig.html" title="The options of the reflectance map. " alt="" coords="228,321,448,736"/>
+<area shape="rect" id="node6" href="$classapollo_1_1localization_1_1msf_1_1pyramid__map_1_1BaseMapNodePool.html" title="The memory pool for the data structure of BaseMapNode. " alt="" coords="439,828,659,1096"/>
+<area shape="rect" id="node4" href="$classapollo_1_1localization_1_1msf_1_1Rect2D.html" title="{apollo::localization\l::msf::Rect2D\&lt; double \&gt;\n||+ Rect2D()\l+ Rect2D()\l+ Rect2D()\l+ operator=()\l+ GetMinX()\l+ GetMinY()\l+ GetMaxX()\l+ GetMaxY()\l+ GetLeftTopCorner()\l+ GetRightBottomCorner()\l}" alt="" coords="166,5,361,229"/>
+</map>

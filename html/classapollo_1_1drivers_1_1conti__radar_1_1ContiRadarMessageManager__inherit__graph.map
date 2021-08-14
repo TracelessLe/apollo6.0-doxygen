@@ -1,0 +1,3 @@
+<map id="apollo::drivers::conti_radar::ContiRadarMessageManager" name="apollo::drivers::conti_radar::ContiRadarMessageManager">
+<area shape="rect" id="node2" href="$classapollo_1_1drivers_1_1canbus_1_1MessageManager.html" title="{apollo::drivers::canbus\l::MessageManager\&lt; ContiRadar \&gt;\n|# send_protocol_data_\l# recv_protocol_data_\l# protocol_data_map_\l# check_ids_\l# received_ids_\l# sensor_data_mutex_\l# sensor_data_\l# is_received_on_time_\l# cvar_\l|+ MessageManager()\l+ ~MessageManager()\l+ Parse()\l+ ClearSensorData()\l+ GetMutableCVar()\l+ GetMutableProtocolDataById()\l+ GetSensorData()\l+ ResetSendMessages()\l# AddRecvProtocolData()\l# AddSendProtocolData()\l}" alt="" coords="11,5,256,347"/>
+</map>

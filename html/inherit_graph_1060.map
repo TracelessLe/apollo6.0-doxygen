@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classapollo_1_1planning_1_1PiecewiseJerkProblem.html" title="apollo::planning::Piecewise\lJerkProblem" alt="" coords="5,39,204,80"/>
+<area shape="rect" id="node2" href="$classapollo_1_1planning_1_1PiecewiseJerkPathProblem.html" title="apollo::planning::Piecewise\lJerkPathProblem" alt="" coords="252,5,451,47"/>
+<area shape="rect" id="node3" href="$classapollo_1_1planning_1_1PiecewiseJerkSpeedProblem.html" title="apollo::planning::Piecewise\lJerkSpeedProblem" alt="" coords="252,71,451,112"/>
+</map>

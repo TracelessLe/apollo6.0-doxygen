@@ -1,0 +1,4 @@
+<map id="modules/planning/scenarios/traffic_light/protected/traffic_light_protected_scenario.h" name="modules/planning/scenarios/traffic_light/protected/traffic_light_protected_scenario.h">
+<area shape="rect" id="node2" href="$traffic__light_2protected_2stage__approach_8h.html" title="modules/planning/scenarios\l/traffic_light/protected\l/stage_approach.h" alt="" coords="5,124,209,180"/>
+<area shape="rect" id="node3" href="$traffic__light_2protected_2stage__intersection__cruise_8h.html" title="modules/planning/scenarios\l/traffic_light/protected\l/stage_intersection_cruise.h" alt="" coords="233,124,437,180"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="modules/common/filters/mean_filter.h" name="modules/common/filters/mean_filter.h">
+<area shape="rect" id="node2" href="$lat__controller_8h.html" title="Defines the LatController class. " alt="" coords="31,95,224,136"/>
+<area shape="rect" id="node4" href="$mpc__controller_8h.html" title="Defines the MPCController class. " alt="" coords="263,95,456,136"/>
+<area shape="rect" id="node3" href="$lat__lon__controller__submodule_8h.html" title="modules/control/submodules\l/lat_lon_controller_submodule.h" alt="" coords="5,184,236,225"/>
+<area shape="rect" id="node5" href="$mpc__controller__submodule_8h.html" title="modules/control/submodules\l/mpc_controller_submodule.h" alt="" coords="260,184,475,225"/>
+</map>

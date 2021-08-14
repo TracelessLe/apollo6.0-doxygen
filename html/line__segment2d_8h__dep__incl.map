@@ -1,0 +1,51 @@
+<map id="modules/common/math/line_segment2d.h" name="modules/common/math/line_segment2d.h">
+<area shape="rect" id="node2" href="$box2d_8h.html" title="The class of Box2d. Here, the x/y axes are respectively Forward/Left, as opposed to what happens in e..." alt="" coords="1403,95,1580,136"/>
+<area shape="rect" id="node27" href="$polygon2d_8h.html" title="Define the Polygon2d class. " alt="" coords="871,191,1048,233"/>
+<area shape="rect" id="node32" href="$path_8h.html" title="modules/map/pnc_map\l/path.h" alt="" coords="595,556,769,597"/>
+<area shape="rect" id="node44" href="$hdmap__impl_8h.html" title="modules/map/hdmap/hdmap\l_impl.h" alt="" coords="392,392,601,433"/>
+<area shape="rect" id="node48" href="$iterative__anchoring__smoother_8h.html" title="modules/planning/open\l_space/trajectory_smoother\l/iterative_anchoring_smoother.h" alt="" coords="4963,184,5195,240"/>
+<area shape="rect" id="node49" href="$map_2pnc__map_2cuda__util_8h.html" title="modules/map/pnc_map\l/cuda_util.h" alt="" coords="4869,95,5044,136"/>
+<area shape="rect" id="node50" href="$grid__search_8h.html" title="modules/planning/open\l_space/coarse_trajectory\l_generator/grid_search.h" alt="" coords="4853,288,5037,344"/>
+<area shape="rect" id="node3" href="$vehicle__config__helper_8h.html" title="modules/common/configs\l/vehicle_config_helper.h" alt="" coords="2759,846,2949,887"/>
+<area shape="rect" id="node36" href="$planning_2common_2obstacle_8h.html" title="modules/planning/common\l/obstacle.h" alt="" coords="1129,846,1328,887"/>
+<area shape="rect" id="node37" href="$decision__data_8h.html" title="modules/planning/common\l/decision_data.h" alt="" coords="559,957,757,999"/>
+<area shape="rect" id="node38" href="$collision__checker_8h.html" title="modules/planning/constraint\l_checker/collision_checker.h" alt="" coords="1265,1076,1472,1117"/>
+<area shape="rect" id="node39" href="$node3d_8h.html" title="modules/planning/open\l_space/coarse_trajectory\l_generator/node3d.h" alt="" coords="2093,1180,2277,1236"/>
+<area shape="rect" id="node41" href="$trajectory__cost_8h.html" title="modules/planning/tasks\l/optimizers/road_graph\l/trajectory_cost.h" alt="" coords="1117,950,1295,1006"/>
+<area shape="rect" id="node45" href="$st__boundary_8h.html" title="modules/planning/common\l/speed/st_boundary.h" alt="" coords="1180,392,1379,433"/>
+<area shape="rect" id="node46" href="$vehicle__state__provider_8h.html" title="modules/common/vehicle\l_state/vehicle_state_provider.h" alt="" coords="1553,846,1779,887"/>
+<area shape="rect" id="node47" href="$trajectory__analyzer_8h.html" title="Defines the TrajectoryAnalyzer class. " alt="" coords="1560,957,1748,999"/>
+<area shape="rect" id="node4" href="$vehicle__controller_8h.html" title="The class of VehicleController. " alt="" coords="3659,957,3838,999"/>
+<area shape="rect" id="node5" href="$vehicle__model_8h.html" title="modules/common/vehicle\l_model/vehicle_model.h" alt="" coords="3863,957,4053,999"/>
+<area shape="rect" id="node6" href="$cipv__camera_8h.html" title="modules/perception\l/camera/app/cipv_camera.h" alt="" coords="4078,957,4281,999"/>
+<area shape="rect" id="node7" href="$open__space__info_8h.html" title="modules/planning/common\l/open_space_info.h" alt="" coords="323,957,521,999"/>
+<area shape="rect" id="node8" href="$obstacle__blocking__analyzer_8h.html" title="modules/planning/common\l/obstacle_blocking_analyzer.h" alt="" coords="4305,957,4523,999"/>
+<area shape="rect" id="node9" href="$end__condition__sampler_8h.html" title="modules/planning/lattice\l/trajectory_generation\l/end_condition_sampler.h" alt="" coords="1891,1069,2079,1125"/>
+<area shape="rect" id="node10" href="$birdview__img__feature__renderer_8h.html" title="Define the birdview img feature renderer class. " alt="" coords="4547,950,4788,1006"/>
+<area shape="rect" id="node11" href="$navi__obstacle__decider_8h.html" title="This file provides the declaration of the class &quot;NaviSpeedDecider&quot;. " alt="" coords="1773,950,1943,1006"/>
+<area shape="rect" id="node12" href="$hybrid__a__star_8h.html" title="modules/planning/open\l_space/coarse_trajectory\l_generator/hybrid_a_star.h" alt="" coords="2217,1284,2411,1340"/>
+<area shape="rect" id="node14" href="$distance__approach__interface_8h.html" title="modules/planning/open\l_space/trajectory_smoother\l/distance_approach_interface.h" alt="" coords="2503,950,2728,1006"/>
+<area shape="rect" id="node15" href="$distance__approach__ipopt__cuda__interface_8h.html" title="modules/planning/open\l_space/trajectory_smoother\l/distance_approach_ipopt\l_cuda_interface.h" alt="" coords="4199,1061,4402,1132"/>
+<area shape="rect" id="node16" href="$distance__approach__ipopt__fixed__dual__interface_8h.html" title="modules/planning/open\l_space/trajectory_smoother\l/distance_approach_ipopt\l_fixed_dual_interface.h" alt="" coords="4582,1061,4785,1132"/>
+<area shape="rect" id="node17" href="$distance__approach__ipopt__fixed__ts__interface_8h.html" title="modules/planning/open\l_space/trajectory_smoother\l/distance_approach_ipopt\l_fixed_ts_interface.h" alt="" coords="2351,1061,2554,1132"/>
+<area shape="rect" id="node18" href="$distance__approach__ipopt__interface_8h.html" title="modules/planning/open\l_space/trajectory_smoother\l/distance_approach_ipopt\l_interface.h" alt="" coords="2578,1061,2781,1132"/>
+<area shape="rect" id="node19" href="$distance__approach__ipopt__relax__end__interface_8h.html" title="modules/planning/open\l_space/trajectory_smoother\l/distance_approach_ipopt\l_relax_end_interface.h" alt="" coords="2805,1061,3007,1132"/>
+<area shape="rect" id="node20" href="$distance__approach__ipopt__relax__end__slack__interface_8h.html" title="modules/planning/open\l_space/trajectory_smoother\l/distance_approach_ipopt\l_relax_end_slack_interface.h" alt="" coords="3654,1061,3865,1132"/>
+<area shape="rect" id="node21" href="$dual__variable__warm__start__ipopt__interface_8h.html" title="modules/planning/open\l_space/trajectory_smoother\l/dual_variable_warm_start\l_ipopt_interface.h" alt="" coords="2753,943,2955,1013"/>
+<area shape="rect" id="node22" href="$dual__variable__warm__start__ipopt__qp__interface_8h.html" title="modules/planning/open\l_space/trajectory_smoother\l/dual_variable_warm_start\l_ipopt_qp_interface.h" alt="" coords="2979,943,3182,1013"/>
+<area shape="rect" id="node23" href="$dual__variable__warm__start__osqp__interface_8h.html" title="modules/planning/open\l_space/trajectory_smoother\l/dual_variable_warm_start\l_osqp_interface.h" alt="" coords="3206,943,3409,1013"/>
+<area shape="rect" id="node24" href="$dual__variable__warm__start__slack__osqp__interface_8h.html" title="modules/planning/open\l_space/trajectory_smoother\l/dual_variable_warm_start\l_slack_osqp_interface.h" alt="" coords="3433,943,3635,1013"/>
+<area shape="rect" id="node25" href="$stage__check_8h.html" title="modules/planning/scenarios\l/park_and_go/stage_check.h" alt="" coords="2019,957,2225,999"/>
+<area shape="rect" id="node26" href="$open__space__roi__decider_8h.html" title="modules/planning/tasks\l/deciders/open_space_decider\l/open_space_roi_decider.h" alt="" coords="1319,950,1536,1006"/>
+<area shape="rect" id="node13" href="$open__space__trajectory__optimizer_8h.html" title="modules/planning/tasks\l/optimizers/open_space\l_trajectory_generation\l/open_space_trajectory_optimizer.h" alt="" coords="3570,1388,3823,1459"/>
+<area shape="rect" id="node28" href="$hdmap__common_8h.html" title="modules/map/hdmap/hdmap\l_common.h" alt="" coords="585,295,795,337"/>
+<area shape="rect" id="node40" href="$path__time__graph_8h.html" title="modules/planning/lattice\l/behavior/path_time_graph.h" alt="" coords="781,957,991,999"/>
+<area shape="rect" id="node29" href="$hdmap_8h.html" title="modules/map/hdmap/hdmap.h" alt="" coords="386,481,607,508"/>
+<area shape="rect" id="node30" href="$pnc__map_8h.html" title="modules/map/pnc_map\l/pnc_map.h" alt="" coords="28,749,203,791"/>
+<area shape="rect" id="node33" href="$route__segments_8h.html" title="modules/map/pnc_map\l/route_segments.h" alt="" coords="28,653,203,694"/>
+<area shape="rect" id="node31" href="$valet__parking__scenario_8h.html" title="modules/planning/scenarios\l/park/valet_parking/valet\l_parking_scenario.h" alt="" coords="153,839,357,895"/>
+<area shape="rect" id="node34" href="$prediction__map_8h.html" title="modules/prediction\l/common/prediction_map.h" alt="" coords="582,653,782,694"/>
+<area shape="rect" id="node35" href="$reference__line_8h.html" title="modules/planning/reference\l_line/reference_line.h" alt="" coords="908,749,1112,791"/>
+<area shape="rect" id="node42" href="$reference__point_8h.html" title="modules/planning/reference\l_line/reference_point.h" alt="" coords="908,653,1112,694"/>
+<area shape="rect" id="node43" href="$creep__decider_8h.html" title="modules/planning/tasks\l/deciders/creep_decider\l/creep_decider.h" alt="" coords="380,645,557,701"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="apollo::cyber::transport::PosixSegment" name="apollo::cyber::transport::PosixSegment">
+<area shape="rect" id="node2" href="$classapollo_1_1cyber_1_1transport_1_1Segment.html" title="{apollo::cyber::transport\l::Segment\n|# init_\l# conf_\l# channel_id_\l# state_\l# blocks_\l# managed_shm_\l# block_buf_lock_\l# block_buf_addrs_\l|+ Segment()\l+ ~Segment()\l+ AcquireBlockToWrite()\l+ ReleaseWrittenBlock()\l+ AcquireBlockToRead()\l+ ReleaseReadBlock()\l# Destroy()\l# Reset()\l# Remove()\l# OpenOnly()\l# OpenOrCreate()\l}" alt="" coords="5,5,187,347"/>
+</map>

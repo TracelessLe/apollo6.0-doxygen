@@ -1,0 +1,31 @@
+<map id="modules/drivers/lidar/lidar_driver_component.h" name="modules/drivers/lidar/lidar_driver_component.h">
+<area shape="rect" id="node4" href="$cyber_8h.html" title="cyber/cyber.h" alt="" coords="1315,303,1424,329"/>
+<area shape="rect" id="node45" href="$lidar__driver__factory_8h.html" title="Defines the LidarFactory class. " alt="" coords="3572,95,3751,151"/>
+<area shape="rect" id="node7" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="1305,795,1460,821"/>
+<area shape="rect" id="node12" href="$component_8h.html" title="cyber/component/component.h" alt="" coords="2031,377,2255,404"/>
+<area shape="rect" id="node27" href="$cyber_2node_2node_8h.html" title="cyber/node/node.h" alt="" coords="2877,541,3019,568"/>
+<area shape="rect" id="node34" href="$init_8h.html" title="cyber/init.h" alt="" coords="1014,541,1109,568"/>
+<area shape="rect" id="node37" href="$cyber_2task_2task_8h.html" title="cyber/task/task.h" alt="" coords="558,623,693,650"/>
+<area shape="rect" id="node40" href="$time_8h.html" title="cyber/time/time.h" alt="" coords="5,541,144,568"/>
+<area shape="rect" id="node43" href="$cyber_2timer_2timer_8h.html" title="cyber/timer/timer.h" alt="" coords="1509,623,1656,650"/>
+<area shape="rect" id="node11" href="$binary_8h.html" title="cyber/binary.h" alt="" coords="1475,869,1589,896"/>
+<area shape="rect" id="node14" href="$cyber_2base_2macros_8h.html" title="cyber/base/macros.h" alt="" coords="3033,869,3191,896"/>
+<area shape="rect" id="node15" href="$blocker__manager_8h.html" title="cyber/blocker/blocker\l_manager.h" alt="" coords="3489,705,3652,747"/>
+<area shape="rect" id="node18" href="$global__data_8h.html" title="cyber/common/global\l_data.h" alt="" coords="1892,705,2055,747"/>
+<area shape="rect" id="node22" href="$cyber_2common_2util_8h.html" title="cyber/common/util.h" alt="" coords="1599,795,1755,821"/>
+<area shape="rect" id="node23" href="$cyber_2common_2types_8h.html" title="cyber/common/types.h" alt="" coords="768,623,939,650"/>
+<area shape="rect" id="node25" href="$component__base_8h.html" title="cyber/component/component\l_base.h" alt="" coords="2305,452,2517,493"/>
+<area shape="rect" id="node31" href="$scheduler_8h.html" title="cyber/scheduler/scheduler.h" alt="" coords="2041,541,2244,568"/>
+<area shape="rect" id="node32" href="$routine__factory_8h.html" title="cyber/croutine/routine\l_factory.h" alt="" coords="1940,616,2105,657"/>
+<area shape="rect" id="node33" href="$data__visitor_8h.html" title="cyber/data/data_visitor.h" alt="" coords="2231,713,2414,739"/>
+<area shape="rect" id="node19" href="$cyber_2common_2macros_8h.html" title="cyber/common/macros.h" alt="" coords="1882,795,2065,821"/>
+<area shape="rect" id="node29" href="$node__channel__impl_8h.html" title="cyber/node/node_channel\l_impl.h" alt="" coords="2749,616,2937,657"/>
+<area shape="rect" id="node30" href="$node__service__impl_8h.html" title="cyber/node/node_service\l_impl.h" alt="" coords="2961,616,3145,657"/>
+<area shape="rect" id="node35" href="$state_8h.html" title="cyber/state.h" alt="" coords="1115,623,1221,650"/>
+<area shape="rect" id="node39" href="$task__manager_8h.html" title="cyber/task/task_manager.h" alt="" coords="662,713,861,739"/>
+<area shape="rect" id="node42" href="$duration_8h.html" title="cyber/time/duration.h" alt="" coords="269,623,432,650"/>
+<area shape="rect" id="node44" href="$timing__wheel_8h.html" title="cyber/timer/timing\l_wheel.h" alt="" coords="1522,705,1665,747"/>
+<area shape="rect" id="node47" href="$factory_8h.html" title="Defines the Factory class. " alt="" coords="2693,705,2857,747"/>
+<area shape="rect" id="node48" href="$driver__base_8h.html" title="Defines the CanFrame struct and CanClient interface. " alt="" coords="2224,199,2403,255"/>
+<area shape="rect" id="node50" href="$lidar_2hesai_2parser_2parser_8h.html" title="modules/drivers/lidar\l/hesai/parser/parser.h" alt="" coords="3521,206,3684,247"/>
+</map>

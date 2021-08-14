@@ -1,0 +1,11 @@
+<map id="modules/map/hdmap/hdmap_common.h" name="modules/map/hdmap/hdmap_common.h">
+<area shape="rect" id="node6" href="$aabox2d_8h.html" title="Defines the AABox2d class. " alt="" coords="655,273,832,315"/>
+<area shape="rect" id="node7" href="$vec2d_8h.html" title="Defines the Vec2d class. " alt="" coords="1391,363,1568,404"/>
+<area shape="rect" id="node9" href="$aaboxkdtree2d_8h.html" title="Defines the templated AABoxKDTree2dNode class. " alt="" coords="401,184,579,225"/>
+<area shape="rect" id="node17" href="$math__utils_8h.html" title="Math&#45;related util functions. " alt="" coords="1060,273,1237,315"/>
+<area shape="rect" id="node20" href="$polygon2d_8h.html" title="Define the Polygon2d class. " alt="" coords="1047,95,1224,136"/>
+<area shape="rect" id="node12" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="163,281,318,307"/>
+<area shape="rect" id="node16" href="$binary_8h.html" title="cyber/binary.h" alt="" coords="501,370,615,397"/>
+<area shape="rect" id="node21" href="$box2d_8h.html" title="The class of Box2d. Here, the x/y axes are respectively Forward/Left, as opposed to what happens in e..." alt="" coords="933,184,1111,225"/>
+<area shape="rect" id="node22" href="$line__segment2d_8h.html" title="Define the LineSegment2d class. " alt="" coords="1261,273,1439,315"/>
+</map>

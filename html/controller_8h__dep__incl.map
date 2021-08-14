@@ -1,0 +1,11 @@
+<map id="modules/control/controller/controller.h" name="modules/control/controller/controller.h">
+<area shape="rect" id="node2" href="$controller__agent_8h.html" title="Defines the ControllerAgent class. " alt="" coords="10,95,203,136"/>
+<area shape="rect" id="node5" href="$lat__controller_8h.html" title="Defines the LatController class. " alt="" coords="227,95,421,136"/>
+<area shape="rect" id="node6" href="$lat__lon__controller__submodule_8h.html" title="modules/control/submodules\l/lat_lon_controller_submodule.h" alt="" coords="343,184,574,225"/>
+<area shape="rect" id="node7" href="$lon__controller_8h.html" title="Defines the LonController class. " alt="" coords="497,95,690,136"/>
+<area shape="rect" id="node8" href="$mpc__controller_8h.html" title="Defines the MPCController class. " alt="" coords="714,95,907,136"/>
+<area shape="rect" id="node9" href="$mpc__controller__submodule_8h.html" title="modules/control/submodules\l/mpc_controller_submodule.h" alt="" coords="770,184,985,225"/>
+<area shape="rect" id="node10" href="$postprocessor__submodule_8h.html" title="modules/control/submodules\l/postprocessor_submodule.h" alt="" coords="983,95,1193,136"/>
+<area shape="rect" id="node3" href="$control__component_8h.html" title="modules/control/control\l_component.h" alt="" coords="19,184,195,225"/>
+<area shape="rect" id="node4" href="$control__test__base_8h.html" title="modules/control/integration\l_tests/control_test_base.h" alt="" coords="5,273,208,315"/>
+</map>

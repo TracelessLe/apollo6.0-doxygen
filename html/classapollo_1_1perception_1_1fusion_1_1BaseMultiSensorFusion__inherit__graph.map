@@ -1,0 +1,3 @@
+<map id="apollo::perception::fusion::BaseMultiSensorFusion" name="apollo::perception::fusion::BaseMultiSensorFusion">
+<area shape="rect" id="node2" href="$classapollo_1_1perception_1_1fusion_1_1ObstacleMultiSensorFusion.html" title="{apollo::perception\l::fusion::ObstacleMultiSensor\lFusion\n|# fusion_\l|+ ObstacleMultiSensorFusion()\l+ ~ObstacleMultiSensorFusion()\l+ Init()\l+ Process()\l+ Name()\l}" alt="" coords="5,204,237,369"/>
+</map>

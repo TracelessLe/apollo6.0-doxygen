@@ -1,0 +1,6 @@
+<map id="modules/perception/camera/lib/traffic_light/detector/detection/cropbox.h" name="modules/perception/camera/lib/traffic_light/detector/detection/cropbox.h">
+<area shape="rect" id="node2" href="$perception_2base_2traffic__light_8h.html" title="modules/perception\l/base/traffic_light.h" alt="" coords="155,124,306,165"/>
+<area shape="rect" id="node6" href="$box_8h.html" title="modules/perception\l/base/box.h" alt="" coords="371,213,522,255"/>
+<area shape="rect" id="node9" href="$comparison__traits_8h.html" title="modules/perception\l/base/comparison_traits.h" alt="" coords="290,303,481,344"/>
+<area shape="rect" id="node12" href="$point_8h.html" title="modules/perception\l/base/point.h" alt="" coords="115,303,266,344"/>
+</map>

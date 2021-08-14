@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classapollo_1_1data_1_1RecordProcessor.html" title="Process messages and apply the rules based on configured triggers. " alt="" coords="5,46,220,73"/>
+<area shape="rect" id="node2" href="$classapollo_1_1data_1_1PostRecordProcessor.html" title="Post processor against recorded tasks that have been completed. " alt="" coords="283,5,462,47"/>
+<area shape="rect" id="node3" href="$classapollo_1_1data_1_1RealtimeRecordProcessor.html" title="Realtime processor against recorded tasks that are being recorded. " alt="" coords="268,71,477,112"/>
+</map>

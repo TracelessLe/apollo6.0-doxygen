@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['simd_5fchar_5fas_5flonglong',['SIMD_CHAR_AS_LONGLONG',['../modules_2drivers_2camera_2util_8h.html#a5345812a9694b32321166fe1906c15b1',1,'util.h']]],
+  ['simd_5finline',['SIMD_INLINE',['../modules_2drivers_2camera_2util_8h.html#af68ded75fa5bc718de0a3bb8ddc2e230',1,'util.h']]],
+  ['simd_5fint_5fas_5flonglong',['SIMD_INT_AS_LONGLONG',['../modules_2drivers_2camera_2util_8h.html#ade60b67c3e2dcc2cda9815f0177a5263',1,'util.h']]],
+  ['simd_5fll_5fset1_5fepi16',['SIMD_LL_SET1_EPI16',['../modules_2drivers_2camera_2util_8h.html#a49f498fb0f382e8ef0fb7e79a5b7397d',1,'util.h']]],
+  ['simd_5fll_5fset1_5fepi32',['SIMD_LL_SET1_EPI32',['../modules_2drivers_2camera_2util_8h.html#a74d71fe619098b5d1291b90351f01677',1,'util.h']]],
+  ['simd_5fll_5fset1_5fepi8',['SIMD_LL_SET1_EPI8',['../modules_2drivers_2camera_2util_8h.html#a523e8f68dcec171b6cbc4e164860ad51',1,'util.h']]],
+  ['simd_5fll_5fset2_5fepi16',['SIMD_LL_SET2_EPI16',['../modules_2drivers_2camera_2util_8h.html#a45d486d313dec65103c39c4191539f5e',1,'util.h']]],
+  ['simd_5fll_5fset2_5fepi32',['SIMD_LL_SET2_EPI32',['../modules_2drivers_2camera_2util_8h.html#a0a2a013e92ae7f6e15b6a2b9630b50ef',1,'util.h']]],
+  ['simd_5fll_5fset2_5fepi8',['SIMD_LL_SET2_EPI8',['../modules_2drivers_2camera_2util_8h.html#aeb696149307bee92c8570baeaeb87656',1,'util.h']]],
+  ['simd_5fll_5fsetr_5fepi16',['SIMD_LL_SETR_EPI16',['../modules_2drivers_2camera_2util_8h.html#a8933ff13fa69ea253320f71f1b44fde7',1,'util.h']]],
+  ['simd_5fll_5fsetr_5fepi8',['SIMD_LL_SETR_EPI8',['../modules_2drivers_2camera_2util_8h.html#a1e426c2740f59ad4ae8af04bf5a1b999',1,'util.h']]],
+  ['simd_5fmm256_5fset1_5fepi16',['SIMD_MM256_SET1_EPI16',['../modules_2drivers_2camera_2util_8h.html#a2aaf3b554695a03b7e7ad23e9da52e79',1,'util.h']]],
+  ['simd_5fmm256_5fset1_5fepi32',['SIMD_MM256_SET1_EPI32',['../modules_2drivers_2camera_2util_8h.html#a8895410309fcb0e16a6a1bf85b4d872b',1,'util.h']]],
+  ['simd_5fmm256_5fset1_5fepi8',['SIMD_MM256_SET1_EPI8',['../modules_2drivers_2camera_2util_8h.html#a919f1788f73590018c38716e5a995e5e',1,'util.h']]],
+  ['simd_5fmm256_5fset2_5fepi16',['SIMD_MM256_SET2_EPI16',['../modules_2drivers_2camera_2util_8h.html#ad45df7b911bf24704267b3b8edbf7dbf',1,'util.h']]],
+  ['simd_5fmm256_5fset2_5fepi32',['SIMD_MM256_SET2_EPI32',['../modules_2drivers_2camera_2util_8h.html#a3f707824f94115e47f7f3d741fd90459',1,'util.h']]],
+  ['simd_5fmm256_5fset2_5fepi8',['SIMD_MM256_SET2_EPI8',['../modules_2drivers_2camera_2util_8h.html#a6d3deb8f0486372988700d5ba9ac9914',1,'util.h']]],
+  ['simd_5fmm256_5fsetr_5fepi16',['SIMD_MM256_SETR_EPI16',['../modules_2drivers_2camera_2util_8h.html#a59abab6d6003a0c4a715abd8e3fce9f7',1,'util.h']]],
+  ['simd_5fmm256_5fsetr_5fepi32',['SIMD_MM256_SETR_EPI32',['../modules_2drivers_2camera_2util_8h.html#a41f9b5616a5d7aa4d6eb0edf0cb20581',1,'util.h']]],
+  ['simd_5fmm256_5fsetr_5fepi8',['SIMD_MM256_SETR_EPI8',['../modules_2drivers_2camera_2util_8h.html#a8b6a6bade4c487fde5c8d41d44ae5656',1,'util.h']]],
+  ['simd_5fshort_5fas_5flonglong',['SIMD_SHORT_AS_LONGLONG',['../modules_2drivers_2camera_2util_8h.html#aee5511b4fbee93e5140ba6f0f168148d',1,'util.h']]],
+  ['sin_5ftable_5fsize',['SIN_TABLE_SIZE',['../sin__table_8h.html#af7f8e3d5bbc499df0bcb95f8e050585c',1,'sin_table.h']]],
+  ['sys_5fstream',['SYS_STREAM',['../client__common_8h.html#a359fd73a16c1378822d0e6ab9e82cddc',1,'client_common.h']]],
+  ['system_5foutput_5fstream',['SYSTEM_OUTPUT_STREAM',['../client__common_8h.html#af92476d25f08060d2b2751d401474436',1,'client_common.h']]]
+];

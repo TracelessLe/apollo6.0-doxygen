@@ -1,0 +1,5 @@
+<map id="modules/planning/open_space/trajectory_smoother/distance_approach_ipopt_fixed_ts_interface.h" name="modules/planning/open_space/trajectory_smoother/distance_approach_ipopt_fixed_ts_interface.h">
+<area shape="rect" id="node2" href="$distance__approach__problem_8h.html" title="modules/planning/open\l_space/trajectory_smoother\l/distance_approach_problem.h" alt="" coords="21,124,243,180"/>
+<area shape="rect" id="node3" href="$open__space__trajectory__optimizer_8h.html" title="modules/planning/tasks\l/optimizers/open_space\l_trajectory_generation\l/open_space_trajectory_optimizer.h" alt="" coords="5,228,259,299"/>
+<area shape="rect" id="node4" href="$open__space__trajectory__provider_8h.html" title="modules/planning/tasks\l/optimizers/open_space\l_trajectory_generation\l/open_space_trajectory_provider.h" alt="" coords="9,347,255,417"/>
+</map>

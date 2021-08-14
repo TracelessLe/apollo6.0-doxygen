@@ -1,0 +1,4 @@
+<map id="apollo::cyber::transport::ShmTransmitter&lt; M &gt;" name="apollo::cyber::transport::ShmTransmitter&lt; M &gt;">
+<area shape="rect" id="node2" href="$classapollo_1_1cyber_1_1transport_1_1Transmitter.html" title="{apollo::cyber::transport\l::Transmitter\&lt; M \&gt;\n|# seq_num_\l# msg_info_\l|+ Transmitter()\l+ ~Transmitter()\l+ Enable()\l+ Disable()\l+ Enable()\l+ Disable()\l+ Transmit()\l+ Transmit()\l+ NextSeqNum()\l+ seq_num()\l}" alt="" coords="6,219,179,457"/>
+<area shape="rect" id="node3" href="$classapollo_1_1cyber_1_1transport_1_1Endpoint.html" title="{apollo::cyber::transport\l::Endpoint\n|# enabled_\l# id_\l# attr_\l|+ Endpoint()\l+ ~Endpoint()\l+ id()\l+ attributes()\l}" alt="" coords="6,5,179,171"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classapollo_1_1perception_1_1fusion_1_1BaseFusionSystem.html" title="apollo::perception\l::fusion::BaseFusionSystem" alt="" coords="5,39,205,80"/>
+<area shape="rect" id="node2" href="$classapollo_1_1perception_1_1fusion_1_1DummyFusionSystem.html" title="apollo::perception\l::fusion::DummyFusionSystem" alt="" coords="253,5,473,47"/>
+<area shape="rect" id="node3" href="$classapollo_1_1perception_1_1fusion_1_1ProbabilisticFusion.html" title="apollo::perception\l::fusion::ProbabilisticFusion" alt="" coords="264,71,463,112"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="apollo::perception::lidar::BasePointCloudPreprocessor" name="apollo::perception::lidar::BasePointCloudPreprocessor">
+<area shape="rect" id="node2" href="$classapollo_1_1perception_1_1lidar_1_1PointCloudPreprocessor.html" title="{apollo::perception\l::lidar::PointCloudPreprocessor\n||+ PointCloudPreprocessor()\l+ ~PointCloudPreprocessor()\l+ Init()\l+ Preprocess()\l+ Preprocess()\l+ Name()\l}" alt="" coords="21,219,243,384"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classapollo_1_1cyber_1_1service__discovery_1_1WarehouseBase.html" title="apollo::cyber::service\l_discovery::WarehouseBase" alt="" coords="5,39,208,80"/>
+<area shape="rect" id="node2" href="$classapollo_1_1cyber_1_1service__discovery_1_1MultiValueWarehouse.html" title="apollo::cyber::service\l_discovery::MultiValueWarehouse" alt="" coords="260,5,499,47"/>
+<area shape="rect" id="node3" href="$classapollo_1_1cyber_1_1service__discovery_1_1SingleValueWarehouse.html" title="apollo::cyber::service\l_discovery::SingleValueWarehouse" alt="" coords="256,71,503,112"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classapollo_1_1hdmap_1_1Alignment.html" title="apollo::hdmap::Alignment\l\&lt; REQUEST_TYPE, RESPONSE_TYPE \&gt;" alt="" coords="5,86,273,127"/>
+<area shape="rect" id="node2" href="$classapollo_1_1hdmap_1_1EightRoute.html" title="apollo::hdmap::EightRoute" alt="" coords="321,63,515,89"/>
+<area shape="rect" id="node3" href="$classapollo_1_1hdmap_1_1StaticAlign.html" title="apollo::hdmap::StaticAlign" alt="" coords="321,124,515,151"/>
+<area shape="rect" id="node4" href="$classapollo_1_1hdmap_1_1Alignment.html" title="apollo::hdmap::Alignment\l\&lt; EightRouteRequest, EightRoute\lResponse \&gt;" alt="" coords="21,5,258,61"/>
+<area shape="rect" id="node5" href="$classapollo_1_1hdmap_1_1Alignment.html" title="apollo::hdmap::Alignment\l\&lt; StaticAlignRequest, StaticAlign\lResponse \&gt;" alt="" coords="21,152,258,208"/>
+</map>

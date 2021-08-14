@@ -1,0 +1,7 @@
+<map id="modules/planning/scenarios/common/stage_intersection_cruise_impl.h" name="modules/planning/scenarios/common/stage_intersection_cruise_impl.h">
+<area shape="rect" id="node2" href="$bare__intersection_2unprotected_2stage__intersection__cruise_8h.html" title="modules/planning/scenarios\l/bare_intersection/unprotected\l/stage_intersection_cruise.h" alt="" coords="5,117,227,173"/>
+<area shape="rect" id="node3" href="$stop__sign_2unprotected_2stage__intersection__cruise_8h.html" title="modules/planning/scenarios\l/stop_sign/unprotected/stage\l_intersection_cruise.h" alt="" coords="251,117,461,173"/>
+<area shape="rect" id="node4" href="$traffic__light_2protected_2stage__intersection__cruise_8h.html" title="modules/planning/scenarios\l/traffic_light/protected\l/stage_intersection_cruise.h" alt="" coords="486,117,690,173"/>
+<area shape="rect" id="node5" href="$traffic__light_2unprotected__left__turn_2stage__intersection__cruise_8h.html" title="modules/planning/scenarios\l/traffic_light/unprotected\l_left_turn/stage_intersection\l_cruise.h" alt="" coords="715,109,923,180"/>
+<area shape="rect" id="node6" href="$traffic__light_2unprotected__right__turn_2stage__intersection__cruise_8h.html" title="modules/planning/scenarios\l/traffic_light/unprotected\l_right_turn/stage_intersection\l_cruise.h" alt="" coords="947,109,1163,180"/>
+</map>

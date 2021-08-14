@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classapollo_1_1perception_1_1base_1_1BaseObjectPool.html" title="apollo::perception\l::base::BaseObjectPool\l\&lt; ObjectType \&gt;" alt="" coords="5,85,176,141"/>
+<area shape="rect" id="node2" href="$classapollo_1_1perception_1_1base_1_1ConcurrentObjectPool.html" title="apollo::perception\l::base::ConcurrentObjectPool\l\&lt; ObjectType, N, Initializer \&gt;" alt="" coords="224,5,435,61"/>
+<area shape="rect" id="node3" href="$classapollo_1_1perception_1_1base_1_1DummyObjectPool.html" title="apollo::perception\l::base::DummyObjectPool\l\&lt; ObjectType \&gt;" alt="" coords="234,85,425,141"/>
+<area shape="rect" id="node4" href="$classapollo_1_1perception_1_1base_1_1LightObjectPool.html" title="apollo::perception\l::base::LightObjectPool\l\&lt; ObjectType, N, Initializer,\l sensor_type \&gt;" alt="" coords="229,166,429,237"/>
+</map>

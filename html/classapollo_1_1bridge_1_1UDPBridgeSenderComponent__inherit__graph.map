@@ -1,0 +1,4 @@
+<map id="apollo::bridge::UDPBridgeSenderComponent&lt; T &gt;" name="apollo::bridge::UDPBridgeSenderComponent&lt; T &gt;">
+<area shape="rect" id="node2" href="$classapollo_1_1cyber_1_1Component.html" title="{apollo::cyber::Component\&lt; T \&gt;\n||+ Component()\l+ ~Component()\l+ Initialize()\l+ Process()\l}" alt="" coords="11,447,237,568"/>
+<area shape="rect" id="node3" href="$classapollo_1_1cyber_1_1ComponentBase.html" title="{apollo::cyber::ComponentBase\n|# is_shutdown_\l# node_\l# config_file_path_\l# readers_\l|+ ~ComponentBase()\l+ Initialize()\l+ Initialize()\l+ Shutdown()\l+ GetProtoConfig()\l# Init()\l# Clear()\l# ConfigFilePath()\l# LoadConfigFiles()\l# LoadConfigFiles()\l}" alt="" coords="13,145,235,399"/>
+</map>

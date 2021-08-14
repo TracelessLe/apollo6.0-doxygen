@@ -1,0 +1,4 @@
+<map id="apollo::drivers::video::HwPduPacket" name="apollo::drivers::video::HwPduPacket">
+<area shape="rect" id="node2" href="$structapollo_1_1drivers_1_1video_1_1RtpHeader.html" title="{apollo::drivers::video\l::RtpHeader\n|+ csrc_count\l+ extension\l+ padding\l+ version\l+ payloadtype\l+ marker\l+ seq\l+ timestamp\l+ ssrc\l|}" alt="" coords="5,49,164,259"/>
+<area shape="rect" id="node3" href="$structapollo_1_1drivers_1_1video_1_1FrameHeader.html" title="{apollo::drivers::video\l::FrameHeader\n|+ magic0\l+ magic1\l+ PhyNo\l+ frame_type\l+ error\l+ resv\l+ frame_size\l+ frame_id\l+ ts_sec\l+ ts_usec\l+ height\l+ width\l+ format\l+ resv0\l+ resv1\l|}" alt="" coords="188,5,347,303"/>
+</map>

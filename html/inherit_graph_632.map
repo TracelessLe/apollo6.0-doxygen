@@ -1,0 +1,21 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structapollo_1_1perception_1_1camera_1_1BaseInitOptions.html" title="apollo::perception\l::camera::BaseInitOptions" alt="" coords="5,663,196,705"/>
+<area shape="rect" id="node2" href="$structapollo_1_1perception_1_1camera_1_1CalibrationServiceInitOptions.html" title="apollo::perception\l::camera::CalibrationService\lInitOptions" alt="" coords="262,5,469,61"/>
+<area shape="rect" id="node3" href="$structapollo_1_1perception_1_1camera_1_1CalibratorInitOptions.html" title="apollo::perception\l::camera::CalibratorInitOptions" alt="" coords="254,86,477,127"/>
+<area shape="rect" id="node4" href="$structapollo_1_1perception_1_1camera_1_1CameraPerceptionInitOptions.html" title="apollo::perception\l::camera::CameraPerception\lInitOptions" alt="" coords="262,152,469,208"/>
+<area shape="rect" id="node5" href="$structapollo_1_1perception_1_1camera_1_1CipvInitOptions.html" title="apollo::perception\l::camera::CipvInitOptions" alt="" coords="272,233,459,274"/>
+<area shape="rect" id="node6" href="$structapollo_1_1perception_1_1camera_1_1FeatureExtractorInitOptions.html" title="apollo::perception\l::camera::FeatureExtractor\lInitOptions" alt="" coords="268,299,463,355"/>
+<area shape="rect" id="node7" href="$structapollo_1_1perception_1_1camera_1_1InferenceEngineInitOptions.html" title="apollo::perception\l::camera::InferenceEngineInit\lOptions" alt="" coords="259,379,472,435"/>
+<area shape="rect" id="node8" href="$structapollo_1_1perception_1_1camera_1_1LandmarkDetectorInitOptions.html" title="apollo::perception\l::camera::LandmarkDetector\lInitOptions" alt="" coords="261,459,469,515"/>
+<area shape="rect" id="node9" href="$structapollo_1_1perception_1_1camera_1_1LaneDetectorInitOptions.html" title="apollo::perception\l::camera::LaneDetectorInit\lOptions" alt="" coords="268,539,463,595"/>
+<area shape="rect" id="node10" href="$structapollo_1_1perception_1_1camera_1_1LanePostprocessorInitOptions.html" title="apollo::perception\l::camera::LanePostprocessor\lInitOptions" alt="" coords="261,619,470,675"/>
+<area shape="rect" id="node11" href="$structapollo_1_1perception_1_1camera_1_1LaneTrackerInitOptions.html" title="apollo::perception\l::camera::LaneTrackerInitOptions" alt="" coords="247,699,483,741"/>
+<area shape="rect" id="node12" href="$structapollo_1_1perception_1_1camera_1_1ObstacleDetectorInitOptions.html" title="apollo::perception\l::camera::ObstacleDetector\lInitOptions" alt="" coords="265,765,465,821"/>
+<area shape="rect" id="node13" href="$structapollo_1_1perception_1_1camera_1_1ObstaclePostprocessorInitOptions.html" title="apollo::perception\l::camera::ObstaclePostprocessor\lInitOptions" alt="" coords="248,845,483,901"/>
+<area shape="rect" id="node14" href="$structapollo_1_1perception_1_1camera_1_1ObstacleTrackerInitOptions.html" title="apollo::perception\l::camera::ObstacleTrackerInit\lOptions" alt="" coords="259,925,471,981"/>
+<area shape="rect" id="node15" href="$structapollo_1_1perception_1_1camera_1_1ObstacleTransformerInitOptions.html" title="apollo::perception\l::camera::ObstacleTransformer\lInitOptions" alt="" coords="254,1005,477,1061"/>
+<area shape="rect" id="node16" href="$structapollo_1_1perception_1_1camera_1_1SceneParserInitOptions.html" title="apollo::perception\l::camera::SceneParserInitOptions" alt="" coords="247,1086,484,1127"/>
+<area shape="rect" id="node17" href="$structapollo_1_1perception_1_1camera_1_1TrafficLightDetectorInitOptions.html" title="apollo::perception\l::camera::TrafficLightDetector\lInitOptions" alt="" coords="258,1152,473,1208"/>
+<area shape="rect" id="node18" href="$structapollo_1_1perception_1_1camera_1_1TrafficLightPreprocessorInitOptions.html" title="apollo::perception\l::camera::TrafficLightPreprocessor\lInitOptions" alt="" coords="244,1232,487,1288"/>
+<area shape="rect" id="node19" href="$structapollo_1_1perception_1_1camera_1_1TrafficLightTrackerInitOptions.html" title="apollo::perception\l::camera::TrafficLightTracker\lInitOptions" alt="" coords="263,1312,468,1368"/>
+</map>

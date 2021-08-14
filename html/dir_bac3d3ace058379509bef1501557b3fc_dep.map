@@ -1,0 +1,9 @@
+<map id="modules/canbus/vehicle/lexus" name="modules/canbus/vehicle/lexus">
+<area shape="rect" id="node2" href="dir_d708313ac4fba38783c0aa1c4a025030.html" title="protocol" alt="" coords="37,159,112,207"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000117_000118.html" title="12" alt="" coords="74,133,92,147"/>
+<area shape="rect" id="node3" href="dir_fa7c3dda3a065b7e0bb8d7e2b3a94e74.html" title="drivers" alt="" coords="76,255,148,303"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000117_000006.html" title="58" alt="" coords="124,232,141,246"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000118_000006.html" title="56" alt="" coords="95,227,112,241"/>
+<area shape="rect" id="clust2" href="dir_bac3d3ace058379509bef1501557b3fc.html" alt="" coords="27,52,123,217"/>
+<area shape="rect" id="clust1" href="dir_409ce8b77f68958566edc8f54246278d.html" title="vehicle" alt="" coords="16,16,133,228"/>
+</map>

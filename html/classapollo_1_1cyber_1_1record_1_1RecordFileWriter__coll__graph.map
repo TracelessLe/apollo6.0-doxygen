@@ -1,0 +1,3 @@
+<map id="apollo::cyber::record::RecordFileWriter" name="apollo::cyber::record::RecordFileWriter">
+<area shape="rect" id="node2" href="$classapollo_1_1cyber_1_1record_1_1RecordFileBase.html" title="{apollo::cyber::record\l::RecordFileBase\n|# mutex_\l# header_\l# index_\l# fd_\l|+ RecordFileBase()\l+ ~RecordFileBase()\l+ Open()\l+ Close()\l+ GetPath()\l+ GetHeader()\l+ GetIndex()\l+ CurrentPosition()\l+ SetPosition()\l}" alt="" coords="17,145,173,399"/>
+</map>

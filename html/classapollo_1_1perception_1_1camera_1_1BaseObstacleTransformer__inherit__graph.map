@@ -1,0 +1,5 @@
+<map id="apollo::perception::camera::BaseObstacleTransformer" name="apollo::perception::camera::BaseObstacleTransformer">
+<area shape="rect" id="node2" href="$classapollo_1_1perception_1_1camera_1_1DummyObstacleTransformer.html" title="{apollo::perception\l::camera::DummyObstacleTransformer\n||+ Init()\l+ Transform()\l+ Name()\l}" alt="" coords="5,255,280,377"/>
+<area shape="rect" id="node3" href="$classapollo_1_1perception_1_1camera_1_1MultiCueObstacleTransformer.html" title="{apollo::perception\l::camera::MultiCueObstacle\lTransformer\n|# object_template_manager_\l|+ MultiCueObstacleTransformer()\l+ ~MultiCueObstacleTransformer()\l+ Init()\l+ Transform()\l+ Name()\l}" alt="" coords="304,233,555,399"/>
+<area shape="rect" id="node4" href="$classapollo_1_1perception_1_1camera_1_1SingleStageObstacleTransformer.html" title="{apollo::perception\l::camera::SingleStageObstacle\lTransformer\n|# object_template_manager_\l|+ SingleStageObstacleTransformer()\l+ ~SingleStageObstacleTransformer()\l+ Init()\l+ Transform()\l+ Name()\l}" alt="" coords="579,233,850,399"/>
+</map>

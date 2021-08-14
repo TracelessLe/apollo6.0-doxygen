@@ -1,0 +1,8 @@
+<map id="modules/drivers/canbus/can_comm/can_receiver.h" name="modules/drivers/canbus/can_comm/can_receiver.h">
+<area shape="rect" id="node2" href="$canbus__component_8h.html" title="modules/canbus/canbus\l_component.h" alt="" coords="5,102,184,143"/>
+<area shape="rect" id="node3" href="$sensor__canbus_8h.html" title="modules/drivers/canbus\l/sensor_canbus.h" alt="" coords="209,102,386,143"/>
+<area shape="rect" id="node4" href="$conti__radar__canbus__component_8h.html" title="modules/drivers/radar\l/conti_radar/conti_radar\l_canbus_component.h" alt="" coords="411,95,587,151"/>
+<area shape="rect" id="node5" href="$racobit__radar__canbus__component_8h.html" title="modules/drivers/radar\l/racobit_radar/racobit\l_radar_canbus_component.h" alt="" coords="611,95,819,151"/>
+<area shape="rect" id="node6" href="$ultrasonic__radar__canbus_8h.html" title="modules/drivers/radar\l/ultrasonic_radar/ultrasonic\l_radar_canbus.h" alt="" coords="843,95,1042,151"/>
+<area shape="rect" id="node7" href="$ultrasonic__radar__canbus__component_8h.html" title="modules/drivers/radar\l/ultrasonic_radar/ultrasonic\l_radar_canbus_component.h" alt="" coords="839,199,1047,255"/>
+</map>

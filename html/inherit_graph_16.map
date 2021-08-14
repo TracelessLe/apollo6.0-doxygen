@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classapollo_1_1canbus_1_1VehicleController.html" title="This is the interface class of vehicle controller. It defines pure virtual functions, and also some implemented common functions. " alt="" coords="5,307,240,334"/>
+<area shape="rect" id="node2" href="$classapollo_1_1canbus_1_1ch_1_1ChController.html" title="apollo::canbus::ch\l::ChController" alt="" coords="318,5,457,47"/>
+<area shape="rect" id="node3" href="$classapollo_1_1canbus_1_1devkit_1_1DevkitController.html" title="apollo::canbus::devkit\l::DevkitController" alt="" coords="305,71,470,112"/>
+<area shape="rect" id="node4" href="$classapollo_1_1canbus_1_1ge3_1_1Ge3Controller.html" title="apollo::canbus::ge3\l::Ge3Controller" alt="" coords="313,136,461,177"/>
+<area shape="rect" id="node5" href="$classapollo_1_1canbus_1_1gem_1_1GemController.html" title="apollo::canbus::gem\l::GemController" alt="" coords="311,201,464,243"/>
+<area shape="rect" id="node6" href="$classapollo_1_1canbus_1_1lexus_1_1LexusController.html" title="apollo::canbus::lexus\l::LexusController" alt="" coords="308,267,467,308"/>
+<area shape="rect" id="node7" href="$classapollo_1_1canbus_1_1lincoln_1_1LincolnController.html" title="this class implements the vehicle controller for lincoln vehicle. " alt="" coords="304,332,471,373"/>
+<area shape="rect" id="node8" href="$classapollo_1_1canbus_1_1neolix__edu_1_1Neolix__eduController.html" title="apollo::canbus::neolix\l_edu::Neolix_eduController" alt="" coords="288,397,487,439"/>
+<area shape="rect" id="node9" href="$classapollo_1_1canbus_1_1transit_1_1TransitController.html" title="apollo::canbus::transit\l::TransitController" alt="" coords="304,463,471,504"/>
+<area shape="rect" id="node10" href="$classapollo_1_1canbus_1_1wey_1_1WeyController.html" title="apollo::canbus::wey\l::WeyController" alt="" coords="312,528,463,569"/>
+<area shape="rect" id="node11" href="$classapollo_1_1canbus_1_1zhongyun_1_1ZhongyunController.html" title="apollo::canbus::zhongyun\l::ZhongyunController" alt="" coords="294,593,481,635"/>
+</map>

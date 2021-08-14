@@ -1,0 +1,51 @@
+<map id="modules/common/util/future.h" name="modules/common/util/future.h">
+<area shape="rect" id="node2" href="$common_2status_2status_8h.html" title="modules/common/status\l/status.h" alt="" coords="3510,102,3693,143"/>
+<area shape="rect" id="node7" href="$navi__planning_8h.html" title="modules/planning/navi\l_planning.h" alt="" coords="3691,1045,3861,1087"/>
+<area shape="rect" id="node48" href="$kv__db_8h.html" title="modules/common/kv_db\l/kv_db.h" alt="" coords="6379,102,6562,143"/>
+<area shape="rect" id="node49" href="$string__util_8h.html" title="Some string util functions. " alt="" coords="6586,102,6750,143"/>
+<area shape="rect" id="node50" href="$fuel__monitor__manager_8h.html" title="modules/dreamview/backend\l/fuel_monitor/fuel_monitor\l_manager.h" alt="" coords="6774,95,6989,151"/>
+<area shape="rect" id="node3" href="$canbus__component_8h.html" title="modules/canbus/canbus\l_component.h" alt="" coords="6125,221,6304,262"/>
+<area shape="rect" id="node4" href="$vehicle__state__provider_8h.html" title="modules/common/vehicle\l_state/vehicle_state_provider.h" alt="" coords="2690,221,2915,262"/>
+<area shape="rect" id="node5" href="$relative__map_8h.html" title="modules/map/relative\l_map/relative_map.h" alt="" coords="2656,339,2821,381"/>
+<area shape="rect" id="node6" href="$planning__base_8h.html" title="modules/planning/planning\l_base.h" alt="" coords="3195,956,3394,997"/>
+<area shape="rect" id="node8" href="$mrac__controller_8h.html" title="modules/control/common\l/mrac_controller.h" alt="" coords="491,221,679,262"/>
+<area shape="rect" id="node9" href="$controller_8h.html" title="Defines the Controller base class. " alt="" coords="703,221,897,262"/>
+<area shape="rect" id="node10" href="$preprocessor__submodule_8h.html" title="modules/control/submodules\l/preprocessor_submodule.h" alt="" coords="921,221,1132,262"/>
+<area shape="rect" id="node11" href="$dreamview_8h.html" title="modules/dreamview/backend\l/dreamview.h" alt="" coords="1157,221,1371,262"/>
+<area shape="rect" id="node12" href="$racobit__radar__canbus__component_8h.html" title="modules/drivers/radar\l/racobit_radar/racobit\l_radar_canbus_component.h" alt="" coords="1396,213,1604,269"/>
+<area shape="rect" id="node13" href="$ultrasonic__radar__canbus_8h.html" title="modules/drivers/radar\l/ultrasonic_radar/ultrasonic\l_radar_canbus.h" alt="" coords="1629,213,1827,269"/>
+<area shape="rect" id="node14" href="$localization__gnss__process_8h.html" title="The class of LocalizationGnssProcess. " alt="" coords="261,213,467,269"/>
+<area shape="rect" id="node15" href="$localization__integ__impl_8h.html" title="The class of LocalizationIntegImpl. " alt="" coords="1831,332,2036,388"/>
+<area shape="rect" id="node16" href="$localization__integ_8h.html" title="The class of LocalizationInteg. " alt="" coords="2360,213,2565,269"/>
+<area shape="rect" id="node17" href="$msf__localization_8h.html" title="The class of MSFLocalization. " alt="" coords="2445,339,2619,381"/>
+<area shape="rect" id="node18" href="$localization__integ__process_8h.html" title="modules/localization\l/msf/local_integ/localization\l_integ_process.h" alt="" coords="1901,213,2107,269"/>
+<area shape="rect" id="node19" href="$localization__lidar__process_8h.html" title="The class of LocalizationLidarProcess. " alt="" coords="2131,213,2336,269"/>
+<area shape="rect" id="node20" href="$measure__republish__process_8h.html" title="The class of MeasureRepublishProcess. " alt="" coords="51,213,237,269"/>
+<area shape="rect" id="node21" href="$online__visualizer__component_8h.html" title="modules/localization\l/msf/local_tool/local\l_visualization/online\l_visual/online_visualizer\l_component.h" alt="" coords="2939,199,3122,284"/>
+<area shape="rect" id="node22" href="$map_2hdmap_2adapter_2xml__parser_2status_8h.html" title="modules/map/hdmap/adapter\l/xml_parser/status.h" alt="" coords="3146,221,3361,262"/>
+<area shape="rect" id="node23" href="$planning_2common_2frame_8h.html" title="modules/planning/common\l/frame.h" alt="" coords="3638,221,3837,262"/>
+<area shape="rect" id="node24" href="$smoother_8h.html" title="modules/planning/common\l/smoothers/smoother.h" alt="" coords="3299,339,3498,381"/>
+<area shape="rect" id="node25" href="$planner_8h.html" title="modules/planning/planner\l/planner.h" alt="" coords="3466,763,3657,804"/>
+<area shape="rect" id="node26" href="$planner__dispatcher_8h.html" title="modules/planning/planner\l/planner_dispatcher.h" alt="" coords="3681,859,3871,901"/>
+<area shape="rect" id="node27" href="$lattice__planner_8h.html" title="modules/planning/planner\l/lattice/lattice_planner.h" alt="" coords="3199,859,3390,901"/>
+<area shape="rect" id="node28" href="$navi__planner_8h.html" title="This file provides the declaration of the class &quot;NaviPlanner&quot;. " alt="" coords="4845,859,5035,901"/>
+<area shape="rect" id="node29" href="$public__road__planner_8h.html" title="modules/planning/planner\l/public_road/public_road\l_planner.h" alt="" coords="3466,852,3657,908"/>
+<area shape="rect" id="node30" href="$scenario_8h.html" title="modules/planning/scenarios\l/scenario.h" alt="" coords="3909,555,4113,596"/>
+<area shape="rect" id="node31" href="$planning_2scenarios_2scenario__manager_8h.html" title="modules/planning/scenarios\l/scenario_manager.h" alt="" coords="4011,666,4215,707"/>
+<area shape="rect" id="node32" href="$lane__follow__scenario_8h.html" title="modules/planning/scenarios\l/lane_follow/lane_follow\l_scenario.h" alt="" coords="3503,659,3707,715"/>
+<area shape="rect" id="node33" href="$lane__follow__stage_8h.html" title="modules/planning/scenarios\l/lane_follow/lane_follow\l_stage.h" alt="" coords="3783,659,3987,715"/>
+<area shape="rect" id="node34" href="$stage_8h.html" title="modules/planning/scenarios\l/stage.h" alt="" coords="3503,443,3707,485"/>
+<area shape="rect" id="node35" href="$modules_2planning_2tasks_2task_8h.html" title="modules/planning/tasks\l/task.h" alt="" coords="3978,339,4155,381"/>
+<area shape="rect" id="node36" href="$decider_8h.html" title="modules/planning/tasks\l/deciders/decider.h" alt="" coords="3783,443,3961,485"/>
+<area shape="rect" id="node37" href="$trajectory__optimizer_8h.html" title="modules/planning/tasks\l/optimizers/trajectory\l_optimizer.h" alt="" coords="4391,436,4569,492"/>
+<area shape="rect" id="node38" href="$open__space__trajectory__provider_8h.html" title="modules/planning/tasks\l/optimizers/open_space\l_trajectory_generation\l/open_space_trajectory_provider.h" alt="" coords="4375,540,4620,611"/>
+<area shape="rect" id="node39" href="$navi__task_8h.html" title="modules/planning/navi\l/decider/navi_task.h" alt="" coords="4729,339,4900,381"/>
+<area shape="rect" id="node40" href="$navi__path__decider_8h.html" title="This file provides the declaration of the class &quot;NaviPathDecider&quot;. " alt="" coords="4695,443,4903,485"/>
+<area shape="rect" id="node41" href="$navi__speed__decider_8h.html" title="This file provides the declaration of the class &quot;NaviSpeedDecider&quot;. " alt="" coords="5028,443,5247,485"/>
+<area shape="rect" id="node42" href="$navi__speed__ts__graph_8h.html" title="This file provides the declaration of the class &quot;NaviSpeedTsGraph&quot;. " alt="" coords="5039,332,5209,388"/>
+<area shape="rect" id="node43" href="$speed__limit__decider_8h.html" title="modules/planning/tasks\l/deciders/speed_bounds\l_decider/speed_limit_decider.h" alt="" coords="4931,213,5154,269"/>
+<area shape="rect" id="node44" href="$st__boundary__mapper_8h.html" title="modules/planning/tasks\l/deciders/speed_bounds\l_decider/st_boundary_mapper.h" alt="" coords="5179,213,5408,269"/>
+<area shape="rect" id="node45" href="$st__driving__limits_8h.html" title="modules/planning/tasks\l/deciders/st_bounds_decider\l/st_driving_limits.h" alt="" coords="5433,213,5639,269"/>
+<area shape="rect" id="node46" href="$st__guide__line_8h.html" title="modules/planning/tasks\l/deciders/st_bounds_decider\l/st_guide_line.h" alt="" coords="5663,213,5870,269"/>
+<area shape="rect" id="node47" href="$st__obstacles__processor_8h.html" title="modules/planning/tasks\l/deciders/st_bounds_decider\l/st_obstacles_processor.h" alt="" coords="5894,213,6101,269"/>
+</map>

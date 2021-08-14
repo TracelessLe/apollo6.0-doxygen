@@ -1,0 +1,11 @@
+<map id="modules/perception/lidar/common/lidar_object_util.h" name="modules/perception/lidar/common/lidar_object_util.h">
+<area shape="rect" id="node3" href="$base_2object_8h.html" title="modules/perception\l/base/object.h" alt="" coords="305,109,455,151"/>
+<area shape="rect" id="node8" href="$base_2object__supplement_8h.html" title="modules/perception\l/base/object_supplement.h" alt="" coords="613,199,811,240"/>
+<area shape="rect" id="node21" href="$object__types_8h.html" title="modules/perception\l/base/object_types.h" alt="" coords="145,288,301,329"/>
+<area shape="rect" id="node22" href="$point__cloud_8h.html" title="modules/perception\l/base/point_cloud.h" alt="" coords="514,288,665,329"/>
+<area shape="rect" id="node24" href="$vehicle__struct_8h.html" title="modules/perception\l/base/vehicle_struct.h" alt="" coords="374,199,538,240"/>
+<area shape="rect" id="node10" href="$eigen__defs_8h.html" title="modules/common/util\l/eigen_defs.h" alt="" coords="507,377,671,419"/>
+<area shape="rect" id="node15" href="$box_8h.html" title="modules/perception\l/base/box.h" alt="" coords="798,288,949,329"/>
+<area shape="rect" id="node18" href="$comparison__traits_8h.html" title="modules/perception\l/base/comparison_traits.h" alt="" coords="1283,377,1474,419"/>
+<area shape="rect" id="node20" href="$point_8h.html" title="modules/perception\l/base/point.h" alt="" coords="747,377,898,419"/>
+</map>

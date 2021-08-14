@@ -1,0 +1,5 @@
+<map id="apollo::planning::OnLanePlanning" name="apollo::planning::OnLanePlanning">
+<area shape="rect" id="node2" href="$classapollo_1_1planning_1_1PlanningBase.html" title="{apollo::planning::PlanningBase\n|# start_time_\l# seq_num_\l# config_\l# traffic_rule_configs_\l# frame_\l# planner_\l# last_publishable_trajectory_\l# planner_dispatcher_\l# injector_\l|+ PlanningBase()\l+ PlanningBase()\l+ ~PlanningBase()\l+ Init()\l+ Name()\l+ RunOnce()\l+ Plan()\l# FillPlanningPb()\l}" alt="" coords="89,292,312,589"/>
+<area shape="rect" id="node3" href="$classapollo_1_1hdmap_1_1HDMap.html" title="High&#45;precision map loader interface. " alt="" coords="5,5,183,229"/>
+<area shape="rect" id="node4" href="$structapollo_1_1planning_1_1LocalView.html" title="{apollo::planning::LocalView\n|+ prediction_obstacles\l+ chassis\l+ localization_estimate\l+ traffic_light\l+ routing\l+ relative_map\l+ pad_msg\l+ stories\l|}" alt="" coords="207,27,407,207"/>
+</map>

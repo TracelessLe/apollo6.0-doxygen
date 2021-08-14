@@ -1,0 +1,28 @@
+<map id="modules/planning/tasks/optimizers/speed_optimizer.h" name="modules/planning/tasks/optimizers/speed_optimizer.h">
+<area shape="rect" id="node2" href="$common_2status_2status_8h.html" title="modules/common/status\l/status.h" alt="" coords="221,556,404,597"/>
+<area shape="rect" id="node7" href="$speed__data_8h.html" title="modules/planning/common\l/speed/speed_data.h" alt="" coords="4708,459,4906,501"/>
+<area shape="rect" id="node10" href="$st__graph__data_8h.html" title=": data with map info and obstacle info " alt="" coords="4385,459,4584,501"/>
+<area shape="rect" id="node23" href="$modules_2planning_2tasks_2task_8h.html" title="modules/planning/tasks\l/task.h" alt="" coords="3522,95,3700,136"/>
+<area shape="rect" id="node6" href="$future_8h.html" title="modules/common/util\l/future.h" alt="" coords="26,645,190,687"/>
+<area shape="rect" id="node12" href="$st__boundary_8h.html" title="modules/planning/common\l/speed/st_boundary.h" alt="" coords="2472,556,2670,597"/>
+<area shape="rect" id="node21" href="$speed__limit_8h.html" title="modules/planning/common\l/speed_limit.h" alt="" coords="4004,556,4202,597"/>
+<area shape="rect" id="node16" href="$box2d_8h.html" title="The class of Box2d. Here, the x/y axes are respectively Forward/Left, as opposed to what happens in e..." alt="" coords="2432,735,2609,776"/>
+<area shape="rect" id="node17" href="$vec2d_8h.html" title="Defines the Vec2d class. " alt="" coords="2058,824,2236,865"/>
+<area shape="rect" id="node18" href="$polygon2d_8h.html" title="Define the Polygon2d class. " alt="" coords="2482,645,2660,687"/>
+<area shape="rect" id="node19" href="$st__point_8h.html" title="modules/planning/common\l/speed/st_point.h" alt="" coords="2209,735,2408,776"/>
+<area shape="rect" id="node25" href="$planning_2common_2dependency__injector_8h.html" title="modules/planning/common\l/dependency_injector.h" alt="" coords="3350,184,3549,225"/>
+<area shape="rect" id="node33" href="$planning_2common_2frame_8h.html" title="modules/planning/common\l/frame.h" alt="" coords="2162,273,2361,315"/>
+<area shape="rect" id="node45" href="$reference__line__info_8h.html" title="modules/planning/common\l/reference_line_info.h" alt="" coords="3809,363,4008,404"/>
+<area shape="rect" id="node26" href="$vehicle__state__provider_8h.html" title="modules/common/vehicle\l_state/vehicle_state_provider.h" alt="" coords="798,459,1024,501"/>
+<area shape="rect" id="node28" href="$ego__info_8h.html" title="modules/planning/common\l/ego_info.h" alt="" coords="1874,363,2073,404"/>
+<area shape="rect" id="node46" href="$planning__context_8h.html" title="modules/planning/common\l/planning_context.h" alt="" coords="4062,459,4261,501"/>
+<area shape="rect" id="node49" href="$modules_2planning_2common_2history_8h.html" title="modules/planning/common\l/history.h" alt="" coords="3436,459,3634,501"/>
+<area shape="rect" id="node50" href="$learning__based__data_8h.html" title="modules/planning/common\l/learning_based_data.h" alt="" coords="3537,273,3736,315"/>
+<area shape="rect" id="node29" href="$planning_2common_2obstacle_8h.html" title="modules/planning/common\l/obstacle.h" alt="" coords="1925,459,2124,501"/>
+<area shape="rect" id="node35" href="$monitor__log__buffer_8h.html" title="The class of MonitorLogBuffer. " alt="" coords="3216,459,3411,501"/>
+<area shape="rect" id="node38" href="$indexed__queue_8h.html" title="modules/planning/common\l/indexed_queue.h" alt="" coords="1249,459,1448,501"/>
+<area shape="rect" id="node39" href="$local__view_8h.html" title="modules/planning/common\l/local_view.h" alt="" coords="2858,363,3057,404"/>
+<area shape="rect" id="node42" href="$open__space__info_8h.html" title="modules/planning/common\l/open_space_info.h" alt="" coords="1097,363,1296,404"/>
+<area shape="rect" id="node43" href="$publishable__trajectory_8h.html" title="modules/planning/common\l/trajectory/publishable\l_trajectory.h" alt="" coords="2248,452,2446,508"/>
+<area shape="rect" id="node48" href="$reference__line__provider_8h.html" title="Declaration of the class ReferenceLineProvider. " alt="" coords="1548,363,1770,404"/>
+</map>

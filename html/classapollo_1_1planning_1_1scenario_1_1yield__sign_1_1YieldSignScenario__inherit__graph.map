@@ -1,0 +1,3 @@
+<map id="apollo::planning::scenario::yield_sign::YieldSignScenario" name="apollo::planning::scenario::yield_sign::YieldSignScenario">
+<area shape="rect" id="node2" href="$classapollo_1_1planning_1_1scenario_1_1Scenario.html" title="{apollo::planning::scenario\l::Scenario\n|# scenario_status_\l# current_stage_\l# config_\l# stage_config_map_\l# scenario_context_\l# name_\l# msg_\l# injector_\l|+ Scenario()\l+ ~Scenario()\l+ scenario_type()\l+ CreateStage()\l+ IsTransferable()\l+ Process()\l+ GetStatus()\l+ GetStage()\l+ Init()\l+ Name()\l+ GetMsg()\l+ LoadConfig()\l}" alt="" coords="21,5,210,361"/>
+</map>

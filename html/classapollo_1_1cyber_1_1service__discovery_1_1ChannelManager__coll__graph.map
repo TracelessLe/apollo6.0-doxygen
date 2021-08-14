@@ -1,0 +1,5 @@
+<map id="apollo::cyber::service_discovery::ChannelManager" name="apollo::cyber::service_discovery::ChannelManager">
+<area shape="rect" id="node2" href="$classapollo_1_1cyber_1_1service__discovery_1_1Manager.html" title="Base class for management of Topology elements. Manager can Join/Leave the Topology, and Listen the topology change. " alt="" coords="383,389,584,848"/>
+<area shape="rect" id="node3" href="$classapollo_1_1cyber_1_1base_1_1Signal.html" title="{apollo::cyber::base\l::Signal\&lt; const ChangeMsg &amp; \&gt;\n||+ Signal()\l+ ~Signal()\l+ operator()()\l+ Connect()\l+ Disconnect()\l+ DisconnectAllSlots()\l}" alt="" coords="5,147,233,312"/>
+<area shape="rect" id="node4" href="$classapollo_1_1cyber_1_1service__discovery_1_1SubscriberListener.html" title="{apollo::cyber::service\l_discovery::SubscriberListener\n||+ SubscriberListener()\l+ ~SubscriberListener()\l+ onNewDataMessage()\l+ onSubscriptionMatched()\l}" alt="" coords="258,161,477,297"/>
+</map>

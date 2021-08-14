@@ -1,0 +1,6 @@
+<map id="apollo::localization::msf::pyramid_map::NdtMapNode" name="apollo::localization::msf::pyramid_map::NdtMapNode">
+<area shape="rect" id="node2" href="$classapollo_1_1localization_1_1msf_1_1pyramid__map_1_1BaseMapNode.html" title="The data structure of a Node in the map. " alt="" coords="72,799,327,1389"/>
+<area shape="rect" id="node3" href="$classapollo_1_1localization_1_1msf_1_1pyramid__map_1_1MapNodeIndex.html" title="{apollo::localization\l::msf::pyramid_map::MapNode\lIndex\n|+ resolution_id_\l+ zone_id_\l+ m_\l+ n_\l|+ MapNodeIndex()\l+ operator\&lt;()\l+ operator==()\l+ operator!=()\l+ ToString()\l+ GetMapNodeIndex()\l+ GetMapNodeIndex()\l+ GetMapIndexRangeEast()\l+ GetMapIndexRangeNorth()\l}" alt="" coords="5,395,228,663"/>
+<area shape="rect" id="node4" href="$classapollo_1_1localization_1_1msf_1_1pyramid__map_1_1BaseMapConfig.html" title="The options of the reflectance map. " alt="" coords="252,321,472,736"/>
+<area shape="rect" id="node5" href="$classapollo_1_1localization_1_1msf_1_1Rect2D.html" title="{apollo::localization\l::msf::Rect2D\&lt; double \&gt;\n||+ Rect2D()\l+ Rect2D()\l+ Rect2D()\l+ operator=()\l+ GetMinX()\l+ GetMinY()\l+ GetMaxX()\l+ GetMaxY()\l+ GetLeftTopCorner()\l+ GetRightBottomCorner()\l}" alt="" coords="189,5,383,229"/>
+</map>

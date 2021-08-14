@@ -1,0 +1,5 @@
+<map id="modules/perception/camera/tools/offline/visualizer.h" name="modules/perception/camera/tools/offline/visualizer.h">
+<area shape="rect" id="node2" href="$camera__obstacle__detection__component_8h.html" title="modules/perception\l/onboard/component/camera\l_obstacle_detection_component.h" alt="" coords="5,109,249,165"/>
+<area shape="rect" id="node3" href="$fusion__camera__detection__component_8h.html" title="modules/perception\l/onboard/component/fusion\l_camera_detection_component.h" alt="" coords="273,109,512,165"/>
+<area shape="rect" id="node4" href="$lane__detection__component_8h.html" title="modules/perception\l/onboard/component/lane\l_detection_component.h" alt="" coords="536,109,724,165"/>
+</map>

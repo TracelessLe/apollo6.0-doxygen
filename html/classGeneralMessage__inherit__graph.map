@@ -1,0 +1,4 @@
+<map id="GeneralMessage" name="GeneralMessage">
+<area shape="rect" id="node2" href="$classGeneralMessageBase.html" title="{GeneralMessageBase\n|# children_map_\l|# InsertRepeatedMessage()\l# Child()\l# GeneralMessageBase()\l# ~GeneralMessageBase()\l# clear()\l# GeneralMessageBase()\l# operator=()\l# PrintMessage()\l# PrintField()\l# LineCount()\l# LineCountOfField()\l}" alt="" coords="5,380,208,604"/>
+<area shape="rect" id="node3" href="$classRenderableMessage.html" title="{RenderableMessage\n|+ FrameRatio_Precision\l# line_no_\l# pages_\l# page_index_\l# page_item_count_\l# parent_\l# frame_ratio_\l|+ RenderableMessage()\l+ ~RenderableMessage()\l+ Render()\l+ Child()\l+ frame_ratio()\l+ parent()\l+ set_parent()\l+ page_item_count()\l# line_no()\l# set_line_no()\l# reset_line_page()\l# SplitPages()\l}" alt="" coords="13,5,201,332"/>
+</map>

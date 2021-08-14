@@ -1,0 +1,51 @@
+<map id="modules/planning/common/path/frenet_frame_path.h" name="modules/planning/common/path/frenet_frame_path.h">
+<area shape="rect" id="node2" href="$path__data_8h.html" title="modules/planning/common\l/path/path_data.h" alt="" coords="4552,95,4751,136"/>
+<area shape="rect" id="node3" href="$reference__line__info_8h.html" title="modules/planning/common\l/reference_line_info.h" alt="" coords="1544,199,1743,240"/>
+<area shape="rect" id="node29" href="$st__boundary__mapper_8h.html" title="modules/planning/tasks\l/deciders/speed_bounds\l_decider/st_boundary_mapper.h" alt="" coords="3642,511,3871,567"/>
+<area shape="rect" id="node44" href="$dp__road__graph_8h.html" title="modules/planning/tasks\l/optimizers/road_graph\l/dp_road_graph.h" alt="" coords="4352,407,4529,463"/>
+<area shape="rect" id="node45" href="$waypoint__sampler_8h.html" title="modules/planning/tasks\l/optimizers/road_graph\l/waypoint_sampler.h" alt="" coords="4352,303,4529,359"/>
+<area shape="rect" id="node46" href="$speed__limit__decider_8h.html" title="modules/planning/tasks\l/deciders/speed_bounds\l_decider/speed_limit_decider.h" alt="" coords="4540,191,4763,247"/>
+<area shape="rect" id="node47" href="$st__driving__limits_8h.html" title="modules/planning/tasks\l/deciders/st_bounds_decider\l/st_driving_limits.h" alt="" coords="4605,303,4812,359"/>
+<area shape="rect" id="node48" href="$st__guide__line_8h.html" title="modules/planning/tasks\l/deciders/st_bounds_decider\l/st_guide_line.h" alt="" coords="4747,615,4953,671"/>
+<area shape="rect" id="node49" href="$st__obstacles__processor_8h.html" title="modules/planning/tasks\l/deciders/st_bounds_decider\l/st_obstacles_processor.h" alt="" coords="4888,191,5095,247"/>
+<area shape="rect" id="node50" href="$piecewise__jerk__speed__nonlinear__ipopt__interface_8h.html" title="modules/planning/tasks\l/optimizers/piecewise\l_jerk_speed/piecewise_jerk\l_speed_nonlinear_ipopt_interface.h" alt="" coords="5119,184,5373,255"/>
+<area shape="rect" id="node4" href="$planning_2common_2frame_8h.html" title="modules/planning/common\l/frame.h" alt="" coords="2029,310,2228,351"/>
+<area shape="rect" id="node6" href="$modules_2planning_2tasks_2task_8h.html" title="modules/planning/tasks\l/task.h" alt="" coords="2240,518,2417,559"/>
+<area shape="rect" id="node11" href="$lattice__planner_8h.html" title="modules/planning/planner\l/lattice/lattice_planner.h" alt="" coords="800,949,991,990"/>
+<area shape="rect" id="node12" href="$navi__planner_8h.html" title="This file provides the declaration of the class &quot;NaviPlanner&quot;. " alt="" coords="5,949,196,990"/>
+<area shape="rect" id="node13" href="$public__road__planner_8h.html" title="modules/planning/planner\l/public_road/public_road\l_planner.h" alt="" coords="2823,941,3013,997"/>
+<area shape="rect" id="node14" href="$rtk__replay__planner_8h.html" title="modules/planning/planner\l/rtk/rtk_replay_planner.h" alt="" coords="1015,949,1205,990"/>
+<area shape="rect" id="node17" href="$lane__follow__scenario_8h.html" title="modules/planning/scenarios\l/lane_follow/lane_follow\l_scenario.h" alt="" coords="2144,830,2348,886"/>
+<area shape="rect" id="node18" href="$lane__follow__stage_8h.html" title="modules/planning/scenarios\l/lane_follow/lane_follow\l_stage.h" alt="" coords="1387,830,1591,886"/>
+<area shape="rect" id="node22" href="$creep__decider_8h.html" title="modules/planning/tasks\l/deciders/creep_decider\l/creep_decider.h" alt="" coords="4011,719,4188,775"/>
+<area shape="rect" id="node24" href="$open__space__pre__stop__decider_8h.html" title="modules/planning/tasks\l/deciders/open_space_decider\l/open_space_pre_stop_decider.h" alt="" coords="2493,719,2725,775"/>
+<area shape="rect" id="node30" href="$traffic__rule_8h.html" title="modules/planning/traffic\l_rules/traffic_rule.h" alt="" coords="3252,518,3432,559"/>
+<area shape="rect" id="node33" href="$planning_2common_2util_2common_8h.html" title="modules/planning/common\l/util/common.h" alt="" coords="1281,414,1480,455"/>
+<area shape="rect" id="node34" href="$path__time__graph_8h.html" title="modules/planning/lattice\l/behavior/path_time_graph.h" alt="" coords="265,414,475,455"/>
+<area shape="rect" id="node35" href="$collision__checker_8h.html" title="modules/planning/constraint\l_checker/collision_checker.h" alt="" coords="247,518,453,559"/>
+<area shape="rect" id="node37" href="$navi__task_8h.html" title="modules/planning/navi\l/decider/navi_task.h" alt="" coords="601,414,771,455"/>
+<area shape="rect" id="node39" href="$modules_2planning_2scenarios_2util_2util_8h.html" title="modules/planning/scenarios\l/util/util.h" alt="" coords="1003,414,1207,455"/>
+<area shape="rect" id="node41" href="$autotuning__raw__feature__generator_8h.html" title="modules/planning/tuning\l/autotuning_raw_feature\l_generator.h" alt="" coords="796,407,979,463"/>
+<area shape="rect" id="node42" href="$speed__profile__generator_8h.html" title="modules/planning/common\l/speed_profile_generator.h" alt="" coords="1115,726,1313,767"/>
+<area shape="rect" id="node43" href="$modules_2planning_2common_2util_2util_8h.html" title="modules/planning/common\l/util/util.h" alt="" coords="1807,310,2005,351"/>
+<area shape="rect" id="node5" href="$planning_2common_2dependency__injector_8h.html" title="modules/planning/common\l/dependency_injector.h" alt="" coords="3184,414,3383,455"/>
+<area shape="rect" id="node7" href="$stage_8h.html" title="modules/planning/scenarios\l/stage.h" alt="" coords="1757,622,1961,663"/>
+<area shape="rect" id="node8" href="$scenario_8h.html" title="modules/planning/scenarios\l/scenario.h" alt="" coords="1897,726,2101,767"/>
+<area shape="rect" id="node9" href="$planner_8h.html" title="modules/planning/planner\l/planner.h" alt="" coords="1615,837,1805,879"/>
+<area shape="rect" id="node10" href="$planning__base_8h.html" title="modules/planning/planning\l_base.h" alt="" coords="2600,949,2799,990"/>
+<area shape="rect" id="node15" href="$emergency__pull__over__scenario_8h.html" title="modules/planning/scenarios\l/emergency/emergency_pull\l_over/emergency_pull_over\l_scenario.h" alt="" coords="1843,823,2049,893"/>
+<area shape="rect" id="node16" href="$emergency__stop__scenario_8h.html" title="modules/planning/scenarios\l/emergency/emergency_stop\l/emergency_stop_scenario.h" alt="" coords="2589,830,2799,886"/>
+<area shape="rect" id="node19" href="$pull__over__scenario_8h.html" title="modules/planning/scenarios\l/park/pull_over/pull_over\l_scenario.h" alt="" coords="2872,830,3076,886"/>
+<area shape="rect" id="node20" href="$stage__check_8h.html" title="modules/planning/scenarios\l/park_and_go/stage_check.h" alt="" coords="1337,726,1544,767"/>
+<area shape="rect" id="node21" href="$decider_8h.html" title="modules/planning/tasks\l/deciders/decider.h" alt="" coords="3592,622,3769,663"/>
+<area shape="rect" id="node23" href="$open__space__fallback__decider_8h.html" title="modules/planning/tasks\l/deciders/open_space_decider\l/open_space_fallback_decider.h" alt="" coords="3252,719,3480,775"/>
+<area shape="rect" id="node25" href="$open__space__roi__decider_8h.html" title="modules/planning/tasks\l/deciders/open_space_decider\l/open_space_roi_decider.h" alt="" coords="3504,719,3721,775"/>
+<area shape="rect" id="node26" href="$speed__bounds__decider_8h.html" title="modules/planning/tasks\l/deciders/speed_bounds\l_decider/speed_bounds_decider.h" alt="" coords="3746,719,3986,775"/>
+<area shape="rect" id="node27" href="$st__bounds__decider_8h.html" title="modules/planning/tasks\l/deciders/st_bounds_decider\l/st_bounds_decider.h" alt="" coords="4605,719,4812,775"/>
+<area shape="rect" id="node28" href="$speed__decider_8h.html" title="modules/planning/tasks\l/deciders/speed_decider\l/speed_decider.h" alt="" coords="2087,615,2266,671"/>
+<area shape="rect" id="node31" href="$obstacle__blocking__analyzer_8h.html" title="modules/planning/common\l/obstacle_blocking_analyzer.h" alt="" coords="2112,414,2329,455"/>
+<area shape="rect" id="node32" href="$smoother_8h.html" title="modules/planning/common\l/smoothers/smoother.h" alt="" coords="2353,414,2552,455"/>
+<area shape="rect" id="node36" href="$navi__obstacle__decider_8h.html" title="This file provides the declaration of the class &quot;NaviSpeedDecider&quot;. " alt="" coords="1081,511,1251,567"/>
+<area shape="rect" id="node38" href="$stage__intersection__cruise__impl_8h.html" title="modules/planning/scenarios\l/common/stage_intersection\l_cruise_impl.h" alt="" coords="2576,407,2783,463"/>
+<area shape="rect" id="node40" href="$path__decider__obstacle__utils_8h.html" title="modules/planning/tasks\l/deciders/utils/path_decider\l_obstacle_utils.h" alt="" coords="2807,407,3008,463"/>
+</map>

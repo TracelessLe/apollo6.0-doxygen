@@ -1,0 +1,8 @@
+<map id="modules/perception/common/sensor_manager/sensor_manager.h" name="modules/perception/common/sensor_manager/sensor_manager.h">
+<area shape="rect" id="node5" href="$cyber_2common_2macros_8h.html" title="cyber/common/macros.h" alt="" coords="282,117,465,143"/>
+<area shape="rect" id="node13" href="$camera_8h.html" title="modules/perception\l/base/camera.h" alt="" coords="857,199,1007,240"/>
+<area shape="rect" id="node15" href="$distortion__model_8h.html" title="modules/perception\l/base/distortion_model.h" alt="" coords="830,109,1013,151"/>
+<area shape="rect" id="node16" href="$sensor__meta_8h.html" title="modules/perception\l/base/sensor_meta.h" alt="" coords="1088,109,1245,151"/>
+<area shape="rect" id="node17" href="$perception__gflags_8h.html" title="modules/perception\l/common/perception_gflags.h" alt="" coords="1321,109,1535,151"/>
+<area shape="rect" id="node10" href="$cyber_2base_2macros_8h.html" title="cyber/base/macros.h" alt="" coords="295,206,452,233"/>
+</map>

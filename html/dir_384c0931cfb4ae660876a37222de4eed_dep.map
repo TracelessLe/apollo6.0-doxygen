@@ -1,0 +1,6 @@
+<map id="modules/canbus/vehicle/transit/protocol" name="modules/canbus/vehicle/transit/protocol">
+<area shape="rect" id="node1" href="dir_384c0931cfb4ae660876a37222de4eed.html" title="protocol" alt="" coords="27,52,101,100"/>
+<area shape="rect" id="node2" href="dir_fa7c3dda3a065b7e0bb8d7e2b3a94e74.html" title="drivers" alt="" coords="28,148,100,196"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000124_000006.html" title="12" alt="" coords="64,122,81,137"/>
+<area shape="rect" id="clust1" href="dir_06d6e166d1baf643ba4c1be745bab555.html" title="transit" alt="" coords="16,16,112,111"/>
+</map>

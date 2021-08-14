@@ -1,0 +1,51 @@
+<map id="modules/drivers/canbus/common/byte.h" name="modules/drivers/canbus/common/byte.h">
+<area shape="rect" id="node2" href="$can__client_8h.html" title="Defines the CanFrame struct and CanClient interface. " alt="" coords="1081,95,1258,136"/>
+<area shape="rect" id="node40" href="$message__manager_8h.html" title="The class of MessageManager. " alt="" coords="2901,191,3137,233"/>
+<area shape="rect" id="node3" href="$can__sender_8h.html" title="Defines SenderMessage class and CanSender class. " alt="" coords="640,191,827,233"/>
+<area shape="rect" id="node5" href="$canbus__component_8h.html" title="modules/canbus/canbus\l_component.h" alt="" coords="1451,399,1630,441"/>
+<area shape="rect" id="node27" href="$conti__radar__canbus__component_8h.html" title="modules/drivers/radar\l/conti_radar/conti_radar\l_canbus_component.h" alt="" coords="1182,392,1358,448"/>
+<area shape="rect" id="node28" href="$racobit__radar__canbus__component_8h.html" title="modules/drivers/radar\l/racobit_radar/racobit\l_radar_canbus_component.h" alt="" coords="898,392,1106,448"/>
+<area shape="rect" id="node30" href="$ultrasonic__radar__canbus_8h.html" title="modules/drivers/radar\l/ultrasonic_radar/ultrasonic\l_radar_canbus.h" alt="" coords="102,392,301,448"/>
+<area shape="rect" id="node33" href="$can__receiver_8h.html" title="Defines CanReceiver class. " alt="" coords="1106,295,1300,337"/>
+<area shape="rect" id="node34" href="$sensor__canbus_8h.html" title="modules/drivers/canbus\l/sensor_canbus.h" alt="" coords="590,399,768,441"/>
+<area shape="rect" id="node35" href="$can__client__factory_8h.html" title="Defines the CanClientFactory class. " alt="" coords="258,184,436,240"/>
+<area shape="rect" id="node36" href="$esd__can__client_8h.html" title="Defines the EsdCanClient class which inherits CanClient. " alt="" coords="1208,184,1385,240"/>
+<area shape="rect" id="node37" href="$fake__can__client_8h.html" title="Defines the FakeCanClient class which inherites CanClient. " alt="" coords="1409,184,1586,240"/>
+<area shape="rect" id="node38" href="$hermes__can__client_8h.html" title="modules/drivers/canbus\l/can_client/hermes_can\l/hermes_can_client.h" alt="" coords="1610,184,1788,240"/>
+<area shape="rect" id="node39" href="$socket__can__client__raw_8h.html" title="Defines the SocketCanClientRaw class which inherits CanClient. " alt="" coords="1812,184,1999,240"/>
+<area shape="rect" id="node4" href="$vehicle__controller_8h.html" title="The class of VehicleController. " alt="" coords="4039,295,4218,337"/>
+<area shape="rect" id="node26" href="$conti__radar__message__manager_8h.html" title="The class of ContiRadarMessageManager. " alt="" coords="754,288,930,344"/>
+<area shape="rect" id="node29" href="$racobit__radar__message__manager_8h.html" title="The class of RacobitRadarMessageManager. " alt="" coords="524,288,730,344"/>
+<area shape="rect" id="node32" href="$ultrasonic__radar__message__manager_8h.html" title="The class of UltrasonicRadarMessageManager. " alt="" coords="244,288,450,344"/>
+<area shape="rect" id="node6" href="$abstract__vehicle__factory_8h.html" title="modules/canbus/vehicle\l/abstract_vehicle_factory.h" alt="" coords="4752,399,4948,441"/>
+<area shape="rect" id="node7" href="$ch__vehicle__factory_8h.html" title="modules/canbus/vehicle\l/ch/ch_vehicle_factory.h" alt="" coords="5551,503,5730,545"/>
+<area shape="rect" id="node8" href="$devkit__vehicle__factory_8h.html" title="modules/canbus/vehicle\l/devkit/devkit_vehicle\l_factory.h" alt="" coords="3110,496,3288,552"/>
+<area shape="rect" id="node9" href="$ge3__vehicle__factory_8h.html" title="modules/canbus/vehicle\l/ge3/ge3_vehicle_factory.h" alt="" coords="3312,503,3507,545"/>
+<area shape="rect" id="node10" href="$gem__vehicle__factory_8h.html" title="modules/canbus/vehicle\l/gem/gem_vehicle_factory.h" alt="" coords="4010,503,4215,545"/>
+<area shape="rect" id="node11" href="$lexus__vehicle__factory_8h.html" title="modules/canbus/vehicle\l/lexus/lexus_vehicle_factory.h" alt="" coords="4240,503,4457,545"/>
+<area shape="rect" id="node12" href="$lincoln__vehicle__factory_8h.html" title="modules/canbus/vehicle\l/lincoln/lincoln_vehicle\l_factory.h" alt="" coords="4482,496,4660,552"/>
+<area shape="rect" id="node13" href="$neolix__edu__vehicle__factory_8h.html" title="modules/canbus/vehicle\l/neolix_edu/neolix_edu\l_vehicle_factory.h" alt="" coords="4684,496,4863,552"/>
+<area shape="rect" id="node14" href="$transit__vehicle__factory_8h.html" title="modules/canbus/vehicle\l/transit/transit_vehicle\l_factory.h" alt="" coords="4887,496,5066,552"/>
+<area shape="rect" id="node15" href="$wey__vehicle__factory_8h.html" title="modules/canbus/vehicle\l/wey/wey_vehicle_factory.h" alt="" coords="5090,503,5292,545"/>
+<area shape="rect" id="node16" href="$zhongyun__vehicle__factory_8h.html" title="modules/canbus/vehicle\l/zhongyun/zhongyun_vehicle\l_factory.h" alt="" coords="5316,496,5527,552"/>
+<area shape="rect" id="node17" href="$ch__controller_8h.html" title="modules/canbus/vehicle\l/ch/ch_controller.h" alt="" coords="3418,399,3596,441"/>
+<area shape="rect" id="node18" href="$devkit__controller_8h.html" title="modules/canbus/vehicle\l/devkit/devkit_controller.h" alt="" coords="3620,399,3812,441"/>
+<area shape="rect" id="node19" href="$ge3__controller_8h.html" title="modules/canbus/vehicle\l/ge3/ge3_controller.h" alt="" coords="3836,399,4015,441"/>
+<area shape="rect" id="node20" href="$gem__controller_8h.html" title="modules/canbus/vehicle\l/gem/gem_controller.h" alt="" coords="4039,399,4218,441"/>
+<area shape="rect" id="node21" href="$lexus__controller_8h.html" title="modules/canbus/vehicle\l/lexus/lexus_controller.h" alt="" coords="4242,399,4422,441"/>
+<area shape="rect" id="node22" href="$lincoln__controller_8h.html" title="The class of LincolnController. " alt="" coords="2421,399,2617,441"/>
+<area shape="rect" id="node23" href="$neolix__edu__controller_8h.html" title="modules/canbus/vehicle\l/neolix_edu/neolix_edu\l_controller.h" alt="" coords="2642,392,2820,448"/>
+<area shape="rect" id="node24" href="$transit__controller_8h.html" title="modules/canbus/vehicle\l/transit/transit_controller.h" alt="" coords="2844,399,3039,441"/>
+<area shape="rect" id="node25" href="$wey__controller_8h.html" title="modules/canbus/vehicle\l/wey/wey_controller.h" alt="" coords="3063,399,3242,441"/>
+<area shape="rect" id="node31" href="$ultrasonic__radar__canbus__component_8h.html" title="modules/drivers/radar\l/ultrasonic_radar/ultrasonic\l_radar_canbus_component.h" alt="" coords="98,496,306,552"/>
+<area shape="rect" id="node41" href="$ch__message__manager_8h.html" title="the class of ChMessageManager " alt="" coords="1628,295,1831,337"/>
+<area shape="rect" id="node42" href="$devkit__message__manager_8h.html" title="modules/canbus/vehicle\l/devkit/devkit_message\l_manager.h" alt="" coords="1855,288,2034,344"/>
+<area shape="rect" id="node43" href="$ge3__message__manager_8h.html" title="modules/canbus/vehicle\l/ge3/ge3_message_manager.h" alt="" coords="2058,295,2278,337"/>
+<area shape="rect" id="node44" href="$gem__message__manager_8h.html" title="modules/canbus/vehicle\l/gem/gem_message_manager.h" alt="" coords="2302,295,2533,337"/>
+<area shape="rect" id="node45" href="$lexus__message__manager_8h.html" title="modules/canbus/vehicle\l/lexus/lexus_message_manager.h" alt="" coords="2558,295,2800,337"/>
+<area shape="rect" id="node46" href="$lincoln__message__manager_8h.html" title="the class of LincolnMessageManager " alt="" coords="2825,288,3008,344"/>
+<area shape="rect" id="node47" href="$neolix__edu__message__manager_8h.html" title="modules/canbus/vehicle\l/neolix_edu/neolix_edu\l_message_manager.h" alt="" coords="3032,288,3211,344"/>
+<area shape="rect" id="node48" href="$transit__message__manager_8h.html" title="modules/canbus/vehicle\l/transit/transit_message\l_manager.h" alt="" coords="3236,288,3416,344"/>
+<area shape="rect" id="node49" href="$wey__message__manager_8h.html" title="modules/canbus/vehicle\l/wey/wey_message_manager.h" alt="" coords="3440,295,3667,337"/>
+<area shape="rect" id="node50" href="$zhongyun__message__manager_8h.html" title="modules/canbus/vehicle\l/zhongyun/zhongyun_message\l_manager.h" alt="" coords="3692,288,3914,344"/>
+</map>

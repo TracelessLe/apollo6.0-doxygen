@@ -1,0 +1,6 @@
+<map id="modules/canbus/vehicle/neolix_edu/protocol" name="modules/canbus/vehicle/neolix_edu/protocol">
+<area shape="rect" id="node1" href="dir_852d433f2d30c3e4d4525cee533b0ffb.html" title="protocol" alt="" coords="27,52,101,100"/>
+<area shape="rect" id="node2" href="dir_fa7c3dda3a065b7e0bb8d7e2b3a94e74.html" title="drivers" alt="" coords="28,148,100,196"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000122_000006.html" title="21" alt="" coords="64,122,81,137"/>
+<area shape="rect" id="clust1" href="dir_1895dc1df1033da897b2cb7f57e30482.html" title="neolix_edu" alt="" coords="16,16,112,111"/>
+</map>

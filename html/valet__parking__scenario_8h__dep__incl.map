@@ -1,0 +1,4 @@
+<map id="modules/planning/scenarios/park/valet_parking/valet_parking_scenario.h" name="modules/planning/scenarios/park/valet_parking/valet_parking_scenario.h">
+<area shape="rect" id="node2" href="$stage__approaching__parking__spot_8h.html" title="modules/planning/scenarios\l/park/valet_parking/stage\l_approaching_parking_spot.h" alt="" coords="5,109,217,165"/>
+<area shape="rect" id="node3" href="$stage__parking_8h.html" title="modules/planning/scenarios\l/park/valet_parking/stage\l_parking.h" alt="" coords="241,109,445,165"/>
+</map>

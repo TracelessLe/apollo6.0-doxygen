@@ -1,0 +1,4 @@
+<map id="apollo::planning::PiecewiseJerkProblem" name="apollo::planning::PiecewiseJerkProblem">
+<area shape="rect" id="node2" href="$classapollo_1_1planning_1_1PiecewiseJerkPathProblem.html" title="{apollo::planning::Piecewise\lJerkPathProblem\n||+ PiecewiseJerkPathProblem()\l+ ~PiecewiseJerkPathProblem()\l# CalculateKernel()\l# CalculateOffset()\l}" alt="" coords="5,585,236,721"/>
+<area shape="rect" id="node3" href="$classapollo_1_1planning_1_1PiecewiseJerkSpeedProblem.html" title="{apollo::planning::Piecewise\lJerkSpeedProblem\n|# has_dx_ref_\l# weight_dx_ref_\l# dx_ref_\l# penalty_dx_\l|+ PiecewiseJerkSpeedProblem()\l+ ~PiecewiseJerkSpeedProblem()\l+ set_dx_ref()\l+ set_penalty_dx()\l# CalculateKernel()\l# CalculateOffset()\l# SolverDefaultSettings()\l}" alt="" coords="261,541,503,765"/>
+</map>

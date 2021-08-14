@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classapollo_1_1prediction_1_1network_1_1Layer.html" title="Layer is a base class for specific network layers It contains a pure virtual function Run which must ..." alt="" coords="5,300,140,341"/>
+<area shape="rect" id="node2" href="$classapollo_1_1prediction_1_1network_1_1Activation.html" title="Activation is an activation network layer. Activation layer output is y = f(x), where x is the input..." alt="" coords="219,5,377,47"/>
+<area shape="rect" id="node3" href="$classapollo_1_1prediction_1_1network_1_1AvgPool1d.html" title="AvgPool1d is the average Pool 1d network layer. " alt="" coords="219,71,377,112"/>
+<area shape="rect" id="node4" href="$classapollo_1_1prediction_1_1network_1_1BatchNormalization.html" title="apollo::prediction\l::network::BatchNormalization" alt="" coords="188,136,408,177"/>
+<area shape="rect" id="node5" href="$classapollo_1_1prediction_1_1network_1_1Concatenate.html" title="apollo::prediction\l::network::Concatenate" alt="" coords="211,201,385,243"/>
+<area shape="rect" id="node6" href="$classapollo_1_1prediction_1_1network_1_1Conv1d.html" title="Conv1d is the convolution 1d network layer. Conv1d layer output is y = Conv(x, w), where x is the input, w the weight. " alt="" coords="228,267,368,308"/>
+<area shape="rect" id="node7" href="$classapollo_1_1prediction_1_1network_1_1Dense.html" title="Dense is the forward fully connected network layer. Dense layer output is y = f(x*w + b)..." alt="" coords="231,332,365,373"/>
+<area shape="rect" id="node8" href="$classapollo_1_1prediction_1_1network_1_1Flatten.html" title="apollo::prediction\l::network::Flatten" alt="" coords="230,397,366,439"/>
+<area shape="rect" id="node9" href="$classapollo_1_1prediction_1_1network_1_1Input.html" title="apollo::prediction\l::network::Input" alt="" coords="231,463,365,504"/>
+<area shape="rect" id="node10" href="$classapollo_1_1prediction_1_1network_1_1LSTM.html" title="For a step&#45;by&#45;step description of the algorithm, see this tutorial. " alt="" coords="231,528,365,569"/>
+<area shape="rect" id="node11" href="$classapollo_1_1prediction_1_1network_1_1MaxPool1d.html" title="MaxPool1d is the max Pool 1d network layer. " alt="" coords="217,593,379,635"/>
+</map>

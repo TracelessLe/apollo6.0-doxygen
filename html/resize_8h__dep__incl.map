@@ -1,0 +1,5 @@
+<map id="modules/perception/inference/utils/resize.h" name="modules/perception/inference/utils/resize.h">
+<area shape="rect" id="node2" href="$smoke__obstacle__detector_8h.html" title="modules/perception\l/camera/lib/obstacle\l/detector/smoke/smoke\l_obstacle_detector.h" alt="" coords="5,95,181,165"/>
+<area shape="rect" id="node3" href="$yolo__obstacle__detector_8h.html" title="modules/perception\l/camera/lib/obstacle\l/detector/yolo/yolo_obstacle\l_detector.h" alt="" coords="206,95,413,165"/>
+<area shape="rect" id="node4" href="$yolov4__obstacle__detector_8h.html" title="modules/perception\l/camera/lib/obstacle\l/detector/yolov4/yolov4\l_obstacle_detector.h" alt="" coords="437,95,613,165"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="apollo::control::LatController" name="apollo::control::LatController">
+<area shape="rect" id="node2" href="$classapollo_1_1control_1_1Controller.html" title="base class for all controllers. " alt="" coords="5,123,225,288"/>
+<area shape="rect" id="node3" href="$classapollo_1_1common_1_1MeanFilter.html" title="The MeanFilter class is used to smoothen a series of noisy numbers, such as sensor data or the output..." alt="" coords="250,145,453,266"/>
+<area shape="rect" id="node4" href="$classapollo_1_1common_1_1DigitalFilter.html" title="The DigitalFilter class is used to pass signals with a frequency lower than a certain cutoff frequenc..." alt="" coords="477,71,687,339"/>
+<area shape="rect" id="node5" href="$classapollo_1_1control_1_1TrajectoryAnalyzer.html" title="process point query and conversion related to trajectory " alt="" coords="711,79,989,332"/>
+<area shape="rect" id="node6" href="$classapollo_1_1control_1_1LeadlagController.html" title="A lead/lag controller for speed and steering using defualt integral hold. " alt="" coords="1013,5,1234,405"/>
+<area shape="rect" id="node7" href="$classapollo_1_1control_1_1MracController.html" title="A mrac controller for actuation system (throttle/brake and steering) " alt="" coords="1259,20,1479,391"/>
+</map>

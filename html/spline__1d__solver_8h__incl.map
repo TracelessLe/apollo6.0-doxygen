@@ -1,0 +1,9 @@
+<map id="modules/planning/math/smoothing_spline/spline_1d_solver.h" name="modules/planning/math/smoothing_spline/spline_1d_solver.h">
+<area shape="rect" id="node4" href="$qp__solver_8h.html" title=": quadratic programming base class " alt="" coords="63,117,240,158"/>
+<area shape="rect" id="node6" href="$spline__1d_8h.html" title=": piecewise smoothing spline class " alt="" coords="484,213,702,255"/>
+<area shape="rect" id="node11" href="$spline__1d__constraint_8h.html" title=": wrapp up solver constraint interface with direct methods and preset methods " alt="" coords="293,109,477,165"/>
+<area shape="rect" id="node13" href="$spline__1d__kernel_8h.html" title=": wrap up solver constraint interface with direct methods and preset methods " alt="" coords="501,109,685,165"/>
+<area shape="rect" id="node7" href="$polynomial__xd_8h.html" title="modules/planning/math\l/polynomial_xd.h" alt="" coords="445,407,621,448"/>
+<area shape="rect" id="node9" href="$affine__constraint_8h.html" title="modules/planning/math\l/smoothing_spline/affine\l_constraint.h" alt="" coords="291,303,474,359"/>
+<area shape="rect" id="node10" href="$spline__1d__seg_8h.html" title=": polynomial smoothing spline " alt="" coords="549,303,733,359"/>
+</map>

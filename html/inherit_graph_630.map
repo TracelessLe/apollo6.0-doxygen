@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classapollo_1_1perception_1_1camera_1_1BaseFeatureExtractor.html" title="apollo::perception\l::camera::BaseFeatureExtractor" alt="" coords="5,104,232,145"/>
+<area shape="rect" id="node2" href="$classapollo_1_1perception_1_1camera_1_1DummyFeatureExtractor.html" title="apollo::perception\l::camera::DummyFeatureExtractor" alt="" coords="281,5,527,47"/>
+<area shape="rect" id="node3" href="$classapollo_1_1perception_1_1camera_1_1ExternalFeatureExtractor.html" title="apollo::perception\l::camera::ExternalFeatureExtractor" alt="" coords="280,71,528,112"/>
+<area shape="rect" id="node4" href="$classapollo_1_1perception_1_1camera_1_1ProjectFeature.html" title="apollo::perception\l::camera::ProjectFeature" alt="" coords="314,136,494,177"/>
+<area shape="rect" id="node5" href="$classapollo_1_1perception_1_1camera_1_1TrackingFeatureExtractor.html" title="apollo::perception\l::camera::TrackingFeatureExtractor" alt="" coords="280,201,528,243"/>
+</map>

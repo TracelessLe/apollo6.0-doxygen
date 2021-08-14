@@ -1,0 +1,4 @@
+<map id="apollo::prediction::ScenarioFeatures" name="apollo::prediction::ScenarioFeatures">
+<area shape="rect" id="node2" href="$classapollo_1_1prediction_1_1CruiseScenarioFeatures.html" title="{apollo::prediction\l::CruiseScenarioFeatures\n||+ CruiseScenarioFeatures()\l+ ~CruiseScenarioFeatures()\l+ IsLaneOfInterest()\l+ InsertLaneOfInterest()\l+ BuildCruiseScenarioFeatures()\l}" alt="" coords="5,175,237,325"/>
+<area shape="rect" id="node3" href="$classapollo_1_1prediction_1_1JunctionScenarioFeatures.html" title="{apollo::prediction\l::JunctionScenarioFeatures\n||+ JunctionScenarioFeatures()\l+ ~JunctionScenarioFeatures()\l+ BuildJunctionScenarioFeatures()\l}" alt="" coords="261,189,504,311"/>
+</map>

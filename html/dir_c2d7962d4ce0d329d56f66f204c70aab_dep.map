@@ -1,0 +1,18 @@
+<map id="modules/drivers/canbus/can_client" name="modules/drivers/canbus/can_client">
+<area shape="rect" id="node6" href="dir_89e2469f18c5e5da51766ec9b3e212fa.html" title="common" alt="" coords="249,159,327,207"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000171_000177.html" title="4" alt="" coords="342,170,352,184"/>
+<area shape="rect" id="node7" href="dir_9a5e51f49964887903df6eed98080585.html" title="common" alt="" coords="417,159,495,207"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000171_000028.html" title="1" alt="" coords="476,137,485,152"/>
+<area shape="rect" id="node8" href="dir_0d6dc3a33fbbb812401bd489d918ef1b.html" title="cyber" alt="" coords="459,255,531,303"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000171_000000.html" title="2" alt="" coords="508,231,517,245"/>
+<area shape="rect" id="node2" href="dir_a11e7db0e7ca72e93e3ffc0f2d7b3d5a.html" title="esd" alt="" coords="355,63,427,111"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000172_000177.html" title="1" alt="" coords="329,145,338,160"/>
+<area shape="rect" id="node3" href="dir_ee47f0919be25b5ada16604d5ff20d32.html" title="fake" alt="" coords="259,63,331,111"/>
+<area shape="rect" id="node4" href="dir_70b7bfe19cbbe0192c213e8150846998.html" title="hermes_can" alt="" coords="133,63,235,111"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000174_000177.html" title="1" alt="" coords="250,133,259,147"/>
+<area shape="rect" id="node5" href="dir_220b21bd29c187bc1ced92fe3c1bb1e4.html" title="socket" alt="" coords="37,63,109,111"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000175_000177.html" title="1" alt="" coords="228,157,237,171"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000028_000000.html" title="21" alt="" coords="477,227,495,241"/>
+<area shape="rect" id="clust2" href="dir_c2d7962d4ce0d329d56f66f204c70aab.html" alt="" coords="27,52,549,121"/>
+<area shape="rect" id="clust1" href="dir_6ac68ed414d44d6f54320351cbdbfd7b.html" title="canbus" alt="" coords="16,16,560,132"/>
+</map>

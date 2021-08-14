@@ -1,0 +1,27 @@
+<map id="modules/v2x/v2x_proxy/obu_interface/obu_interface_grpc_impl.h" name="modules/v2x/v2x_proxy/obu_interface/obu_interface_grpc_impl.h">
+<area shape="rect" id="node7" href="$grpc__client_8h.html" title="define v2x proxy module and onboard unit interface grpc implement " alt="" coords="542,109,754,165"/>
+<area shape="rect" id="node42" href="$grpc__server_8h.html" title="define v2x proxy module and onboard unit interface grpc implement " alt="" coords="1491,109,1703,165"/>
+<area shape="rect" id="node48" href="$obu__interface__abstract__class_8h.html" title="define v2x proxy module and onboard unit interface base class " alt="" coords="2024,109,2232,165"/>
+<area shape="rect" id="node11" href="$cyber_8h.html" title="cyber/cyber.h" alt="" coords="1857,228,1967,255"/>
+<area shape="rect" id="node41" href="$v2x__proxy__gflags_8h.html" title="The gflags used by v2x proxy module. " alt="" coords="689,317,855,359"/>
+<area shape="rect" id="node14" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="2776,764,2931,791"/>
+<area shape="rect" id="node19" href="$component_8h.html" title="cyber/component/component.h" alt="" coords="1881,325,2105,351"/>
+<area shape="rect" id="node28" href="$cyber_2node_2node_8h.html" title="cyber/node/node.h" alt="" coords="2521,503,2663,530"/>
+<area shape="rect" id="node35" href="$init_8h.html" title="cyber/init.h" alt="" coords="3019,414,3114,441"/>
+<area shape="rect" id="node37" href="$cyber_2task_2task_8h.html" title="cyber/task/task.h" alt="" coords="1331,325,1466,351"/>
+<area shape="rect" id="node39" href="$time_8h.html" title="cyber/time/time.h" alt="" coords="3296,682,3435,709"/>
+<area shape="rect" id="node40" href="$cyber_2timer_2timer_8h.html" title="cyber/timer/timer.h" alt="" coords="1059,325,1205,351"/>
+<area shape="rect" id="node18" href="$binary_8h.html" title="cyber/binary.h" alt="" coords="2718,839,2831,865"/>
+<area shape="rect" id="node21" href="$cyber_2base_2macros_8h.html" title="cyber/base/macros.h" alt="" coords="1656,414,1813,441"/>
+<area shape="rect" id="node22" href="$blocker__manager_8h.html" title="cyber/blocker/blocker\l_manager.h" alt="" coords="821,496,984,537"/>
+<area shape="rect" id="node23" href="$global__data_8h.html" title="cyber/common/global\l_data.h" alt="" coords="2616,675,2779,716"/>
+<area shape="rect" id="node24" href="$cyber_2common_2util_8h.html" title="cyber/common/util.h" alt="" coords="3130,764,3286,791"/>
+<area shape="rect" id="node25" href="$cyber_2common_2types_8h.html" title="cyber/common/types.h" alt="" coords="1757,593,1928,619"/>
+<area shape="rect" id="node26" href="$component__base_8h.html" title="cyber/component/component\l_base.h" alt="" coords="1887,407,2099,448"/>
+<area shape="rect" id="node32" href="$scheduler_8h.html" title="cyber/scheduler/scheduler.h" alt="" coords="1965,503,2168,530"/>
+<area shape="rect" id="node33" href="$routine__factory_8h.html" title="cyber/croutine/routine\l_factory.h" alt="" coords="2280,585,2445,627"/>
+<area shape="rect" id="node34" href="$data__visitor_8h.html" title="cyber/data/data_visitor.h" alt="" coords="2105,682,2287,709"/>
+<area shape="rect" id="node30" href="$node__channel__impl_8h.html" title="cyber/node/node_channel\l_impl.h" alt="" coords="2830,585,3018,627"/>
+<area shape="rect" id="node31" href="$node__service__impl_8h.html" title="cyber/node/node_service\l_impl.h" alt="" coords="2520,585,2704,627"/>
+<area shape="rect" id="node36" href="$state_8h.html" title="cyber/state.h" alt="" coords="3069,503,3176,530"/>
+</map>

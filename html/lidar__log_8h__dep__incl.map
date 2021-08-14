@@ -1,0 +1,11 @@
+<map id="modules/perception/lidar/common/lidar_log.h" name="modules/perception/lidar/common/lidar_log.h">
+<area shape="rect" id="node2" href="$object__sequence_8h.html" title="modules/perception\l/lidar/common/object\l_sequence.h" alt="" coords="188,102,348,158"/>
+<area shape="rect" id="node6" href="$pcl__util_8h.html" title="modules/perception\l/lidar/common/pcl_util.h" alt="" coords="433,109,612,151"/>
+<area shape="rect" id="node9" href="$polygon__mask_8h.html" title="modules/perception\l/lidar/lib/roi_filter\l/hdmap_roi_filter/polygon\l_mask.h" alt="" coords="687,213,875,284"/>
+<area shape="rect" id="node10" href="$polygon__scan__cvter_8h.html" title="modules/perception\l/lidar/lib/roi_filter\l/hdmap_roi_filter/polygon\l_scan_cvter.h" alt="" coords="687,95,875,165"/>
+<area shape="rect" id="node3" href="$type__fusion__interface_8h.html" title="modules/perception\l/lidar/lib/classifier\l/fused_classifier/type\l_fusion_interface.h" alt="" coords="71,213,231,284"/>
+<area shape="rect" id="node5" href="$fused__classifier_8h.html" title="modules/perception\l/lidar/lib/classifier\l/fused_classifier/fused\l_classifier.h" alt="" coords="185,332,351,403"/>
+<area shape="rect" id="node4" href="$ccrf__type__fusion_8h.html" title="modules/perception\l/lidar/lib/classifier\l/fused_classifier/ccrf\l_type_fusion.h" alt="" coords="5,332,160,403"/>
+<area shape="rect" id="node7" href="$ncut__segmentation_8h.html" title="modules/perception\l/lidar/lib/detector\l/ncut_segmentation/ncut\l_segmentation.h" alt="" coords="306,213,489,284"/>
+<area shape="rect" id="node8" href="$msg__exporter_8h.html" title="modules/perception\l/lidar/tools/exporter\l/msg_exporter.h" alt="" coords="513,221,663,277"/>
+</map>

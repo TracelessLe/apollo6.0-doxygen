@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classapollo_1_1perception_1_1lidar_1_1BaseLidarDetector.html" title="apollo::perception\l::lidar::BaseLidarDetector" alt="" coords="5,136,192,177"/>
+<area shape="rect" id="node2" href="$classapollo_1_1perception_1_1lidar_1_1CNNSegmentation.html" title="apollo::perception\l::lidar::CNNSegmentation" alt="" coords="252,5,439,47"/>
+<area shape="rect" id="node3" href="$classapollo_1_1perception_1_1lidar_1_1DummySegmentation.html" title="apollo::perception\l::lidar::DummySegmentation" alt="" coords="240,71,451,112"/>
+<area shape="rect" id="node4" href="$classapollo_1_1perception_1_1lidar_1_1MaskPillarsDetection.html" title="apollo::perception\l::lidar::MaskPillarsDetection" alt="" coords="243,136,447,177"/>
+<area shape="rect" id="node5" href="$classapollo_1_1perception_1_1lidar_1_1NCutSegmentation.html" title="apollo::perception\l::lidar::NCutSegmentation" alt="" coords="250,201,441,243"/>
+<area shape="rect" id="node6" href="$classapollo_1_1perception_1_1lidar_1_1PointPillarsDetection.html" title="apollo::perception\l::lidar::PointPillarsDetection" alt="" coords="244,267,447,308"/>
+</map>

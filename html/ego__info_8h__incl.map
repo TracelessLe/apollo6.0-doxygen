@@ -1,0 +1,22 @@
+<map id="modules/planning/common/ego_info.h" name="modules/planning/common/ego_info.h">
+<area shape="rect" id="node3" href="$cyber_2common_2macros_8h.html" title="cyber/common/macros.h" alt="" coords="354,623,537,650"/>
+<area shape="rect" id="node14" href="$planning_2common_2obstacle_8h.html" title="modules/planning/common\l/obstacle.h" alt="" coords="1867,95,2066,136"/>
+<area shape="rect" id="node37" href="$reference__line_8h.html" title="modules/planning/reference\l_line/reference_line.h" alt="" coords="850,184,1054,225"/>
+<area shape="rect" id="node49" href="$planning__gflags_8h.html" title="modules/planning/common\l/planning_gflags.h" alt="" coords="2618,95,2817,136"/>
+<area shape="rect" id="node9" href="$cyber_2base_2macros_8h.html" title="cyber/base/macros.h" alt="" coords="99,713,256,739"/>
+<area shape="rect" id="node18" href="$box2d_8h.html" title="The class of Box2d. Here, the x/y axes are respectively Forward/Left, as opposed to what happens in e..." alt="" coords="1831,795,2009,836"/>
+<area shape="rect" id="node21" href="$vec2d_8h.html" title="Defines the Vec2d class. " alt="" coords="2535,973,2713,1015"/>
+<area shape="rect" id="node25" href="$indexed__list_8h.html" title="modules/planning/common\l/indexed_list.h" alt="" coords="2029,184,2227,225"/>
+<area shape="rect" id="node30" href="$st__boundary_8h.html" title="modules/planning/common\l/speed/st_boundary.h" alt="" coords="2293,616,2491,657"/>
+<area shape="rect" id="node20" href="$aabox2d_8h.html" title="Defines the AABox2d class. " alt="" coords="1693,884,1870,925"/>
+<area shape="rect" id="node23" href="$line__segment2d_8h.html" title="Define the LineSegment2d class. " alt="" coords="1946,884,2123,925"/>
+<area shape="rect" id="node27" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="2097,459,2252,486"/>
+<area shape="rect" id="node29" href="$map__util_8h.html" title="Some map util functions. " alt="" coords="2046,273,2210,315"/>
+<area shape="rect" id="node32" href="$polygon2d_8h.html" title="Define the Polygon2d class. " alt="" coords="1693,705,1870,747"/>
+<area shape="rect" id="node33" href="$st__point_8h.html" title="modules/planning/common\l/speed/st_point.h" alt="" coords="3013,884,3211,925"/>
+<area shape="rect" id="node39" href="$path_8h.html" title="modules/map/pnc_map\l/path.h" alt="" coords="1166,363,1341,404"/>
+<area shape="rect" id="node46" href="$reference__point_8h.html" title="modules/planning/reference\l_line/reference_point.h" alt="" coords="850,273,1054,315"/>
+<area shape="rect" id="node41" href="$hdmap_8h.html" title="modules/map/hdmap/hdmap.h" alt="" coords="893,541,1115,568"/>
+<area shape="rect" id="node42" href="$hdmap__common_8h.html" title="modules/map/hdmap/hdmap\l_common.h" alt="" coords="1249,616,1458,657"/>
+<area shape="rect" id="node43" href="$hdmap__util_8h.html" title="modules/map/hdmap/hdmap\l_util.h" alt="" coords="849,452,1058,493"/>
+</map>

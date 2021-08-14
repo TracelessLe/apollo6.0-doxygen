@@ -1,0 +1,4 @@
+<map id="apollo::planning::SamplePoint" name="apollo::planning::SamplePoint">
+<area shape="rect" id="node2" href="$classapollo_1_1planning_1_1STPoint.html" title="{apollo::planning::STPoint\n||+ STPoint()\l+ STPoint()\l+ STPoint()\l+ x()\l+ y()\l+ s()\l+ t()\l+ set_s()\l+ set_t()\l+ DebugString()\l}" alt="" coords="5,323,188,532"/>
+<area shape="rect" id="node3" href="$classapollo_1_1common_1_1math_1_1Vec2d.html" title="Implements a class of 2&#45;dimensional vectors. " alt="" coords="12,5,181,273"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="modules/v2x/v2x_proxy/app/v2x_proxy.h" name="modules/v2x/v2x_proxy/app/v2x_proxy.h">
+<area shape="rect" id="node7" href="$cyber_8h.html" title="cyber/cyber.h" alt="" coords="3919,317,4028,344"/>
+<area shape="rect" id="node17" href="$hdmap__util_8h.html" title="modules/map/hdmap/hdmap\l_util.h" alt="" coords="551,206,761,247"/>
+<area shape="rect" id="node24" href="$utils_8h.html" title="utils for v2x_proxy " alt="" coords="1239,102,1417,143"/>
+<area shape="rect" id="node29" href="$proto__adapter_8h.html" title="modules/v2x/v2x_proxy\l/proto_adapter/proto\l_adapter.h" alt="" coords="1671,199,1849,255"/>
+<area shape="rect" id="node36" href="$obu__interface__grpc__impl_8h.html" title="define v2x proxy module and onboard unit interface grpc impl class " alt="" coords="4184,95,4392,151"/>
+<area shape="rect" id="node47" href="$os__interface_8h.html" title="define v2x proxy module and apollo os interface " alt="" coords="2548,206,2751,247"/>
+<area shape="rect" id="node9" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="3785,503,3940,530"/>
+<area shape="rect" id="node10" href="$component_8h.html" title="cyber/component/component.h" alt="" coords="3415,414,3639,441"/>
+<area shape="rect" id="node12" href="$init_8h.html" title="cyber/init.h" alt="" coords="3815,414,3910,441"/>
+<area shape="rect" id="node13" href="$cyber_2node_2node_8h.html" title="cyber/node/node.h" alt="" coords="4037,414,4179,441"/>
+<area shape="rect" id="node14" href="$cyber_2task_2task_8h.html" title="cyber/task/task.h" alt="" coords="4306,414,4441,441"/>
+<area shape="rect" id="node15" href="$time_8h.html" title="cyber/time/time.h" alt="" coords="3211,503,3349,530"/>
+<area shape="rect" id="node16" href="$cyber_2timer_2timer_8h.html" title="cyber/timer/timer.h" alt="" coords="1588,414,1735,441"/>
+<area shape="rect" id="node19" href="$config__gflags_8h.html" title="modules/common/configs\l/config_gflags.h" alt="" coords="144,310,333,351"/>
+<area shape="rect" id="node20" href="$hdmap_8h.html" title="modules/map/hdmap/hdmap.h" alt="" coords="917,317,1139,344"/>
+<area shape="rect" id="node21" href="$hdmap__common_8h.html" title="modules/map/hdmap/hdmap\l_common.h" alt="" coords="1070,407,1279,448"/>
+<area shape="rect" id="node40" href="$grpc__client_8h.html" title="define v2x proxy module and onboard unit interface grpc implement " alt="" coords="3230,199,3442,255"/>
+<area shape="rect" id="node42" href="$grpc__server_8h.html" title="define v2x proxy module and onboard unit interface grpc implement " alt="" coords="4182,199,4394,255"/>
+<area shape="rect" id="node44" href="$obu__interface__abstract__class_8h.html" title="define v2x proxy module and onboard unit interface base class " alt="" coords="3653,199,3861,255"/>
+<area shape="rect" id="node41" href="$v2x__proxy__gflags_8h.html" title="The gflags used by v2x proxy module. " alt="" coords="2749,310,2915,351"/>
+</map>

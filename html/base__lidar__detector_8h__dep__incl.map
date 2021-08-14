@@ -1,0 +1,9 @@
+<map id="modules/perception/lidar/lib/interface/base_lidar_detector.h" name="modules/perception/lidar/lib/interface/base_lidar_detector.h">
+<area shape="rect" id="node2" href="$lidar__obstacle__detection_8h.html" title="modules/perception\l/lidar/app/lidar_obstacle\l_detection.h" alt="" coords="27,117,205,173"/>
+<area shape="rect" id="node4" href="$cnn__segmentation_8h.html" title="modules/perception\l/lidar/lib/detector\l/cnn_segmentation/cnn\l_segmentation.h" alt="" coords="229,109,403,180"/>
+<area shape="rect" id="node5" href="$mask__pillars__detection_8h.html" title="modules/perception\l/lidar/lib/detector\l/mask_pillars_detection\l/mask_pillars_detection.h" alt="" coords="427,109,616,180"/>
+<area shape="rect" id="node6" href="$ncut__segmentation_8h.html" title="modules/perception\l/lidar/lib/detector\l/ncut_segmentation/ncut\l_segmentation.h" alt="" coords="641,109,823,180"/>
+<area shape="rect" id="node7" href="$point__pillars__detection_8h.html" title="modules/perception\l/lidar/lib/detector\l/point_pillars_detection\l/point_pillars_detection.h" alt="" coords="848,109,1035,180"/>
+<area shape="rect" id="node8" href="$dummy__segmentation_8h.html" title="modules/perception\l/lidar/lib/dummy/dummy\l_segmentation.h" alt="" coords="1059,117,1242,173"/>
+<area shape="rect" id="node3" href="$detection__component_8h.html" title="modules/perception\l/onboard/component/detection\l_component.h" alt="" coords="5,228,227,284"/>
+</map>

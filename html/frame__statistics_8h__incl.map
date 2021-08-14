@@ -1,0 +1,8 @@
+<map id="modules/perception/tool/benchmark/lidar/eval/frame_statistics.h" name="modules/perception/tool/benchmark/lidar/eval/frame_statistics.h">
+<area shape="rect" id="node5" href="$perception_2tool_2benchmark_2lidar_2base_2frame_8h.html" title="modules/perception\l/tool/benchmark/lidar\l/base/frame.h" alt="" coords="711,213,873,269"/>
+<area shape="rect" id="node19" href="$meta__statistics_8h.html" title="modules/perception\l/tool/benchmark/lidar\l/eval/meta_statistics.h" alt="" coords="913,109,1084,165"/>
+<area shape="rect" id="node8" href="$tool_2benchmark_2lidar_2util_2object_8h.html" title="modules/perception\l/tool/benchmark/lidar\l/util/object.h" alt="" coords="857,317,1018,373"/>
+<area shape="rect" id="node12" href="$modules_2perception_2tool_2benchmark_2lidar_2util_2types_8h.html" title="modules/perception\l/tool/benchmark/lidar\l/util/types.h" alt="" coords="655,421,817,477"/>
+<area shape="rect" id="node11" href="$tool_2benchmark_2lidar_2util_2object__supplement_8h.html" title="modules/perception\l/tool/benchmark/lidar\l/util/object_supplement.h" alt="" coords="892,421,1079,477"/>
+<area shape="rect" id="node20" href="$position__metric_8h.html" title="modules/perception\l/tool/benchmark/lidar\l/eval/position_metric.h" alt="" coords="975,213,1145,269"/>
+</map>

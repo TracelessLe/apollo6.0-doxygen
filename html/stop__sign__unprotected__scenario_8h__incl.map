@@ -1,0 +1,22 @@
+<map id="modules/planning/scenarios/stop_sign/unprotected/stop_sign_unprotected_scenario.h" name="modules/planning/scenarios/stop_sign/unprotected/stop_sign_unprotected_scenario.h">
+<area shape="rect" id="node7" href="$factory_8h.html" title="Defines the Factory class. " alt="" coords="4461,363,4625,404"/>
+<area shape="rect" id="node19" href="$hdmap_8h.html" title="modules/map/hdmap/hdmap.h" alt="" coords="2845,109,3067,136"/>
+<area shape="rect" id="node44" href="$scenario_8h.html" title="modules/planning/scenarios\l/scenario.h" alt="" coords="5261,184,5465,225"/>
+<area shape="rect" id="node9" href="$cyber_2common_2macros_8h.html" title="cyber/common/macros.h" alt="" coords="4442,459,4625,486"/>
+<area shape="rect" id="node14" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="1711,459,1865,486"/>
+<area shape="rect" id="node13" href="$cyber_2base_2macros_8h.html" title="cyber/base/macros.h" alt="" coords="4395,549,4552,575"/>
+<area shape="rect" id="node18" href="$binary_8h.html" title="cyber/binary.h" alt="" coords="1875,549,1989,575"/>
+<area shape="rect" id="node32" href="$hdmap__common_8h.html" title="modules/map/hdmap/hdmap\l_common.h" alt="" coords="2051,273,2261,315"/>
+<area shape="rect" id="node42" href="$hdmap__impl_8h.html" title="modules/map/hdmap/hdmap\l_impl.h" alt="" coords="2231,184,2441,225"/>
+<area shape="rect" id="node33" href="$aabox2d_8h.html" title="Defines the AABox2d class. " alt="" coords="686,452,863,493"/>
+<area shape="rect" id="node34" href="$vec2d_8h.html" title="Defines the Vec2d class. " alt="" coords="1218,541,1395,583"/>
+<area shape="rect" id="node35" href="$aaboxkdtree2d_8h.html" title="Defines the templated AABoxKDTree2dNode class. " alt="" coords="1426,363,1603,404"/>
+<area shape="rect" id="node36" href="$math__utils_8h.html" title="Math&#45;related util functions. " alt="" coords="1890,452,2067,493"/>
+<area shape="rect" id="node37" href="$polygon2d_8h.html" title="Define the Polygon2d class. " alt="" coords="813,363,990,404"/>
+<area shape="rect" id="node38" href="$line__segment2d_8h.html" title="Define the LineSegment2d class. " alt="" coords="1091,452,1269,493"/>
+<area shape="rect" id="node45" href="$common_2status_2status_8h.html" title="modules/common/status\l/status.h" alt="" coords="5510,541,5693,583"/>
+<area shape="rect" id="node46" href="$planning_2common_2frame_8h.html" title="modules/planning/common\l/frame.h" alt="" coords="5003,452,5202,493"/>
+<area shape="rect" id="node48" href="$planning__context_8h.html" title="modules/planning/common\l/planning_context.h" alt="" coords="4563,273,4762,315"/>
+<area shape="rect" id="node49" href="$stage_8h.html" title="modules/planning/scenarios\l/stage.h" alt="" coords="4887,273,5091,315"/>
+<area shape="rect" id="node50" href="$modules_2planning_2tasks_2task_8h.html" title="modules/planning/tasks\l/task.h" alt="" coords="5267,363,5445,404"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="apollo::v2x::ft::base::ObjectList" name="apollo::v2x::ft::base::ObjectList">
+<area shape="rect" id="node2" href="$structapollo_1_1perception_1_1base_1_1CameraObjectSupplement.html" title="{apollo::perception\l::base::CameraObjectSupplement\n|+ on_use\l+ local_track_id\l+ pts8\l+ object_feature\l+ alpha\l+ truncated_horizontal\l+ truncated_vertical\l+ local_center\l+ visual_type\l+ visual_type_probs\l+ area_id\l+ visible_ratios\l+ cut_off_ratios\l|+ CameraObjectSupplement()\l+ Reset()\l}" alt="" coords="67,321,307,604"/>
+<area shape="rect" id="node3" href="$structapollo_1_1perception_1_1base_1_1BBox2D.html" title="{apollo::perception\l::base::BBox2D\&lt; float \&gt;\n|+ xmin\l+ ymin\l+ xmax\l+ ymax\l|+ BBox2D()\l+ BBox2D()\l+ BBox2D()\l+ operator=()\l+ Center()\l+ Area()\l}" alt="" coords="5,5,185,215"/>
+<area shape="rect" id="node5" href="$structapollo_1_1perception_1_1base_1_1FusionObjectSupplement.html" title="{apollo::perception\l::base::FusionObjectSupplement\n|+ on_use\l+ measurements\l|+ FusionObjectSupplement()\l+ Reset()\l}" alt="" coords="455,402,685,523"/>
+</map>

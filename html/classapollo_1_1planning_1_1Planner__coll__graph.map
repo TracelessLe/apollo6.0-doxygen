@@ -1,0 +1,5 @@
+<map id="apollo::planning::Planner" name="apollo::planning::Planner">
+<area shape="rect" id="node2" href="$classapollo_1_1planning_1_1scenario_1_1ScenarioManager.html" title="{apollo::planning::scenario\l::ScenarioManager\n||+ ScenarioManager()\l+ ScenarioManager()\l+ Init()\l+ mutable_scenario()\l+ injector()\l+ Update()\l}" alt="" coords="5,248,195,413"/>
+<area shape="rect" id="node3" href="$classapollo_1_1planning_1_1scenario_1_1Scenario.html" title="{apollo::planning::scenario\l::Scenario\n|# scenario_status_\l# current_stage_\l# config_\l# stage_config_map_\l# injector_\l|+ Scenario()\l+ ~Scenario()\l+ scenario_type()\l+ CreateStage()\l+ IsTransferable()\l+ Process()\l+ GetStatus()\l+ GetStage()\l+ Init()\l+ Name()\l+ GetMsg()\l+ LoadConfig()\l}" alt="" coords="219,175,408,487"/>
+<area shape="rect" id="node5" href="$structapollo_1_1planning_1_1scenario_1_1ScenarioContext.html" title="{apollo::planning::scenario\l::ScenarioContext\n||}" alt="" coords="292,5,481,97"/>
+</map>

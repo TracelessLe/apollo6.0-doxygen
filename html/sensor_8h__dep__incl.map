@@ -1,0 +1,7 @@
+<map id="modules/perception/fusion/base/sensor.h" name="modules/perception/fusion/base/sensor.h">
+<area shape="rect" id="node2" href="$sensor__data__manager_8h.html" title="modules/perception\l/fusion/base/sensor\l_data_manager.h" alt="" coords="272,95,423,151"/>
+<area shape="rect" id="node3" href="$track__object__distance_8h.html" title="modules/perception\l/fusion/lib/data_association\l/hm_data_association/track\l_object_distance.h" alt="" coords="23,199,224,269"/>
+<area shape="rect" id="node5" href="$pbf__shape__fusion_8h.html" title="modules/perception\l/fusion/lib/data_fusion\l/shape_fusion/pbf_shape\l_fusion/pbf_shape_fusion.h" alt="" coords="248,199,447,269"/>
+<area shape="rect" id="node6" href="$probabilistic__fusion_8h.html" title="modules/perception\l/fusion/lib/fusion_system\l/probabilistic_fusion/probabilistic\l_fusion.h" alt="" coords="470,199,707,269"/>
+<area shape="rect" id="node4" href="$hm__tracks__objects__match_8h.html" title="modules/perception\l/fusion/lib/data_association\l/hm_data_association/hm_tracks\l_objects_match.h" alt="" coords="5,317,241,388"/>
+</map>

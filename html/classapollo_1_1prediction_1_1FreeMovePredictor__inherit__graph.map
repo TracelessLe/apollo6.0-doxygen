@@ -1,0 +1,3 @@
+<map id="apollo::prediction::FreeMovePredictor" name="apollo::prediction::FreeMovePredictor">
+<area shape="rect" id="node2" href="$classapollo_1_1prediction_1_1Predictor.html" title="{apollo::prediction\l::Predictor\n|# predictor_type_\l|+ Predictor()\l+ ~Predictor()\l+ Predict()\l+ NumOfTrajectories()\l+ Clear()\l+ TrimTrajectories()\l+ predictor_type()\l# SetEqualProbability()\l# TrimTrajectory()\l# SupposedToStop()\l# GenerateTrajectory()\l}" alt="" coords="7,5,182,244"/>
+</map>

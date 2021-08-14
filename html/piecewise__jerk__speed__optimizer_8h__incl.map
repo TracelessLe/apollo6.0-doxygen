@@ -1,0 +1,29 @@
+<map id="modules/planning/tasks/optimizers/piecewise_jerk_speed/piecewise_jerk_speed_optimizer.h" name="modules/planning/tasks/optimizers/piecewise_jerk_speed/piecewise_jerk_speed_optimizer.h">
+<area shape="rect" id="node2" href="$speed__optimizer_8h.html" title="modules/planning/tasks\l/optimizers/speed_optimizer.h" alt="" coords="1086,124,1305,165"/>
+<area shape="rect" id="node3" href="$common_2status_2status_8h.html" title="modules/common/status\l/status.h" alt="" coords="4572,675,4755,716"/>
+<area shape="rect" id="node8" href="$speed__data_8h.html" title="modules/planning/common\l/speed/speed_data.h" alt="" coords="5,578,204,619"/>
+<area shape="rect" id="node11" href="$st__graph__data_8h.html" title=": data with map info and obstacle info " alt="" coords="392,578,591,619"/>
+<area shape="rect" id="node24" href="$modules_2planning_2tasks_2task_8h.html" title="modules/planning/tasks\l/task.h" alt="" coords="1869,213,2047,255"/>
+<area shape="rect" id="node7" href="$future_8h.html" title="modules/common/util\l/future.h" alt="" coords="4460,764,4624,805"/>
+<area shape="rect" id="node13" href="$st__boundary_8h.html" title="modules/planning/common\l/speed/st_boundary.h" alt="" coords="2117,675,2316,716"/>
+<area shape="rect" id="node22" href="$speed__limit_8h.html" title="modules/planning/common\l/speed_limit.h" alt="" coords="936,675,1135,716"/>
+<area shape="rect" id="node17" href="$box2d_8h.html" title="The class of Box2d. Here, the x/y axes are respectively Forward/Left, as opposed to what happens in e..." alt="" coords="2657,853,2835,895"/>
+<area shape="rect" id="node18" href="$vec2d_8h.html" title="Defines the Vec2d class. " alt="" coords="2835,943,3012,984"/>
+<area shape="rect" id="node19" href="$polygon2d_8h.html" title="Define the Polygon2d class. " alt="" coords="2553,764,2731,805"/>
+<area shape="rect" id="node20" href="$st__point_8h.html" title="modules/planning/common\l/speed/st_point.h" alt="" coords="2304,853,2503,895"/>
+<area shape="rect" id="node26" href="$planning_2common_2dependency__injector_8h.html" title="modules/planning/common\l/dependency_injector.h" alt="" coords="1927,303,2125,344"/>
+<area shape="rect" id="node34" href="$planning_2common_2frame_8h.html" title="modules/planning/common\l/frame.h" alt="" coords="2643,392,2841,433"/>
+<area shape="rect" id="node45" href="$reference__line__info_8h.html" title="modules/planning/common\l/reference_line_info.h" alt="" coords="1139,481,1337,523"/>
+<area shape="rect" id="node27" href="$vehicle__state__provider_8h.html" title="modules/common/vehicle\l_state/vehicle_state_provider.h" alt="" coords="3957,578,4183,619"/>
+<area shape="rect" id="node29" href="$ego__info_8h.html" title="modules/planning/common\l/ego_info.h" alt="" coords="3257,481,3456,523"/>
+<area shape="rect" id="node46" href="$planning__context_8h.html" title="modules/planning/common\l/planning_context.h" alt="" coords="715,578,913,619"/>
+<area shape="rect" id="node49" href="$modules_2planning_2common_2history_8h.html" title="modules/planning/common\l/history.h" alt="" coords="987,578,1185,619"/>
+<area shape="rect" id="node50" href="$learning__based__data_8h.html" title="modules/planning/common\l/learning_based_data.h" alt="" coords="579,392,777,433"/>
+<area shape="rect" id="node30" href="$planning_2common_2obstacle_8h.html" title="modules/planning/common\l/obstacle.h" alt="" coords="3131,578,3329,619"/>
+<area shape="rect" id="node36" href="$monitor__log__buffer_8h.html" title="The class of MonitorLogBuffer. " alt="" coords="1734,578,1929,619"/>
+<area shape="rect" id="node39" href="$indexed__queue_8h.html" title="modules/planning/common\l/indexed_queue.h" alt="" coords="2757,578,2956,619"/>
+<area shape="rect" id="node40" href="$local__view_8h.html" title="modules/planning/common\l/local_view.h" alt="" coords="2129,481,2328,523"/>
+<area shape="rect" id="node42" href="$open__space__info_8h.html" title="modules/planning/common\l/open_space_info.h" alt="" coords="3480,481,3679,523"/>
+<area shape="rect" id="node43" href="$publishable__trajectory_8h.html" title="modules/planning/common\l/trajectory/publishable\l_trajectory.h" alt="" coords="1461,571,1660,627"/>
+<area shape="rect" id="node48" href="$reference__line__provider_8h.html" title="Declaration of the class ReferenceLineProvider. " alt="" coords="2401,481,2624,523"/>
+</map>

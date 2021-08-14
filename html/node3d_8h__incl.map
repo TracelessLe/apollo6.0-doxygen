@@ -1,0 +1,29 @@
+<map id="modules/planning/open_space/coarse_trajectory_generator/node3d.h" name="modules/planning/open_space/coarse_trajectory_generator/node3d.h">
+<area shape="rect" id="node5" href="$box2d_8h.html" title="The class of Box2d. Here, the x/y axes are respectively Forward/Left, as opposed to what happens in e..." alt="" coords="1194,1017,1371,1059"/>
+<area shape="rect" id="node11" href="$collision__checker_8h.html" title="modules/planning/constraint\l_checker/collision_checker.h" alt="" coords="2937,109,3143,151"/>
+<area shape="rect" id="node7" href="$aabox2d_8h.html" title="Defines the AABox2d class. " alt="" coords="1122,1107,1299,1148"/>
+<area shape="rect" id="node8" href="$vec2d_8h.html" title="Defines the Vec2d class. " alt="" coords="369,1196,546,1237"/>
+<area shape="rect" id="node10" href="$line__segment2d_8h.html" title="Define the LineSegment2d class. " alt="" coords="818,1107,995,1148"/>
+<area shape="rect" id="node12" href="$planning_2common_2obstacle_8h.html" title="modules/planning/common\l/obstacle.h" alt="" coords="2915,556,3114,597"/>
+<area shape="rect" id="node34" href="$reference__line__info_8h.html" title="modules/planning/common\l/reference_line_info.h" alt="" coords="1749,377,1947,419"/>
+<area shape="rect" id="node45" href="$discretized__trajectory_8h.html" title="modules/planning/common\l/trajectory/discretized\l_trajectory.h" alt="" coords="1309,735,1507,791"/>
+<area shape="rect" id="node47" href="$path__time__graph_8h.html" title="modules/planning/lattice\l/behavior/path_time_graph.h" alt="" coords="1649,199,1858,240"/>
+<area shape="rect" id="node17" href="$indexed__list_8h.html" title="modules/planning/common\l/indexed_list.h" alt="" coords="2661,645,2859,687"/>
+<area shape="rect" id="node21" href="$st__boundary_8h.html" title="modules/planning/common\l/speed/st_boundary.h" alt="" coords="1791,839,1990,880"/>
+<area shape="rect" id="node29" href="$reference__line_8h.html" title="modules/planning/reference\l_line/reference_line.h" alt="" coords="1609,645,1813,687"/>
+<area shape="rect" id="node19" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="1512,846,1667,873"/>
+<area shape="rect" id="node20" href="$map__util_8h.html" title="Some map util functions. " alt="" coords="3161,742,3325,783"/>
+<area shape="rect" id="node24" href="$polygon2d_8h.html" title="Define the Polygon2d class. " alt="" coords="789,928,966,969"/>
+<area shape="rect" id="node25" href="$st__point_8h.html" title="modules/planning/common\l/speed/st_point.h" alt="" coords="494,1017,693,1059"/>
+<area shape="rect" id="node31" href="$path_8h.html" title="modules/map/pnc_map\l/path.h" alt="" coords="1059,742,1234,783"/>
+<area shape="rect" id="node32" href="$hdmap__common_8h.html" title="modules/map/hdmap/hdmap\l_common.h" alt="" coords="550,839,759,880"/>
+<area shape="rect" id="node37" href="$pnc__map_8h.html" title="modules/map/pnc_map\l/pnc_map.h" alt="" coords="1305,556,1479,597"/>
+<area shape="rect" id="node38" href="$path__data_8h.html" title="modules/planning/common\l/path/path_data.h" alt="" coords="1554,556,1753,597"/>
+<area shape="rect" id="node39" href="$path__boundary_8h.html" title="modules/planning/common\l/path_boundary.h" alt="" coords="783,839,982,880"/>
+<area shape="rect" id="node40" href="$path__decision_8h.html" title="modules/planning/common\l/path_decision.h" alt="" coords="2746,467,2945,508"/>
+<area shape="rect" id="node41" href="$planning__context_8h.html" title="modules/planning/common\l/planning_context.h" alt="" coords="1885,467,2083,508"/>
+<area shape="rect" id="node42" href="$planning__gflags_8h.html" title="modules/planning/common\l/planning_gflags.h" alt="" coords="2107,467,2306,508"/>
+<area shape="rect" id="node43" href="$speed__data_8h.html" title="modules/planning/common\l/speed/speed_data.h" alt="" coords="2610,742,2809,783"/>
+<area shape="rect" id="node44" href="$st__graph__data_8h.html" title=": data with map info and obstacle info " alt="" coords="2338,742,2537,783"/>
+<area shape="rect" id="node49" href="$planning_2common_2frame_8h.html" title="modules/planning/common\l/frame.h" alt="" coords="1933,288,2131,329"/>
+</map>

@@ -1,0 +1,100 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classapollo_1_1cyber_1_1base_1_1CCObjectPool.html" title="apollo::cyber::base\l::CCObjectPool\&lt; T \&gt;" alt="" coords="279,1756,435,1797"/>
+<area shape="rect" id="node3" href="$classapollo_1_1cyber_1_1base_1_1ObjectPool.html" title="apollo::cyber::base\l::ObjectPool\&lt; T \&gt;" alt="" coords="285,1821,430,1863"/>
+<area shape="rect" id="node4" href="$classapollo_1_1cyber_1_1ComponentBase.html" title="apollo::cyber::ComponentBase" alt="" coords="247,1887,468,1914"/>
+<area shape="rect" id="node95" href="$classapollo_1_1cyber_1_1record_1_1Recorder.html" title="apollo::cyber::record\l::Recorder" alt="" coords="280,1939,435,1980"/>
+<area shape="rect" id="node96" href="$classapollo_1_1hdmap_1_1MapDataCheckerAgent.html" title="apollo::hdmap::MapDataChecker\lAgent" alt="" coords="240,2172,475,2213"/>
+<area shape="rect" id="node97" href="$classapollo_1_1hdmap_1_1MapDataCheckerCyberNode.html" title="apollo::hdmap::MapDataChecker\lCyberNode" alt="" coords="240,2004,475,2045"/>
+<area shape="rect" id="node98" href="$classClient.html" title="Client" alt="" coords="327,2070,387,2097"/>
+<area shape="rect" id="node99" href="$classServer.html" title="Server" alt="" coords="325,2121,389,2147"/>
+<area shape="rect" id="node5" href="$classapollo_1_1cyber_1_1Component.html" title="The Component can process up to four channels of messages. The message type is specified when the com..." alt="" coords="565,397,755,439"/>
+<area shape="rect" id="node18" href="$classapollo_1_1cyber_1_1Component_3_01M0_00_01M1_00_01M2_00_01NullType_01_4.html" title="apollo::cyber::Component\l\&lt; M0, M1, M2, NullType \&gt;" alt="" coords="565,879,755,920"/>
+<area shape="rect" id="node19" href="$classapollo_1_1cyber_1_1Component_3_01M0_00_01M1_00_01NullType_00_01NullType_01_4.html" title="apollo::cyber::Component\l\&lt; M0, M1, NullType, NullType \&gt;" alt="" coords="547,944,773,985"/>
+<area shape="rect" id="node20" href="$classapollo_1_1cyber_1_1Component_3_01M0_00_01NullType_00_01NullType_00_01NullType_01_4.html" title="apollo::cyber::Component\l\&lt; M0, NullType, NullType,\l NullType \&gt;" alt="" coords="565,1010,755,1066"/>
+<area shape="rect" id="node21" href="$classapollo_1_1cyber_1_1Component_3_01NullType_00_01NullType_00_01NullType_00_01NullType_01_4.html" title="apollo::cyber::Component\l\&lt; NullType, NullType, NullType,\l NullType \&gt;" alt="" coords="547,1090,773,1146"/>
+<area shape="rect" id="node22" href="$classapollo_1_1cyber_1_1TimerComponent.html" title="TimerComponent is a timer component. Your component can inherit from Component, and implement Init() ..." alt="" coords="547,1170,773,1197"/>
+<area shape="rect" id="node31" href="$classapollo_1_1cyber_1_1Component.html" title="apollo::cyber::Component\l\&lt; apollo::drivers::CompressedImage \&gt;" alt="" coords="523,1247,797,1288"/>
+<area shape="rect" id="node33" href="$classapollo_1_1cyber_1_1Component.html" title="apollo::cyber::Component\l\&lt; apollo::drivers::microphone\l::config::AudioData \&gt;" alt="" coords="553,1313,767,1369"/>
+<area shape="rect" id="node35" href="$classapollo_1_1cyber_1_1Component.html" title="apollo::cyber::Component\l\&lt; apollo::perception::Perception\lObstacles, ADCTrajectoryContainer,\l SubmoduleOutput \&gt;" alt="" coords="533,1393,787,1464"/>
+<area shape="rect" id="node37" href="$classapollo_1_1cyber_1_1Component.html" title="apollo::cyber::Component\l\&lt; ContiRadar \&gt;" alt="" coords="565,1488,755,1529"/>
+<area shape="rect" id="node39" href="$classapollo_1_1cyber_1_1Component.html" title="apollo::cyber::Component\l\&lt; ControlCommand \&gt;" alt="" coords="565,1553,755,1595"/>
+<area shape="rect" id="node41" href="$classapollo_1_1cyber_1_1Component.html" title="apollo::cyber::Component\l\&lt; Driver, Driver \&gt;" alt="" coords="565,1619,755,1660"/>
+<area shape="rect" id="node43" href="$classapollo_1_1cyber_1_1Component.html" title="apollo::cyber::Component\l\&lt; drivers::gnss::Imu \&gt;" alt="" coords="565,1684,755,1725"/>
+<area shape="rect" id="node45" href="$classapollo_1_1cyber_1_1Component.html" title="apollo::cyber::Component\l\&lt; drivers::PointCloud \&gt;" alt="" coords="565,1749,755,1791"/>
+<area shape="rect" id="node48" href="$classapollo_1_1cyber_1_1Component.html" title="apollo::cyber::Component\l\&lt; HesaiScan \&gt;" alt="" coords="565,1815,755,1856"/>
+<area shape="rect" id="node50" href="$classapollo_1_1cyber_1_1Component.html" title="apollo::cyber::Component\l\&lt; Image \&gt;" alt="" coords="565,1880,755,1921"/>
+<area shape="rect" id="node51" href="$classapollo_1_1cyber_1_1Component.html" title="apollo::cyber::Component\l\&lt; LidarFrameMessage \&gt;" alt="" coords="565,1945,755,1987"/>
+<area shape="rect" id="node53" href="$classapollo_1_1cyber_1_1Component.html" title="apollo::cyber::Component\l\&lt; localization::Gps \&gt;" alt="" coords="565,2011,755,2052"/>
+<area shape="rect" id="node56" href="$classapollo_1_1cyber_1_1Component.html" title="apollo::cyber::Component\l\&lt; LocalView \&gt;" alt="" coords="565,2076,755,2117"/>
+<area shape="rect" id="node58" href="$classapollo_1_1cyber_1_1Component.html" title="apollo::cyber::Component\l\&lt; perception::PerceptionObstacles \&gt;" alt="" coords="529,2141,791,2183"/>
+<area shape="rect" id="node60" href="$classapollo_1_1cyber_1_1Component.html" title="apollo::cyber::Component\l\&lt; PerceptionObstacles \&gt;" alt="" coords="565,2207,755,2248"/>
+<area shape="rect" id="node62" href="$classapollo_1_1cyber_1_1Component.html" title="apollo::cyber::Component\l\&lt; PointCloud \&gt;" alt="" coords="565,2272,755,2313"/>
+<area shape="rect" id="node63" href="$classapollo_1_1cyber_1_1Component.html" title="apollo::cyber::Component\l\&lt; prediction::PredictionObstacles,\l canbus::Chassis, localization\l::LocalizationEstimate \&gt;" alt="" coords="539,2337,781,2408"/>
+<area shape="rect" id="node65" href="$classapollo_1_1cyber_1_1Component.html" title="apollo::cyber::Component\l\&lt; Preprocessor \&gt;" alt="" coords="565,2432,755,2473"/>
+<area shape="rect" id="node68" href="$classapollo_1_1cyber_1_1Component.html" title="apollo::cyber::Component\l\&lt; RoutingRequest \&gt;" alt="" coords="565,2497,755,2539"/>
+<area shape="rect" id="node70" href="$classapollo_1_1cyber_1_1Component.html" title="apollo::cyber::Component\l\&lt; SensorFrameMessage \&gt;" alt="" coords="563,2565,757,2607"/>
+<area shape="rect" id="node73" href="$classapollo_1_1cyber_1_1Component.html" title="apollo::cyber::Component\l\&lt; SubmoduleOutput \&gt;" alt="" coords="565,2631,755,2672"/>
+<area shape="rect" id="node75" href="$classapollo_1_1cyber_1_1Component.html" title="apollo::cyber::Component\&lt; T \&gt;" alt="" coords="547,2697,773,2723"/>
+<area shape="rect" id="node77" href="$classapollo_1_1cyber_1_1Component.html" title="apollo::cyber::Component\l\&lt; task_manager::Task \&gt;" alt="" coords="565,2748,755,2789"/>
+<area shape="rect" id="node79" href="$classapollo_1_1cyber_1_1Component.html" title="apollo::cyber::Component\l\&lt; VelodyneScan \&gt;" alt="" coords="565,2813,755,2855"/>
+<area shape="rect" id="node80" href="$classapollo_1_1cyber_1_1Component.html" title="apollo::cyber::Component\&lt;\&gt;" alt="" coords="555,3293,765,3319"/>
+<area shape="rect" id="node6" href="$classapollo_1_1drivers_1_1camera_1_1CameraComponent.html" title="apollo::drivers::camera\l::CameraComponent" alt="" coords="909,5,1081,47"/>
+<area shape="rect" id="node7" href="$classapollo_1_1drivers_1_1camera_1_1CompressComponent.html" title="apollo::drivers::camera\l::CompressComponent" alt="" coords="909,71,1081,112"/>
+<area shape="rect" id="node8" href="$classapollo_1_1drivers_1_1gnss_1_1GnssDriverComponent.html" title="apollo::drivers::gnss\l::GnssDriverComponent" alt="" coords="906,136,1083,177"/>
+<area shape="rect" id="node9" href="$classapollo_1_1drivers_1_1microphone_1_1MicrophoneComponent.html" title="apollo::drivers::microphone\l::MicrophoneComponent" alt="" coords="895,201,1095,243"/>
+<area shape="rect" id="node10" href="$classapollo_1_1drivers_1_1robosense_1_1RobosenseComponent.html" title="apollo::drivers::robosense\l::RobosenseComponent" alt="" coords="899,267,1090,308"/>
+<area shape="rect" id="node11" href="$classapollo_1_1drivers_1_1smartereye_1_1CompressComponent.html" title="apollo::drivers::smartereye\l::CompressComponent" alt="" coords="895,332,1094,373"/>
+<area shape="rect" id="node12" href="$classapollo_1_1drivers_1_1smartereye_1_1SmartereyeComponent.html" title="apollo::drivers::smartereye\l::SmartereyeComponent" alt="" coords="895,397,1094,439"/>
+<area shape="rect" id="node13" href="$classapollo_1_1drivers_1_1velodyne_1_1CompensatorComponent.html" title="apollo::drivers::velodyne\l::CompensatorComponent" alt="" coords="899,463,1091,504"/>
+<area shape="rect" id="node14" href="$classapollo_1_1drivers_1_1velodyne_1_1PriSecFusionComponent.html" title="apollo::drivers::velodyne\l::PriSecFusionComponent" alt="" coords="901,528,1088,569"/>
+<area shape="rect" id="node15" href="$classapollo_1_1drivers_1_1velodyne_1_1VelodyneConvertComponent.html" title="apollo::drivers::velodyne\l::VelodyneConvertComponent" alt="" coords="887,593,1103,635"/>
+<area shape="rect" id="node16" href="$classapollo_1_1drivers_1_1velodyne_1_1VelodyneDriverComponent.html" title="apollo::drivers::velodyne\l::VelodyneDriverComponent" alt="" coords="892,659,1097,700"/>
+<area shape="rect" id="node17" href="$classapollo_1_1drivers_1_1video_1_1CompCameraH265Compressed.html" title="apollo::drivers::video\l::CompCameraH265Compressed" alt="" coords="877,724,1112,765"/>
+<area shape="rect" id="node23" href="$classapollo_1_1canbus_1_1CanbusComponent.html" title="apollo::canbus::CanbusComponent" alt="" coords="871,790,1118,817"/>
+<area shape="rect" id="node24" href="$classapollo_1_1control_1_1ControlComponent.html" title="apollo::control::Control\lComponent" alt="" coords="909,841,1080,883"/>
+<area shape="rect" id="node25" href="$classapollo_1_1guardian_1_1GuardianComponent.html" title="apollo::guardian::Guardian\lComponent" alt="" coords="897,907,1092,948"/>
+<area shape="rect" id="node26" href="$classapollo_1_1monitor_1_1Monitor.html" title="apollo::monitor::Monitor" alt="" coords="905,973,1084,999"/>
+<area shape="rect" id="node27" href="$classapollo_1_1relative__map_1_1RelativeMapComponent.html" title="apollo::relative_map\l::RelativeMapComponent" alt="" coords="902,1024,1087,1065"/>
+<area shape="rect" id="node28" href="$classapollo_1_1storytelling_1_1Storytelling.html" title="apollo::storytelling\l::Storytelling" alt="" coords="923,1089,1067,1131"/>
+<area shape="rect" id="node29" href="$classapollo_1_1third__party__perception_1_1ThirdPartyPerceptionComponent.html" title="apollo::third_party\l_perception::ThirdPartyPerception\lComponent" alt="" coords="874,1155,1115,1211"/>
+<area shape="rect" id="node30" href="$classTimerComponentSample.html" title="TimerComponentSample" alt="" coords="903,1235,1087,1262"/>
+<area shape="rect" id="node32" href="$classapollo_1_1image__decompress_1_1ImageDecompressComponent.html" title="apollo::image_decompress\l::ImageDecompressComponent" alt="" coords="881,1287,1108,1328"/>
+<area shape="rect" id="node34" href="$classapollo_1_1audio_1_1AudioComponent.html" title="apollo::audio::AudioComponent" alt="" coords="881,1353,1108,1379"/>
+<area shape="rect" id="node36" href="$classapollo_1_1prediction_1_1PredictorSubmodule.html" title="apollo::prediction\l::PredictorSubmodule" alt="" coords="914,1404,1075,1445"/>
+<area shape="rect" id="node38" href="$classapollo_1_1perception_1_1onboard_1_1RadarDetectionComponent.html" title="apollo::perception\l::onboard::RadarDetectionComponent" alt="" coords="861,1469,1128,1511"/>
+<area shape="rect" id="node40" href="$classapollo_1_1control_1_1PostprocessorSubmodule.html" title="apollo::control::Postprocessor\lSubmodule" alt="" coords="887,1535,1102,1576"/>
+<area shape="rect" id="node42" href="$classCommonComponentSample.html" title="CommonComponentSample" alt="" coords="892,1601,1097,1627"/>
+<area shape="rect" id="node44" href="$classapollo_1_1localization_1_1MSFLocalizationComponent.html" title="apollo::localization\l::MSFLocalizationComponent" alt="" coords="890,1652,1099,1693"/>
+<area shape="rect" id="node46" href="$classapollo_1_1localization_1_1msf_1_1OnlineVisualizerComponent.html" title="apollo::localization\l::msf::OnlineVisualizerComponent" alt="" coords="873,1717,1117,1759"/>
+<area shape="rect" id="node47" href="$classapollo_1_1perception_1_1onboard_1_1DetectionComponent.html" title="apollo::perception\l::onboard::DetectionComponent" alt="" coords="880,1783,1109,1824"/>
+<area shape="rect" id="node49" href="$classapollo_1_1drivers_1_1hesai_1_1HesaiConvertComponent.html" title="apollo::drivers::hesai\l::HesaiConvertComponent" alt="" coords="898,1848,1091,1889"/>
+<area shape="rect" id="node52" href="$classapollo_1_1perception_1_1onboard_1_1RecognitionComponent.html" title="apollo::perception\l::onboard::RecognitionComponent" alt="" coords="873,1913,1116,1955"/>
+<area shape="rect" id="node54" href="$classapollo_1_1localization_1_1ndt_1_1NDTLocalizationComponent.html" title="apollo::localization\l::ndt::NDTLocalizationComponent" alt="" coords="875,1979,1115,2020"/>
+<area shape="rect" id="node55" href="$classapollo_1_1localization_1_1RTKLocalizationComponent.html" title="apollo::localization\l::RTKLocalizationComponent" alt="" coords="891,2044,1099,2085"/>
+<area shape="rect" id="node57" href="$classapollo_1_1control_1_1PreprocessorSubmodule.html" title="apollo::control::Preprocessor\lSubmodule" alt="" coords="891,2109,1098,2151"/>
+<area shape="rect" id="node59" href="$classapollo_1_1prediction_1_1PredictionComponent.html" title="apollo::prediction\l::PredictionComponent" alt="" coords="909,2175,1080,2216"/>
+<area shape="rect" id="node61" href="$classapollo_1_1v2x_1_1ft_1_1V2XFusionComponent.html" title="apollo::v2x::ft::V2XFusion\lComponent" alt="" coords="901,2240,1088,2281"/>
+<area shape="rect" id="node64" href="$classapollo_1_1planning_1_1PlanningComponent.html" title="apollo::planning::Planning\lComponent" alt="" coords="899,2305,1090,2347"/>
+<area shape="rect" id="node66" href="$classapollo_1_1control_1_1LatLonControllerSubmodule.html" title="apollo::control::LatLonController\lSubmodule" alt="" coords="879,2371,1110,2412"/>
+<area shape="rect" id="node67" href="$classapollo_1_1control_1_1MPCControllerSubmodule.html" title="apollo::control::MPCController\lSubmodule" alt="" coords="887,2436,1102,2477"/>
+<area shape="rect" id="node69" href="$classapollo_1_1routing_1_1RoutingComponent.html" title="apollo::routing::Routing\lComponent" alt="" coords="908,2501,1081,2543"/>
+<area shape="rect" id="node71" href="$classapollo_1_1perception_1_1onboard_1_1FusionComponent.html" title="apollo::perception\l::onboard::FusionComponent" alt="" coords="891,2567,1098,2608"/>
+<area shape="rect" id="node72" href="$classapollo_1_1perception_1_1onboard_1_1LidarOutputComponent.html" title="apollo::perception\l::onboard::LidarOutputComponent" alt="" coords="873,2632,1116,2673"/>
+<area shape="rect" id="node74" href="$classapollo_1_1prediction_1_1EvaluatorSubmodule.html" title="apollo::prediction\l::EvaluatorSubmodule" alt="" coords="912,2697,1077,2739"/>
+<area shape="rect" id="node76" href="$classapollo_1_1bridge_1_1UDPBridgeSenderComponent.html" title="apollo::bridge::UDPBridge\lSenderComponent\&lt; T \&gt;" alt="" coords="900,2763,1089,2804"/>
+<area shape="rect" id="node78" href="$classapollo_1_1task__manager_1_1TaskManagerComponent.html" title="apollo::task_manager\l::TaskManagerComponent" alt="" coords="899,2828,1090,2869"/>
+<area shape="rect" id="node81" href="$classapollo_1_1bridge_1_1UDPBridgeMultiReceiverComponent.html" title="apollo::bridge::UDPBridge\lMultiReceiverComponent" alt="" coords="900,2893,1089,2935"/>
+<area shape="rect" id="node82" href="$classapollo_1_1bridge_1_1UDPBridgeReceiverComponent.html" title="apollo::bridge::UDPBridge\lReceiverComponent\&lt; T \&gt;" alt="" coords="899,2959,1090,3000"/>
+<area shape="rect" id="node83" href="$classapollo_1_1drivers_1_1conti__radar_1_1ContiRadarCanbusComponent.html" title="apollo::drivers::conti\l_radar::ContiRadarCanbusComponent" alt="" coords="861,3024,1128,3065"/>
+<area shape="rect" id="node84" href="$classapollo_1_1drivers_1_1hesai_1_1HesaiComponent.html" title="apollo::drivers::hesai\l::HesaiComponent" alt="" coords="915,3089,1074,3131"/>
+<area shape="rect" id="node85" href="$classapollo_1_1drivers_1_1lidar_1_1LidarDriverComponent.html" title="apollo::drivers::lidar\l::LidarDriverComponent" alt="" coords="906,3155,1083,3196"/>
+<area shape="rect" id="node86" href="$classapollo_1_1drivers_1_1racobit__radar_1_1RacobitRadarCanbusComponent.html" title="apollo::drivers::racobit\l_radar::RacobitRadarCanbusComponent" alt="" coords="854,3220,1135,3261"/>
+<area shape="rect" id="node87" href="$classapollo_1_1drivers_1_1SensorCanbus.html" title="template of canbus&#45;based sensor module main class (e.g., mobileye). " alt="" coords="887,3285,1102,3327"/>
+<area shape="rect" id="node88" href="$classapollo_1_1drivers_1_1ultrasonic__radar_1_1UltrasonicRadarCanbusComponent.html" title="apollo::drivers::ultrasonic\l_radar::UltrasonicRadarCanbusComponent" alt="" coords="845,3351,1144,3392"/>
+<area shape="rect" id="node89" href="$classapollo_1_1perception_1_1camera_1_1MotionService.html" title="apollo::perception\l::camera::MotionService" alt="" coords="905,3416,1084,3457"/>
+<area shape="rect" id="node90" href="$classapollo_1_1perception_1_1onboard_1_1CameraObstacleDetectionComponent.html" title="apollo::perception\l::onboard::CameraObstacleDetection\lComponent" alt="" coords="863,3482,1126,3538"/>
+<area shape="rect" id="node91" href="$classapollo_1_1perception_1_1onboard_1_1FusionCameraDetectionComponent.html" title="apollo::perception\l::onboard::FusionCameraDetection\lComponent" alt="" coords="871,3562,1118,3618"/>
+<area shape="rect" id="node92" href="$classapollo_1_1perception_1_1onboard_1_1LaneDetectionComponent.html" title="apollo::perception\l::onboard::LaneDetectionComponent" alt="" coords="865,3643,1125,3684"/>
+<area shape="rect" id="node93" href="$classapollo_1_1perception_1_1onboard_1_1TrafficLightsPerceptionComponent.html" title="apollo::perception\l::onboard::TrafficLightsPerception\lComponent" alt="" coords="875,3709,1114,3765"/>
+<area shape="rect" id="node94" href="$classapollo_1_1transform_1_1StaticTransformComponent.html" title="apollo::transform::\lStaticTransformComponent" alt="" coords="895,3789,1094,3831"/>
+</map>

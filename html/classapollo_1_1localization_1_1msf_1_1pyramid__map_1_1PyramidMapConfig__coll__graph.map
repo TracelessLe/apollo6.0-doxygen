@@ -1,0 +1,4 @@
+<map id="apollo::localization::msf::pyramid_map::PyramidMapConfig" name="apollo::localization::msf::pyramid_map::PyramidMapConfig">
+<area shape="rect" id="node2" href="$classapollo_1_1localization_1_1msf_1_1pyramid__map_1_1BaseMapConfig.html" title="The options of the reflectance map. " alt="" coords="114,321,334,736"/>
+<area shape="rect" id="node3" href="$classapollo_1_1localization_1_1msf_1_1Rect2D.html" title="{apollo::localization\l::msf::Rect2D\&lt; double \&gt;\n||+ Rect2D()\l+ Rect2D()\l+ Rect2D()\l+ operator=()\l+ GetMinX()\l+ GetMinY()\l+ GetMaxX()\l+ GetMaxY()\l+ GetLeftTopCorner()\l+ GetRightBottomCorner()\l}" alt="" coords="5,5,200,229"/>
+</map>

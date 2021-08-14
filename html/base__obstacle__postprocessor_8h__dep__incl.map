@@ -1,0 +1,8 @@
+<map id="modules/perception/camera/lib/interface/base_obstacle_postprocessor.h" name="modules/perception/camera/lib/interface/base_obstacle_postprocessor.h">
+<area shape="rect" id="node2" href="$obstacle__camera__perception_8h.html" title="modules/perception\l/camera/app/obstacle\l_camera_perception.h" alt="" coords="79,124,245,180"/>
+<area shape="rect" id="node4" href="$obstacle__detection__camera_8h.html" title="modules/perception\l/camera/app/obstacle\l_detection_camera.h" alt="" coords="289,124,451,180"/>
+<area shape="rect" id="node6" href="$camera_2lib_2dummy_2dummy__algorithms_8h.html" title="modules/perception\l/camera/lib/dummy/dummy\l_algorithms.h" alt="" coords="475,124,678,180"/>
+<area shape="rect" id="node7" href="$location__refiner__obstacle__postprocessor_8h.html" title="modules/perception\l/camera/lib/obstacle\l/postprocessor/location\l_refiner/location_refiner\l_obstacle_postprocessor.h" alt="" coords="703,109,896,195"/>
+<area shape="rect" id="node3" href="$fusion__camera__detection__component_8h.html" title="modules/perception\l/onboard/component/fusion\l_camera_detection_component.h" alt="" coords="5,243,244,299"/>
+<area shape="rect" id="node5" href="$camera__obstacle__detection__component_8h.html" title="modules/perception\l/onboard/component/camera\l_obstacle_detection_component.h" alt="" coords="268,243,512,299"/>
+</map>

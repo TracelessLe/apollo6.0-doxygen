@@ -1,0 +1,4 @@
+<map id="apollo::planning::PlanningBase" name="apollo::planning::PlanningBase">
+<area shape="rect" id="node2" href="$classapollo_1_1hdmap_1_1HDMap.html" title="High&#45;precision map loader interface. " alt="" coords="5,5,183,229"/>
+<area shape="rect" id="node3" href="$structapollo_1_1planning_1_1LocalView.html" title="{apollo::planning::LocalView\n|+ prediction_obstacles\l+ chassis\l+ localization_estimate\l+ traffic_light\l+ routing\l+ relative_map\l+ pad_msg\l+ stories\l|}" alt="" coords="207,27,407,207"/>
+</map>

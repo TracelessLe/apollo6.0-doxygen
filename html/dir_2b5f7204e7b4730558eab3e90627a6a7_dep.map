@@ -1,0 +1,6 @@
+<map id="modules/prediction/scenario/right_of_way" name="modules/prediction/scenario/right_of_way">
+<area shape="rect" id="node1" href="dir_2b5f7204e7b4730558eab3e90627a6a7.html" title="right_of_way" alt="" coords="27,52,133,100"/>
+<area shape="rect" id="node2" href="dir_785e2b277299b71d04d4ff801adb13f8.html" title="container" alt="" coords="39,148,121,196"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000486_000385.html" title="1" alt="" coords="84,122,93,137"/>
+<area shape="rect" id="clust1" href="dir_641d7455a1777a6148126addef2b0996.html" title="scenario" alt="" coords="16,16,144,111"/>
+</map>

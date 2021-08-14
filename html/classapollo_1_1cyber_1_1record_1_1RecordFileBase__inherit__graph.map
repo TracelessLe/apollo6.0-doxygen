@@ -1,0 +1,4 @@
+<map id="apollo::cyber::record::RecordFileBase" name="apollo::cyber::record::RecordFileBase">
+<area shape="rect" id="node2" href="$classapollo_1_1cyber_1_1record_1_1RecordFileReader.html" title="{apollo::cyber::record\l::RecordFileReader\n||+ RecordFileReader()\l+ ~RecordFileReader()\l+ Open()\l+ Close()\l+ Reset()\l+ ReadSection()\l+ SkipSection()\l+ ReadSection()\l+ ReadIndex()\l+ EndOfFile()\l}" alt="" coords="5,321,175,545"/>
+<area shape="rect" id="node3" href="$classapollo_1_1cyber_1_1record_1_1RecordFileWriter.html" title="{apollo::cyber::record\l::RecordFileWriter\n||+ RecordFileWriter()\l+ ~RecordFileWriter()\l+ Open()\l+ Close()\l+ WriteHeader()\l+ WriteChannel()\l+ WriteMessage()\l+ GetMessageNumber()\l}" alt="" coords="199,336,378,531"/>
+</map>

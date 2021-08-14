@@ -1,0 +1,19 @@
+<map id="modules/canbus/vehicle/vehicle_controller.h" name="modules/canbus/vehicle/vehicle_controller.h">
+<area shape="rect" id="node7" href="$vehicle__config__helper_8h.html" title="modules/common/configs\l/vehicle_config_helper.h" alt="" coords="355,95,544,136"/>
+<area shape="rect" id="node27" href="$can__sender_8h.html" title="Defines SenderMessage class and CanSender class. " alt="" coords="1735,95,1922,136"/>
+<area shape="rect" id="node45" href="$protocol__data_8h.html" title="The class of ProtocolData. " alt="" coords="2870,184,3072,225"/>
+<area shape="rect" id="node48" href="$message__manager_8h.html" title="The class of MessageManager. " alt="" coords="2277,95,2513,136"/>
+<area shape="rect" id="node11" href="$cyber_2common_2macros_8h.html" title="cyber/common/macros.h" alt="" coords="862,191,1045,218"/>
+<area shape="rect" id="node19" href="$box2d_8h.html" title="The class of Box2d. Here, the x/y axes are respectively Forward/Left, as opposed to what happens in e..." alt="" coords="461,184,638,225"/>
+<area shape="rect" id="node17" href="$cyber_2base_2macros_8h.html" title="cyber/base/macros.h" alt="" coords="552,281,710,307"/>
+<area shape="rect" id="node22" href="$aabox2d_8h.html" title="Defines the AABox2d class. " alt="" coords="350,273,528,315"/>
+<area shape="rect" id="node23" href="$vec2d_8h.html" title="Defines the Vec2d class. " alt="" coords="348,363,525,404"/>
+<area shape="rect" id="node25" href="$line__segment2d_8h.html" title="Define the LineSegment2d class. " alt="" coords="97,273,274,315"/>
+<area shape="rect" id="node32" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="2866,281,3020,307"/>
+<area shape="rect" id="node37" href="$time_8h.html" title="cyber/time/time.h" alt="" coords="1576,191,1715,218"/>
+<area shape="rect" id="node40" href="$can__client_8h.html" title="Defines the CanFrame struct and CanClient interface. " alt="" coords="1740,184,1917,225"/>
+<area shape="rect" id="node36" href="$binary_8h.html" title="cyber/binary.h" alt="" coords="2372,370,2485,397"/>
+<area shape="rect" id="node38" href="$duration_8h.html" title="cyber/time/duration.h" alt="" coords="1462,281,1624,307"/>
+<area shape="rect" id="node44" href="$byte_8h.html" title="Defines the Byte class. " alt="" coords="2193,273,2370,315"/>
+<area shape="rect" id="node47" href="$canbus__consts_8h.html" title="modules/drivers/canbus\l/common/canbus_consts.h" alt="" coords="2647,273,2842,315"/>
+</map>

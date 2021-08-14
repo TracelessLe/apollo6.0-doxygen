@@ -1,0 +1,26 @@
+<map id="modules/planning/tasks/optimizers/open_space_trajectory_partition/open_space_trajectory_partition.h" name="modules/planning/tasks/optimizers/open_space_trajectory_partition/open_space_trajectory_partition.h">
+<area shape="rect" id="node7" href="$vehicle__config__helper_8h.html" title="modules/common/configs\l/vehicle_config_helper.h" alt="" coords="761,407,951,448"/>
+<area shape="rect" id="node23" href="$linear__interpolation_8h.html" title="Linear interpolation functions. " alt="" coords="145,496,322,537"/>
+<area shape="rect" id="node29" href="$common_2status_2status_8h.html" title="modules/common/status\l/status.h" alt="" coords="1951,496,2134,537"/>
+<area shape="rect" id="node33" href="$discretized__trajectory_8h.html" title="modules/planning/common\l/trajectory/discretized\l_trajectory.h" alt="" coords="1249,585,1447,641"/>
+<area shape="rect" id="node35" href="$trajectory__optimizer_8h.html" title="modules/planning/tasks\l/optimizers/trajectory\l_optimizer.h" alt="" coords="1727,124,1905,180"/>
+<area shape="rect" id="node10" href="$cyber_2common_2macros_8h.html" title="cyber/common/macros.h" alt="" coords="2893,697,3075,723"/>
+<area shape="rect" id="node17" href="$box2d_8h.html" title="The class of Box2d. Here, the x/y axes are respectively Forward/Left, as opposed to what happens in e..." alt="" coords="790,496,967,537"/>
+<area shape="rect" id="node14" href="$cyber_2base_2macros_8h.html" title="cyber/base/macros.h" alt="" coords="4115,779,4272,805"/>
+<area shape="rect" id="node19" href="$aabox2d_8h.html" title="Defines the AABox2d class. " alt="" coords="650,593,827,634"/>
+<area shape="rect" id="node20" href="$vec2d_8h.html" title="Defines the Vec2d class. " alt="" coords="846,689,1023,731"/>
+<area shape="rect" id="node22" href="$line__segment2d_8h.html" title="Define the LineSegment2d class. " alt="" coords="449,593,626,634"/>
+<area shape="rect" id="node24" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="219,697,373,723"/>
+<area shape="rect" id="node28" href="$binary_8h.html" title="cyber/binary.h" alt="" coords="550,779,663,805"/>
+<area shape="rect" id="node32" href="$future_8h.html" title="modules/common/util\l/future.h" alt="" coords="2155,593,2319,634"/>
+<area shape="rect" id="node36" href="$modules_2planning_2tasks_2task_8h.html" title="modules/planning/tasks\l/task.h" alt="" coords="3093,228,3270,269"/>
+<area shape="rect" id="node37" href="$planning_2common_2dependency__injector_8h.html" title="modules/planning/common\l/dependency_injector.h" alt="" coords="2562,317,2761,359"/>
+<area shape="rect" id="node40" href="$planning_2common_2frame_8h.html" title="modules/planning/common\l/frame.h" alt="" coords="2927,407,3126,448"/>
+<area shape="rect" id="node46" href="$reference__line__info_8h.html" title="modules/planning/common\l/reference_line_info.h" alt="" coords="3175,496,3374,537"/>
+<area shape="rect" id="node38" href="$vehicle__state__provider_8h.html" title="modules/common/vehicle\l_state/vehicle_state_provider.h" alt="" coords="1529,407,1754,448"/>
+<area shape="rect" id="node39" href="$ego__info_8h.html" title="modules/planning/common\l/ego_info.h" alt="" coords="2325,496,2523,537"/>
+<area shape="rect" id="node47" href="$planning__context_8h.html" title="modules/planning/common\l/planning_context.h" alt="" coords="2749,593,2947,634"/>
+<area shape="rect" id="node49" href="$modules_2planning_2common_2history_8h.html" title="modules/planning/common\l/history.h" alt="" coords="2698,496,2897,537"/>
+<area shape="rect" id="node50" href="$learning__based__data_8h.html" title="modules/planning/common\l/learning_based_data.h" alt="" coords="1994,407,2193,448"/>
+<area shape="rect" id="node45" href="$monitor__log__buffer_8h.html" title="The class of MonitorLogBuffer. " alt="" coords="3491,593,3685,634"/>
+</map>

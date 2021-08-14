@@ -1,0 +1,27 @@
+<map id="modules/perception/lidar/lib/detector/mask_pillars_detection/mask_pillars_detection.h" name="modules/perception/lidar/lib/detector/mask_pillars_detection/mask_pillars_detection.h">
+<area shape="rect" id="node8" href="$base_2object_8h.html" title="modules/perception\l/base/object.h" alt="" coords="3292,525,3443,567"/>
+<area shape="rect" id="node22" href="$point__cloud_8h.html" title="modules/perception\l/base/point_cloud.h" alt="" coords="2711,719,2861,760"/>
+<area shape="rect" id="node25" href="$lidar__frame_8h.html" title="modules/perception\l/lidar/common/lidar\l_frame.h" alt="" coords="3027,228,3177,284"/>
+<area shape="rect" id="node31" href="$point__pillars_8h.html" title="Algorithm for PointPillars. " alt="" coords="1515,704,1689,775"/>
+<area shape="rect" id="node48" href="$base__lidar__detector_8h.html" title="modules/perception\l/lidar/lib/interface\l/base_lidar_detector.h" alt="" coords="4049,124,4214,180"/>
+<area shape="rect" id="node11" href="$base_2object__supplement_8h.html" title="modules/perception\l/base/object_supplement.h" alt="" coords="3337,615,3534,656"/>
+<area shape="rect" id="node21" href="$object__types_8h.html" title="modules/perception\l/base/object_types.h" alt="" coords="3524,719,3680,760"/>
+<area shape="rect" id="node24" href="$vehicle__struct_8h.html" title="modules/perception\l/base/vehicle_struct.h" alt="" coords="3097,615,3261,656"/>
+<area shape="rect" id="node13" href="$eigen__defs_8h.html" title="modules/common/util\l/eigen_defs.h" alt="" coords="2823,837,2987,879"/>
+<area shape="rect" id="node18" href="$box_8h.html" title="modules/perception\l/base/box.h" alt="" coords="3247,719,3397,760"/>
+<area shape="rect" id="node20" href="$point_8h.html" title="modules/perception\l/base/point.h" alt="" coords="3261,837,3412,879"/>
+<area shape="rect" id="node26" href="$hdmap__struct_8h.html" title="modules/perception\l/base/hdmap_struct.h" alt="" coords="2573,615,2735,656"/>
+<area shape="rect" id="node27" href="$object__pool__types_8h.html" title="modules/perception\l/base/object_pool_types.h" alt="" coords="3007,332,3197,373"/>
+<area shape="rect" id="node30" href="$sensor__meta_8h.html" title="modules/perception\l/base/sensor_meta.h" alt="" coords="3937,525,4094,567"/>
+<area shape="rect" id="node28" href="$modules_2perception_2base_2concurrent__object__pool_8h.html" title="modules/perception\l/base/concurrent_object\l_pool.h" alt="" coords="2661,421,2839,477"/>
+<area shape="rect" id="node29" href="$perception_2base_2frame_8h.html" title="modules/perception\l/base/frame.h" alt="" coords="3541,429,3692,470"/>
+<area shape="rect" id="node38" href="$anchor__mask__cuda_8h.html" title="Make anchor mask for filtering output. " alt="" coords="1211,823,1385,893"/>
+<area shape="rect" id="node39" href="$perception_2lidar_2lib_2detector_2point__pillars__detection_2common_8h.html" title="modules/perception\l/lidar/lib/detector\l/point_pillars_detection\l/common.h" alt="" coords="60,823,235,893"/>
+<area shape="rect" id="node42" href="$params_8h.html" title="modules/perception\l/lidar/lib/detector\l/point_pillars_detection\l/params.h" alt="" coords="397,823,572,893"/>
+<area shape="rect" id="node43" href="$postprocess__cuda_8h.html" title="Postprocess for network output. " alt="" coords="3063,823,3237,893"/>
+<area shape="rect" id="node45" href="$preprocess__points_8h.html" title="CPU version of preprocess points. " alt="" coords="1409,823,1584,893"/>
+<area shape="rect" id="node46" href="$preprocess__points__cuda_8h.html" title="GPU version of preprocess points. " alt="" coords="1609,823,1803,893"/>
+<area shape="rect" id="node47" href="$scatter__cuda_8h.html" title="CUDA code for scatter operation. " alt="" coords="1828,823,2003,893"/>
+<area shape="rect" id="node49" href="$cyber_2common_2macros_8h.html" title="cyber/common/macros.h" alt="" coords="3640,845,3823,871"/>
+<area shape="rect" id="node50" href="$registerer_8h.html" title="modules/perception\l/lib/registerer/registerer.h" alt="" coords="3705,719,3891,760"/>
+</map>

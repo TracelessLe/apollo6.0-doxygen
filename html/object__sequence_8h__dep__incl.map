@@ -1,0 +1,5 @@
+<map id="modules/perception/lidar/common/object_sequence.h" name="modules/perception/lidar/common/object_sequence.h">
+<area shape="rect" id="node2" href="$type__fusion__interface_8h.html" title="modules/perception\l/lidar/lib/classifier\l/fused_classifier/type\l_fusion_interface.h" alt="" coords="71,109,231,180"/>
+<area shape="rect" id="node4" href="$fused__classifier_8h.html" title="modules/perception\l/lidar/lib/classifier\l/fused_classifier/fused\l_classifier.h" alt="" coords="185,228,351,299"/>
+<area shape="rect" id="node3" href="$ccrf__type__fusion_8h.html" title="modules/perception\l/lidar/lib/classifier\l/fused_classifier/ccrf\l_type_fusion.h" alt="" coords="5,228,160,299"/>
+</map>

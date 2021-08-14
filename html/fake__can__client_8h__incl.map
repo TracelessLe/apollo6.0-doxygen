@@ -1,0 +1,6 @@
+<map id="modules/drivers/canbus/can_client/fake/fake_can_client.h" name="modules/drivers/canbus/can_client/fake/fake_can_client.h">
+<area shape="rect" id="node6" href="$can__client_8h.html" title="Defines the CanFrame struct and CanClient interface. " alt="" coords="432,109,609,151"/>
+<area shape="rect" id="node10" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="668,206,823,233"/>
+<area shape="rect" id="node15" href="$byte_8h.html" title="Defines the Byte class. " alt="" coords="234,288,412,329"/>
+<area shape="rect" id="node14" href="$binary_8h.html" title="cyber/binary.h" alt="" coords="488,295,601,322"/>
+</map>

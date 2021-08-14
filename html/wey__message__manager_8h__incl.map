@@ -1,0 +1,10 @@
+<map id="modules/canbus/vehicle/wey/wey_message_manager.h" name="modules/canbus/vehicle/wey/wey_message_manager.h">
+<area shape="rect" id="node3" href="$message__manager_8h.html" title="The class of MessageManager. " alt="" coords="520,95,756,136"/>
+<area shape="rect" id="node11" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="1146,281,1301,307"/>
+<area shape="rect" id="node17" href="$time_8h.html" title="cyber/time/time.h" alt="" coords="753,191,891,218"/>
+<area shape="rect" id="node23" href="$protocol__data_8h.html" title="The class of ProtocolData. " alt="" coords="1169,184,1371,225"/>
+<area shape="rect" id="node27" href="$byte_8h.html" title="Defines the Byte class. " alt="" coords="1512,273,1689,315"/>
+<area shape="rect" id="node16" href="$binary_8h.html" title="cyber/binary.h" alt="" coords="993,363,1107,389"/>
+<area shape="rect" id="node19" href="$duration_8h.html" title="cyber/time/duration.h" alt="" coords="741,281,903,307"/>
+<area shape="rect" id="node26" href="$canbus__consts_8h.html" title="modules/drivers/canbus\l/common/canbus_consts.h" alt="" coords="927,273,1122,315"/>
+</map>

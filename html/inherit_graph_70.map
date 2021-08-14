@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classapollo_1_1control_1_1Controller.html" title="base class for all controllers. " alt="" coords="5,56,192,83"/>
+<area shape="rect" id="node2" href="$classapollo_1_1control_1_1LatController.html" title="LQR&#45;Based lateral controller, to compute steering target. For more details, please refer to &quot;Vehicle ..." alt="" coords="244,5,451,32"/>
+<area shape="rect" id="node3" href="$classapollo_1_1control_1_1LonController.html" title="Longitudinal controller, to compute brake / throttle values. " alt="" coords="242,56,453,83"/>
+<area shape="rect" id="node4" href="$classapollo_1_1control_1_1MPCController.html" title="MPCController, combined lateral and longitudinal controllers. " alt="" coords="240,107,455,133"/>
+</map>

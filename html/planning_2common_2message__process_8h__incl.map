@@ -1,0 +1,16 @@
+<map id="modules/planning/common/message_process.h" name="modules/planning/common/message_process.h">
+<area shape="rect" id="node13" href="$hdmap__common_8h.html" title="modules/map/hdmap/hdmap\l_common.h" alt="" coords="3679,102,3889,143"/>
+<area shape="rect" id="node39" href="$planning_2common_2dependency__injector_8h.html" title="modules/planning/common\l/dependency_injector.h" alt="" coords="790,102,989,143"/>
+<area shape="rect" id="node14" href="$aabox2d_8h.html" title="Defines the AABox2d class. " alt="" coords="2710,288,2887,329"/>
+<area shape="rect" id="node15" href="$vec2d_8h.html" title="Defines the Vec2d class. " alt="" coords="2583,377,2761,419"/>
+<area shape="rect" id="node17" href="$aaboxkdtree2d_8h.html" title="Defines the templated AABoxKDTree2dNode class. " alt="" coords="3887,199,4065,240"/>
+<area shape="rect" id="node21" href="$math__utils_8h.html" title="Math&#45;related util functions. " alt="" coords="3250,288,3427,329"/>
+<area shape="rect" id="node23" href="$polygon2d_8h.html" title="Define the Polygon2d class. " alt="" coords="2457,288,2634,329"/>
+<area shape="rect" id="node20" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="3581,385,3736,411"/>
+<area shape="rect" id="node40" href="$vehicle__state__provider_8h.html" title="modules/common/vehicle\l_state/vehicle_state_provider.h" alt="" coords="1767,199,1993,240"/>
+<area shape="rect" id="node41" href="$ego__info_8h.html" title="modules/planning/common\l/ego_info.h" alt="" coords="502,288,701,329"/>
+<area shape="rect" id="node42" href="$planning_2common_2frame_8h.html" title="modules/planning/common\l/frame.h" alt="" coords="790,199,989,240"/>
+<area shape="rect" id="node46" href="$modules_2planning_2common_2history_8h.html" title="modules/planning/common\l/history.h" alt="" coords="518,199,717,240"/>
+<area shape="rect" id="node47" href="$learning__based__data_8h.html" title="modules/planning/common\l/learning_based_data.h" alt="" coords="1494,199,1693,240"/>
+<area shape="rect" id="node49" href="$planning__context_8h.html" title="modules/planning/common\l/planning_context.h" alt="" coords="295,199,494,240"/>
+</map>

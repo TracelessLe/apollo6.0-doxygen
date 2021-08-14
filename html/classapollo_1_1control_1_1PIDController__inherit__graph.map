@@ -1,0 +1,4 @@
+<map id="apollo::control::PIDController" name="apollo::control::PIDController">
+<area shape="rect" id="node2" href="$classapollo_1_1control_1_1PIDBCController.html" title="A proportional&#45;integral&#45;derivative controller for speed and steering with backward&#45;calculation&#45;anti&#45;w..." alt="" coords="5,395,232,487"/>
+<area shape="rect" id="node3" href="$classapollo_1_1control_1_1PIDICController.html" title="A proportional&#45;integral&#45;derivative controller for speed and steering with integral&#45;clamping&#45;anti&#45;wind..." alt="" coords="257,395,479,487"/>
+</map>

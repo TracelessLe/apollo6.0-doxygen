@@ -1,0 +1,8 @@
+<map id="modules/drivers/canbus/sensor_gflags.h" name="modules/drivers/canbus/sensor_gflags.h">
+<area shape="rect" id="node2" href="$sensor__canbus_8h.html" title="modules/drivers/canbus\l/sensor_canbus.h" alt="" coords="5,102,183,143"/>
+<area shape="rect" id="node3" href="$racobit__radar__canbus__component_8h.html" title="modules/drivers/radar\l/racobit_radar/racobit\l_radar_canbus_component.h" alt="" coords="199,199,407,255"/>
+<area shape="rect" id="node4" href="$racobit__radar__message__manager_8h.html" title="The class of RacobitRadarMessageManager. " alt="" coords="258,95,463,151"/>
+<area shape="rect" id="node5" href="$ultrasonic__radar__canbus_8h.html" title="modules/drivers/radar\l/ultrasonic_radar/ultrasonic\l_radar_canbus.h" alt="" coords="457,199,656,255"/>
+<area shape="rect" id="node7" href="$ultrasonic__radar__message__manager_8h.html" title="The class of UltrasonicRadarMessageManager. " alt="" coords="538,95,743,151"/>
+<area shape="rect" id="node6" href="$ultrasonic__radar__canbus__component_8h.html" title="modules/drivers/radar\l/ultrasonic_radar/ultrasonic\l_radar_canbus_component.h" alt="" coords="453,303,661,359"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="modules/perception/camera/common/math_functions.h" name="modules/perception/camera/common/math_functions.h">
+<area shape="rect" id="node2" href="$smoke_2region__output_8h.html" title="modules/perception\l/camera/lib/obstacle\l/detector/smoke/region\l_output.h" alt="" coords="20,109,193,180"/>
+<area shape="rect" id="node4" href="$yolo_2region__output_8h.html" title="modules/perception\l/camera/lib/obstacle\l/detector/yolo/region\l_output.h" alt="" coords="224,109,381,180"/>
+<area shape="rect" id="node6" href="$yolov4_2region__output_8h.html" title="modules/perception\l/camera/lib/obstacle\l/detector/yolov4/region\l_output.h" alt="" coords="421,109,595,180"/>
+<area shape="rect" id="node3" href="$smoke__obstacle__detector_8h.html" title="modules/perception\l/camera/lib/obstacle\l/detector/smoke/smoke\l_obstacle_detector.h" alt="" coords="5,228,181,299"/>
+<area shape="rect" id="node5" href="$yolo__obstacle__detector_8h.html" title="modules/perception\l/camera/lib/obstacle\l/detector/yolo/yolo_obstacle\l_detector.h" alt="" coords="206,228,413,299"/>
+<area shape="rect" id="node7" href="$yolov4__obstacle__detector_8h.html" title="modules/perception\l/camera/lib/obstacle\l/detector/yolov4/yolov4\l_obstacle_detector.h" alt="" coords="437,228,613,299"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="modules/drivers/lidar/velodyne" name="modules/drivers/lidar/velodyne">
+<area shape="rect" id="node2" href="dir_e1b8e6bf9d846e526b85c468ba4ad2e8.html" title="compensator" alt="" coords="37,63,144,111"/>
+<area shape="rect" id="node6" href="dir_ac6b90a2349f270c954004b924a71a68.html" title="transform" alt="" coords="79,159,166,207"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000192_000509.html" title="1" alt="" coords="112,131,121,146"/>
+<area shape="rect" id="node7" href="dir_0d6dc3a33fbbb812401bd489d918ef1b.html" title="cyber" alt="" coords="193,255,265,303"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000192_000000.html" title="2" alt="" coords="172,255,182,269"/>
+<area shape="rect" id="node3" href="dir_2c543df62341d476c5ad8bf8df8bf856.html" title="driver" alt="" coords="264,63,336,111"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000188_000000.html" title="2" alt="" coords="248,233,257,248"/>
+<area shape="rect" id="node8" href="dir_f2cf8ae9e0797beb8a1900f445bb00b3.html" title="common" alt="" coords="293,159,371,207"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000188_000182.html" title="1" alt="" coords="321,131,331,146"/>
+<area shape="rect" id="node4" href="dir_ea3c285cd4cacd1c1ec1073774f9852e.html" title="fusion" alt="" coords="168,63,240,111"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000193_000509.html" title="1" alt="" coords="157,142,166,157"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000193_000000.html" title="1" alt="" coords="227,228,237,243"/>
+<area shape="rect" id="node5" href="dir_b9d3a3cbdeb4fa1ae13399f96a0a0153.html" title="parser" alt="" coords="360,63,432,111"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000033_000000.html" title="3" alt="" coords="280,269,290,284"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000509_000000.html" title="3" alt="" coords="190,229,199,243"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000182_000000.html" title="4" alt="" coords="270,241,279,256"/>
+<area shape="rect" id="clust2" href="dir_ea7acc93910b3fb5323eacc902fa54ce.html" alt="" coords="27,52,549,121"/>
+<area shape="rect" id="clust1" href="dir_7cf71a0a2b8e11ea323b96485e4d6ff3.html" title="lidar" alt="" coords="16,16,560,132"/>
+</map>

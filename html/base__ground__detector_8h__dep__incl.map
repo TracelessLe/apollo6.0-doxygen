@@ -1,0 +1,7 @@
+<map id="modules/perception/lidar/lib/interface/base_ground_detector.h" name="modules/perception/lidar/lib/interface/base_ground_detector.h">
+<area shape="rect" id="node2" href="$cnn__segmentation_8h.html" title="modules/perception\l/lidar/lib/detector\l/cnn_segmentation/cnn\l_segmentation.h" alt="" coords="5,117,179,187"/>
+<area shape="rect" id="node3" href="$ncut__segmentation_8h.html" title="modules/perception\l/lidar/lib/detector\l/ncut_segmentation/ncut\l_segmentation.h" alt="" coords="203,117,386,187"/>
+<area shape="rect" id="node4" href="$dummy__ground__detector_8h.html" title="modules/perception\l/lidar/lib/dummy/dummy\l_ground_detector.h" alt="" coords="410,124,593,180"/>
+<area shape="rect" id="node5" href="$ground__service__detector_8h.html" title="modules/perception\l/lidar/lib/ground_detector\l/ground_service_detector\l/ground_service_detector.h" alt="" coords="617,117,815,187"/>
+<area shape="rect" id="node6" href="$spatio__temporal__ground__detector_8h.html" title="modules/perception\l/lidar/lib/ground_detector\l/spatio_temporal_ground\l_detector/spatio_temporal\l_ground_detector.h" alt="" coords="839,109,1033,195"/>
+</map>

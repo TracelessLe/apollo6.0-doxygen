@@ -1,0 +1,4 @@
+<map id="apollo::cyber::transport::Segment" name="apollo::cyber::transport::Segment">
+<area shape="rect" id="node2" href="$classapollo_1_1cyber_1_1transport_1_1PosixSegment.html" title="{apollo::cyber::transport\l::PosixSegment\n||+ PosixSegment()\l+ ~PosixSegment()\l+ Type()\l}" alt="" coords="5,395,179,516"/>
+<area shape="rect" id="node3" href="$classapollo_1_1cyber_1_1transport_1_1XsiSegment.html" title="{apollo::cyber::transport\l::XsiSegment\n||+ XsiSegment()\l+ ~XsiSegment()\l+ Type()\l}" alt="" coords="203,395,376,516"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="modules/planning/lattice/trajectory_generation/trajectory_evaluator.h" name="modules/planning/lattice/trajectory_generation/trajectory_evaluator.h">
+<area shape="rect" id="node7" href="$path__time__graph_8h.html" title="modules/planning/lattice\l/behavior/path_time_graph.h" alt="" coords="1326,109,1535,151"/>
+<area shape="rect" id="node50" href="$curve1d_8h.html" title="modules/planning/math\l/curve1d/curve1d.h" alt="" coords="5559,199,5735,240"/>
+<area shape="rect" id="node10" href="$polygon2d_8h.html" title="Define the Polygon2d class. " alt="" coords="499,571,677,612"/>
+<area shape="rect" id="node16" href="$planning_2common_2frame_8h.html" title="modules/planning/common\l/frame.h" alt="" coords="3459,199,3658,240"/>
+<area shape="rect" id="node26" href="$planning_2common_2obstacle_8h.html" title="modules/planning/common\l/obstacle.h" alt="" coords="3329,385,3527,426"/>
+<area shape="rect" id="node29" href="$st__boundary_8h.html" title="modules/planning/common\l/speed/st_boundary.h" alt="" coords="346,481,545,523"/>
+<area shape="rect" id="node30" href="$st__point_8h.html" title="modules/planning/common\l/speed/st_point.h" alt="" coords="175,660,374,701"/>
+<area shape="rect" id="node34" href="$reference__line_8h.html" title="modules/planning/reference\l_line/reference_line.h" alt="" coords="2783,481,2987,523"/>
+<area shape="rect" id="node44" href="$reference__line__info_8h.html" title="modules/planning/common\l/reference_line_info.h" alt="" coords="1150,385,1349,426"/>
+<area shape="rect" id="node11" href="$box2d_8h.html" title="The class of Box2d. Here, the x/y axes are respectively Forward/Left, as opposed to what happens in e..." alt="" coords="845,660,1022,701"/>
+<area shape="rect" id="node13" href="$line__segment2d_8h.html" title="Define the LineSegment2d class. " alt="" coords="651,749,829,791"/>
+<area shape="rect" id="node14" href="$vec2d_8h.html" title="Defines the Vec2d class. " alt="" coords="1057,839,1234,880"/>
+<area shape="rect" id="node20" href="$monitor__log__buffer_8h.html" title="The class of MonitorLogBuffer. " alt="" coords="2317,481,2512,523"/>
+<area shape="rect" id="node21" href="$common_2status_2status_8h.html" title="modules/common/status\l/status.h" alt="" coords="5290,660,5473,701"/>
+<area shape="rect" id="node24" href="$ego__info_8h.html" title="modules/planning/common\l/ego_info.h" alt="" coords="3273,288,3471,329"/>
+<area shape="rect" id="node38" href="$indexed__queue_8h.html" title="modules/planning/common\l/indexed_queue.h" alt="" coords="4666,481,4865,523"/>
+<area shape="rect" id="node39" href="$local__view_8h.html" title="modules/planning/common\l/local_view.h" alt="" coords="1893,385,2091,426"/>
+<area shape="rect" id="node41" href="$open__space__info_8h.html" title="modules/planning/common\l/open_space_info.h" alt="" coords="3881,288,4079,329"/>
+<area shape="rect" id="node42" href="$publishable__trajectory_8h.html" title="modules/planning/common\l/trajectory/publishable\l_trajectory.h" alt="" coords="927,377,1126,433"/>
+<area shape="rect" id="node49" href="$reference__line__provider_8h.html" title="Declaration of the class ReferenceLineProvider. " alt="" coords="4479,385,4702,426"/>
+<area shape="rect" id="node28" href="$indexed__list_8h.html" title="modules/planning/common\l/indexed_list.h" alt="" coords="4147,481,4346,523"/>
+<area shape="rect" id="node46" href="$hdmap__common_8h.html" title="modules/map/hdmap/hdmap\l_common.h" alt="" coords="569,481,778,523"/>
+</map>

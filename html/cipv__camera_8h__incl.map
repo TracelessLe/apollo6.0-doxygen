@@ -1,0 +1,28 @@
+<map id="modules/perception/camera/app/cipv_camera.h" name="modules/perception/camera/app/cipv_camera.h">
+<area shape="rect" id="node11" href="$vehicle__config__helper_8h.html" title="modules/common/configs\l/vehicle_config_helper.h" alt="" coords="440,303,629,344"/>
+<area shape="rect" id="node27" href="$lane__struct_8h.html" title="modules/perception\l/base/lane_struct.h" alt="" coords="1882,303,2033,344"/>
+<area shape="rect" id="node29" href="$base_2object_8h.html" title="modules/perception\l/base/object.h" alt="" coords="1618,392,1769,433"/>
+<area shape="rect" id="node41" href="$lane__object_8h.html" title="modules/perception\l/camera/common/lane\l_object.h" alt="" coords="664,95,832,151"/>
+<area shape="rect" id="node42" href="$base__cipv_8h.html" title="modules/perception\l/camera/lib/interface\l/base_cipv.h" alt="" coords="1973,95,2131,151"/>
+<area shape="rect" id="node14" href="$cyber_2common_2macros_8h.html" title="cyber/common/macros.h" alt="" coords="2439,399,2622,426"/>
+<area shape="rect" id="node21" href="$box2d_8h.html" title="The class of Box2d. Here, the x/y axes are respectively Forward/Left, as opposed to what happens in e..." alt="" coords="137,392,314,433"/>
+<area shape="rect" id="node18" href="$cyber_2base_2macros_8h.html" title="cyber/base/macros.h" alt="" coords="2216,496,2373,523"/>
+<area shape="rect" id="node23" href="$aabox2d_8h.html" title="Defines the AABox2d class. " alt="" coords="502,489,679,530"/>
+<area shape="rect" id="node24" href="$vec2d_8h.html" title="Defines the Vec2d class. " alt="" coords="299,585,477,627"/>
+<area shape="rect" id="node26" href="$line__segment2d_8h.html" title="Define the LineSegment2d class. " alt="" coords="301,489,478,530"/>
+<area shape="rect" id="node28" href="$point_8h.html" title="modules/perception\l/base/point.h" alt="" coords="2589,675,2739,716"/>
+<area shape="rect" id="node32" href="$base_2object__supplement_8h.html" title="modules/perception\l/base/object_supplement.h" alt="" coords="1843,489,2040,530"/>
+<area shape="rect" id="node38" href="$object__types_8h.html" title="modules/perception\l/base/object_types.h" alt="" coords="907,585,1063,627"/>
+<area shape="rect" id="node39" href="$point__cloud_8h.html" title="modules/perception\l/base/point_cloud.h" alt="" coords="2873,585,3023,627"/>
+<area shape="rect" id="node40" href="$vehicle__struct_8h.html" title="modules/perception\l/base/vehicle_struct.h" alt="" coords="1603,489,1767,530"/>
+<area shape="rect" id="node33" href="$eigen__defs_8h.html" title="modules/common/util\l/eigen_defs.h" alt="" coords="2866,675,3030,716"/>
+<area shape="rect" id="node35" href="$box_8h.html" title="modules/perception\l/base/box.h" alt="" coords="2583,585,2734,627"/>
+<area shape="rect" id="node43" href="$camera__frame_8h.html" title="modules/perception\l/camera/common/camera\l_frame.h" alt="" coords="2853,199,3043,255"/>
+<area shape="rect" id="node48" href="$registerer_8h.html" title="modules/perception\l/lib/registerer/registerer.h" alt="" coords="1073,489,1260,530"/>
+<area shape="rect" id="node50" href="$camera_2lib_2interface_2base__init__options_8h.html" title="modules/perception\l/camera/lib/interface\l/base_init_options.h" alt="" coords="1832,199,1989,255"/>
+<area shape="rect" id="node44" href="$hdmap__struct_8h.html" title="modules/perception\l/base/hdmap_struct.h" alt="" coords="3177,489,3340,530"/>
+<area shape="rect" id="node45" href="$object__pool__types_8h.html" title="modules/perception\l/base/object_pool_types.h" alt="" coords="2786,303,2977,344"/>
+<area shape="rect" id="node46" href="$perception_2base_2traffic__light_8h.html" title="modules/perception\l/base/traffic_light.h" alt="" coords="2758,489,2909,530"/>
+<area shape="rect" id="node47" href="$data__provider_8h.html" title="modules/perception\l/camera/common/data\l_provider.h" alt="" coords="2933,481,3102,537"/>
+<area shape="rect" id="node49" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="1189,593,1344,619"/>
+</map>

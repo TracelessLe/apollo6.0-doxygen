@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classapollo_1_1localization_1_1msf_1_1BaseMapNodePool.html" title="The memory pool for the data structure of BaseMapNode. " alt="" coords="5,71,189,112"/>
+<area shape="rect" id="node2" href="$classapollo_1_1localization_1_1msf_1_1LosslessMapNodePool.html" title="The memory pool for the data structure of BaseMapNode. " alt="" coords="237,5,444,47"/>
+<area shape="rect" id="node3" href="$classapollo_1_1localization_1_1msf_1_1LossyMapNodePool2D.html" title="The memory pool for the data structure of BaseMapNode. " alt="" coords="237,71,444,112"/>
+<area shape="rect" id="node4" href="$classapollo_1_1localization_1_1msf_1_1NdtMapNodePool.html" title="The memory pool for the data structure of BaseMapNode. " alt="" coords="253,136,428,177"/>
+</map>

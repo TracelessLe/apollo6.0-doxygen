@@ -1,0 +1,27 @@
+<map id="modules/localization/msf/local_map/lossless_map/lossless_map.h" name="modules/localization/msf/local_map/lossless_map/lossless_map.h">
+<area shape="rect" id="node3" href="$local__map_2base__map_2base__map_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map.h" alt="" coords="2761,109,2954,165"/>
+<area shape="rect" id="node50" href="$lossless__map__config_8h.html" title="modules/localization\l/msf/local_map/lossless\l_map/lossless_map_config.h" alt="" coords="2393,496,2601,552"/>
+<area shape="rect" id="node7" href="$base__map__cache_8h.html" title="modules/localization\l/msf/common/util/base\l_map_cache.h" alt="" coords="302,392,474,448"/>
+<area shape="rect" id="node19" href="$local__map_2base__map_2base__map__config_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map_config.h" alt="" coords="2986,600,3179,656"/>
+<area shape="rect" id="node23" href="$local__map_2base__map_2base__map__fwd_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map_fwd.h" alt="" coords="3179,704,3373,760"/>
+<area shape="rect" id="node25" href="$local__map_2base__map_2base__map__node_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map_node.h" alt="" coords="3037,392,3230,448"/>
+<area shape="rect" id="node27" href="$local__map_2base__map_2base__map__node__index_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map_node_index.h" alt="" coords="2986,496,3179,552"/>
+<area shape="rect" id="node28" href="$local__map_2base__map_2base__map__pool_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map_pool.h" alt="" coords="2687,213,2881,269"/>
+<area shape="rect" id="node10" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="1815,719,1969,745"/>
+<area shape="rect" id="node15" href="$lru__cache_8h.html" title="modules/common/util\l/lru_cache.h" alt="" coords="126,503,290,545"/>
+<area shape="rect" id="node14" href="$binary_8h.html" title="cyber/binary.h" alt="" coords="1717,808,1830,835"/>
+<area shape="rect" id="node21" href="$rect2d_8h.html" title="modules/localization\l/msf/common/util/rect2d.h" alt="" coords="2733,711,2928,753"/>
+<area shape="rect" id="node26" href="$compression_8h.html" title="modules/localization\l/msf/common/util/compression.h" alt="" coords="2726,503,2962,545"/>
+<area shape="rect" id="node30" href="$cyber_2task_2task_8h.html" title="cyber/task/task.h" alt="" coords="1881,317,2015,344"/>
+<area shape="rect" id="node32" href="$task__manager_8h.html" title="cyber/task/task_manager.h" alt="" coords="1190,407,1389,433"/>
+<area shape="rect" id="node36" href="$bounded__queue_8h.html" title="cyber/base/bounded\l_queue.h" alt="" coords="837,503,990,545"/>
+<area shape="rect" id="node43" href="$scheduler__factory_8h.html" title="cyber/scheduler/scheduler\l_factory.h" alt="" coords="1796,503,1988,545"/>
+<area shape="rect" id="node41" href="$cyber_2base_2macros_8h.html" title="cyber/base/macros.h" alt="" coords="679,615,836,641"/>
+<area shape="rect" id="node42" href="$wait__strategy_8h.html" title="cyber/base/wait_strategy.h" alt="" coords="357,615,553,641"/>
+<area shape="rect" id="node44" href="$environment_8h.html" title="cyber/common/environment.h" alt="" coords="1993,615,2212,641"/>
+<area shape="rect" id="node45" href="$file_8h.html" title="cyber/common/file.h" alt="" coords="1815,615,1969,641"/>
+<area shape="rect" id="node46" href="$global__data_8h.html" title="cyber/common/global\l_data.h" alt="" coords="2236,607,2399,649"/>
+<area shape="rect" id="node47" href="$cyber_2common_2util_8h.html" title="cyber/common/util.h" alt="" coords="2357,719,2513,745"/>
+<area shape="rect" id="node48" href="$scheduler__choreography_8h.html" title="cyber/scheduler/policy\l/scheduler_choreography.h" alt="" coords="1545,607,1740,649"/>
+<area shape="rect" id="node49" href="$scheduler__classic_8h.html" title="cyber/scheduler/policy\l/scheduler_classic.h" alt="" coords="1353,607,1521,649"/>
+</map>

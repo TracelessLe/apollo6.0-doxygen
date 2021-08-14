@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classapollo_1_1perception_1_1lidar_1_1BaseClassifier.html" title="apollo::perception\l::lidar::BaseClassifier" alt="" coords="5,39,164,80"/>
+<area shape="rect" id="node2" href="$classapollo_1_1perception_1_1lidar_1_1DummyClassifier.html" title="apollo::perception\l::lidar::DummyClassifier" alt="" coords="212,5,391,47"/>
+<area shape="rect" id="node3" href="$classapollo_1_1perception_1_1lidar_1_1FusedClassifier.html" title="apollo::perception\l::lidar::FusedClassifier" alt="" coords="219,71,383,112"/>
+</map>

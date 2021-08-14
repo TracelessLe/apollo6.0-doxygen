@@ -1,0 +1,20 @@
+<map id="cyber/record/record_writer.h" name="cyber/record/record_writer.h">
+<area shape="rect" id="node10" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="1667,281,1821,307"/>
+<area shape="rect" id="node15" href="$message__traits_8h.html" title="cyber/message/message\l_traits.h" alt="" coords="1039,95,1223,136"/>
+<area shape="rect" id="node38" href="$raw__message_8h.html" title="cyber/message/raw_message.h" alt="" coords="563,281,789,307"/>
+<area shape="rect" id="node39" href="$record__file__writer_8h.html" title="cyber/record/file/record\l_file_writer.h" alt="" coords="2567,184,2739,225"/>
+<area shape="rect" id="node49" href="$header__builder_8h.html" title="cyber/record/header\l_builder.h" alt="" coords="3791,95,3943,136"/>
+<area shape="rect" id="node50" href="$record__base_8h.html" title="cyber/record/record\l_base.h" alt="" coords="3438,184,3586,225"/>
+<area shape="rect" id="node14" href="$binary_8h.html" title="cyber/binary.h" alt="" coords="1718,370,1831,397"/>
+<area shape="rect" id="node16" href="$cyber_2base_2macros_8h.html" title="cyber/base/macros.h" alt="" coords="764,541,921,568"/>
+<area shape="rect" id="node19" href="$message__header_8h.html" title="cyber/message/message\l_header.h" alt="" coords="357,184,541,225"/>
+<area shape="rect" id="node23" href="$protobuf__traits_8h.html" title="cyber/message/protobuf\l_traits.h" alt="" coords="915,273,1095,315"/>
+<area shape="rect" id="node35" href="$py__message__traits_8h.html" title="cyber/message/py_message\l_traits.h" alt="" coords="957,184,1163,225"/>
+<area shape="rect" id="node37" href="$raw__message__traits_8h.html" title="cyber/message/raw_message\l_traits.h" alt="" coords="718,184,933,225"/>
+<area shape="rect" id="node25" href="$protobuf__factory_8h.html" title="cyber/message/protobuf\l_factory.h" alt="" coords="857,363,1037,404"/>
+<area shape="rect" id="node32" href="$cyber_2common_2macros_8h.html" title="cyber/common/macros.h" alt="" coords="1542,459,1725,486"/>
+<area shape="rect" id="node36" href="$py__message_8h.html" title="cyber/message/py_message.h" alt="" coords="1272,281,1491,307"/>
+<area shape="rect" id="node46" href="$record__file__base_8h.html" title="cyber/record/file/record\l_file_base.h" alt="" coords="3489,273,3661,315"/>
+<area shape="rect" id="node47" href="$section_8h.html" title="cyber/record/file/section.h" alt="" coords="2657,281,2847,307"/>
+<area shape="rect" id="node48" href="$time_8h.html" title="cyber/time/time.h" alt="" coords="2311,370,2449,397"/>
+</map>

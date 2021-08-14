@@ -1,0 +1,31 @@
+<map id="modules/planning/tasks/optimizers/piecewise_jerk_speed/piecewise_jerk_speed_nonlinear_optimizer.h" name="modules/planning/tasks/optimizers/piecewise_jerk_speed/piecewise_jerk_speed_nonlinear_optimizer.h">
+<area shape="rect" id="node4" href="$piecewise__jerk__trajectory1d_8h.html" title="modules/planning/common\l/trajectory1d/piecewise\l_jerk_trajectory1d.h" alt="" coords="4313,764,4511,820"/>
+<area shape="rect" id="node8" href="$speed__optimizer_8h.html" title="modules/planning/tasks\l/optimizers/speed_optimizer.h" alt="" coords="3505,124,3724,165"/>
+<area shape="rect" id="node6" href="$constant__jerk__trajectory1d_8h.html" title="modules/planning/common\l/trajectory1d/constant\l_jerk_trajectory1d.h" alt="" coords="4313,868,4511,924"/>
+<area shape="rect" id="node7" href="$curve1d_8h.html" title="modules/planning/math\l/curve1d/curve1d.h" alt="" coords="4364,972,4540,1013"/>
+<area shape="rect" id="node9" href="$common_2status_2status_8h.html" title="modules/common/status\l/status.h" alt="" coords="3523,578,3706,619"/>
+<area shape="rect" id="node13" href="$speed__data_8h.html" title="modules/planning/common\l/speed/speed_data.h" alt="" coords="4134,578,4333,619"/>
+<area shape="rect" id="node15" href="$st__graph__data_8h.html" title=": data with map info and obstacle info " alt="" coords="3131,578,3330,619"/>
+<area shape="rect" id="node27" href="$modules_2planning_2tasks_2task_8h.html" title="modules/planning/tasks\l/task.h" alt="" coords="2513,213,2690,255"/>
+<area shape="rect" id="node12" href="$future_8h.html" title="modules/common/util\l/future.h" alt="" coords="3533,675,3697,716"/>
+<area shape="rect" id="node17" href="$st__boundary_8h.html" title="modules/planning/common\l/speed/st_boundary.h" alt="" coords="1745,675,1943,716"/>
+<area shape="rect" id="node25" href="$speed__limit_8h.html" title="modules/planning/common\l/speed_limit.h" alt="" coords="2657,675,2855,716"/>
+<area shape="rect" id="node20" href="$box2d_8h.html" title="The class of Box2d. Here, the x/y axes are respectively Forward/Left, as opposed to what happens in e..." alt="" coords="1495,875,1673,917"/>
+<area shape="rect" id="node21" href="$vec2d_8h.html" title="Defines the Vec2d class. " alt="" coords="1147,972,1325,1013"/>
+<area shape="rect" id="node22" href="$polygon2d_8h.html" title="Define the Polygon2d class. " alt="" coords="1647,771,1825,813"/>
+<area shape="rect" id="node23" href="$st__point_8h.html" title="modules/planning/common\l/speed/st_point.h" alt="" coords="1273,875,1471,917"/>
+<area shape="rect" id="node29" href="$planning_2common_2dependency__injector_8h.html" title="modules/planning/common\l/dependency_injector.h" alt="" coords="2570,303,2769,344"/>
+<area shape="rect" id="node36" href="$planning_2common_2frame_8h.html" title="modules/planning/common\l/frame.h" alt="" coords="1758,392,1957,433"/>
+<area shape="rect" id="node46" href="$reference__line__info_8h.html" title="modules/planning/common\l/reference_line_info.h" alt="" coords="2434,481,2633,523"/>
+<area shape="rect" id="node30" href="$vehicle__state__provider_8h.html" title="modules/common/vehicle\l_state/vehicle_state_provider.h" alt="" coords="929,481,1154,523"/>
+<area shape="rect" id="node32" href="$ego__info_8h.html" title="modules/planning/common\l/ego_info.h" alt="" coords="2010,481,2209,523"/>
+<area shape="rect" id="node47" href="$planning__context_8h.html" title="modules/planning/common\l/planning_context.h" alt="" coords="2909,578,3107,619"/>
+<area shape="rect" id="node49" href="$modules_2planning_2common_2history_8h.html" title="modules/planning/common\l/history.h" alt="" coords="2637,578,2835,619"/>
+<area shape="rect" id="node50" href="$learning__based__data_8h.html" title="modules/planning/common\l/learning_based_data.h" alt="" coords="3350,392,3549,433"/>
+<area shape="rect" id="node33" href="$planning_2common_2obstacle_8h.html" title="modules/planning/common\l/obstacle.h" alt="" coords="1442,578,1641,619"/>
+<area shape="rect" id="node38" href="$monitor__log__buffer_8h.html" title="The class of MonitorLogBuffer. " alt="" coords="597,578,792,619"/>
+<area shape="rect" id="node41" href="$indexed__queue_8h.html" title="modules/planning/common\l/indexed_queue.h" alt="" coords="917,578,1115,619"/>
+<area shape="rect" id="node42" href="$local__view_8h.html" title="modules/planning/common\l/local_view.h" alt="" coords="657,481,855,523"/>
+<area shape="rect" id="node44" href="$open__space__info_8h.html" title="modules/planning/common\l/open_space_info.h" alt="" coords="1178,481,1377,523"/>
+<area shape="rect" id="node45" href="$publishable__trajectory_8h.html" title="modules/planning/common\l/trajectory/publishable\l_trajectory.h" alt="" coords="2111,571,2310,627"/>
+</map>

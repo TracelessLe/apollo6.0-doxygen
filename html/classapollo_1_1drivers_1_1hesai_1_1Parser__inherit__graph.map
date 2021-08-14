@@ -1,0 +1,4 @@
+<map id="apollo::drivers::hesai::Parser" name="apollo::drivers::hesai::Parser">
+<area shape="rect" id="node2" href="$classapollo_1_1drivers_1_1hesai_1_1Hesai40Parser.html" title="{apollo::drivers::hesai\l::Hesai40Parser\n||+ Hesai40Parser()\l+ ~Hesai40Parser()\l# ParseRawPacket()\l}" alt="" coords="5,395,164,516"/>
+<area shape="rect" id="node3" href="$classapollo_1_1drivers_1_1hesai_1_1Hesai64Parser.html" title="{apollo::drivers::hesai\l::Hesai64Parser\n||+ Hesai64Parser()\l+ ~Hesai64Parser()\l# ParseRawPacket()\l}" alt="" coords="188,395,347,516"/>
+</map>

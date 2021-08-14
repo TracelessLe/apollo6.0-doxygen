@@ -1,0 +1,4 @@
+<map id="apollo::drivers::velodyne::Velodyne64Driver" name="apollo::drivers::velodyne::Velodyne64Driver">
+<area shape="rect" id="node2" href="$classapollo_1_1drivers_1_1velodyne_1_1VelodyneDriver.html" title="{apollo::drivers::velodyne\l::VelodyneDriver\n|# poll_thread_\l# writer_\l# input_\l# positioning_input_\l# packet_rate_\l# basetime_\l# last_gps_time_\l# last_count_\l# positioning_thread_\l# sync_counter\l|+ VelodyneDriver()\l+ VelodyneDriver()\l+ VelodyneDriver()\l+ ~VelodyneDriver()\l+ Poll()\l+ Init()\l+ PollPositioningPacket()\l+ SetPacketRate()\l+ DevicePoll()\l# PollStandard()\l# SetBaseTime()\l# SetBaseTimeFromNmeaTime()\l# UpdateGpsTopHour()\l}" alt="" coords="95,204,332,604"/>
+<area shape="rect" id="node3" href="$classapollo_1_1drivers_1_1lidar_1_1LidarDriver.html" title="The class which defines the lidar driver . " alt="" coords="5,5,157,141"/>
+</map>

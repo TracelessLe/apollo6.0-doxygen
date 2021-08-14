@@ -1,0 +1,7 @@
+<map id="apollo::planning::PlannerWithReferenceLine" name="apollo::planning::PlannerWithReferenceLine">
+<area shape="rect" id="node3" href="$classapollo_1_1planning_1_1LatticePlanner.html" title="{apollo::planning::Lattice\lPlanner\n||+ LatticePlanner()\l+ LatticePlanner()\l+ ~LatticePlanner()\l+ Name()\l+ Init()\l+ Stop()\l+ Plan()\l+ PlanOnReferenceLine()\l}" alt="" coords="5,432,191,627"/>
+<area shape="rect" id="node4" href="$classapollo_1_1planning_1_1NaviPlanner.html" title="NaviPlanner is a planner based on real&#45;time relative maps. It uses the vehicle&#39;s FLU (Front&#45;Left&#45;Up) ..." alt="" coords="215,439,429,619"/>
+<area shape="rect" id="node5" href="$classapollo_1_1planning_1_1PublicRoadPlanner.html" title="PublicRoadPlanner is an expectation maximization planner. " alt="" coords="453,439,631,619"/>
+<area shape="rect" id="node6" href="$classapollo_1_1planning_1_1RTKReplayPlanner.html" title="RTKReplayPlanner is a derived class of Planner. It reads a recorded trajectory from a trajectory file..." alt="" coords="655,432,858,627"/>
+<area shape="rect" id="node2" href="$classapollo_1_1planning_1_1Planner.html" title="Planner is a base class for specific planners. It contains a pure virtual function Plan which must be..." alt="" coords="340,5,523,200"/>
+</map>

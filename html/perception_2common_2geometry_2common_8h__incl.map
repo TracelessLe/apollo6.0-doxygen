@@ -1,0 +1,7 @@
+<map id="modules/perception/common/geometry/common.h" name="modules/perception/common/geometry/common.h">
+<area shape="rect" id="node6" href="$eigen__defs_8h.html" title="modules/common/util\l/eigen_defs.h" alt="" coords="1121,184,1285,225"/>
+<area shape="rect" id="node11" href="$box_8h.html" title="modules/perception\l/base/box.h" alt="" coords="278,95,429,136"/>
+<area shape="rect" id="node18" href="$point__cloud_8h.html" title="modules/perception\l/base/point_cloud.h" alt="" coords="778,95,929,136"/>
+<area shape="rect" id="node14" href="$comparison__traits_8h.html" title="modules/perception\l/base/comparison_traits.h" alt="" coords="198,184,389,225"/>
+<area shape="rect" id="node16" href="$point_8h.html" title="modules/perception\l/base/point.h" alt="" coords="614,184,765,225"/>
+</map>

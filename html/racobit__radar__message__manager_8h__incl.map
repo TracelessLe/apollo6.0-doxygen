@@ -1,0 +1,32 @@
+<map id="modules/drivers/radar/racobit_radar/racobit_radar_message_manager.h" name="modules/drivers/radar/racobit_radar/racobit_radar_message_manager.h">
+<area shape="rect" id="node3" href="$cyber_8h.html" title="cyber/cyber.h" alt="" coords="1729,124,1839,151"/>
+<area shape="rect" id="node36" href="$can__client__factory_8h.html" title="Defines the CanClientFactory class. " alt="" coords="1185,467,1362,523"/>
+<area shape="rect" id="node41" href="$can__sender_8h.html" title="Defines SenderMessage class and CanSender class. " alt="" coords="2832,474,3019,515"/>
+<area shape="rect" id="node45" href="$message__manager_8h.html" title="The class of MessageManager. " alt="" coords="3721,474,3957,515"/>
+<area shape="rect" id="node49" href="$racobit__radar_2protocol_2radar__config__200_8h.html" title="modules/drivers/radar\l/racobit_radar/protocol\l/radar_config_200.h" alt="" coords="3333,109,3502,165"/>
+<area shape="rect" id="node50" href="$sensor__gflags_8h.html" title="modules/drivers/canbus\l/sensor_gflags.h" alt="" coords="2667,303,2845,344"/>
+<area shape="rect" id="node6" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="3019,667,3173,694"/>
+<area shape="rect" id="node11" href="$component_8h.html" title="cyber/component/component.h" alt="" coords="1672,221,1896,247"/>
+<area shape="rect" id="node23" href="$cyber_2node_2node_8h.html" title="cyber/node/node.h" alt="" coords="494,392,637,419"/>
+<area shape="rect" id="node31" href="$init_8h.html" title="cyber/init.h" alt="" coords="3206,392,3301,419"/>
+<area shape="rect" id="node33" href="$cyber_2task_2task_8h.html" title="cyber/task/task.h" alt="" coords="1338,310,1473,337"/>
+<area shape="rect" id="node34" href="$time_8h.html" title="cyber/time/time.h" alt="" coords="4109,578,4248,605"/>
+<area shape="rect" id="node35" href="$cyber_2timer_2timer_8h.html" title="cyber/timer/timer.h" alt="" coords="267,221,413,247"/>
+<area shape="rect" id="node10" href="$binary_8h.html" title="cyber/binary.h" alt="" coords="2747,749,2861,776"/>
+<area shape="rect" id="node13" href="$cyber_2base_2macros_8h.html" title="cyber/base/macros.h" alt="" coords="501,749,659,776"/>
+<area shape="rect" id="node14" href="$blocker__manager_8h.html" title="cyber/blocker/blocker\l_manager.h" alt="" coords="651,571,813,612"/>
+<area shape="rect" id="node17" href="$global__data_8h.html" title="cyber/common/global\l_data.h" alt="" coords="1787,571,1949,612"/>
+<area shape="rect" id="node19" href="$cyber_2common_2util_8h.html" title="cyber/common/util.h" alt="" coords="2195,667,2351,694"/>
+<area shape="rect" id="node20" href="$cyber_2common_2types_8h.html" title="cyber/common/types.h" alt="" coords="1437,481,1608,508"/>
+<area shape="rect" id="node21" href="$component__base_8h.html" title="cyber/component/component\l_base.h" alt="" coords="1606,303,1818,344"/>
+<area shape="rect" id="node26" href="$scheduler_8h.html" title="cyber/scheduler/scheduler.h" alt="" coords="1556,392,1759,419"/>
+<area shape="rect" id="node28" href="$routine__factory_8h.html" title="cyber/croutine/routine\l_factory.h" alt="" coords="1733,474,1899,515"/>
+<area shape="rect" id="node29" href="$data__visitor_8h.html" title="cyber/data/data_visitor.h" alt="" coords="2278,578,2461,605"/>
+<area shape="rect" id="node18" href="$cyber_2common_2macros_8h.html" title="cyber/common/macros.h" alt="" coords="1225,667,1407,694"/>
+<area shape="rect" id="node25" href="$node__channel__impl_8h.html" title="cyber/node/node_channel\l_impl.h" alt="" coords="398,474,586,515"/>
+<area shape="rect" id="node32" href="$state_8h.html" title="cyber/state.h" alt="" coords="3144,481,3251,508"/>
+<area shape="rect" id="node37" href="$factory_8h.html" title="Defines the Factory class. " alt="" coords="1193,571,1357,612"/>
+<area shape="rect" id="node38" href="$can__client_8h.html" title="Defines the CanFrame struct and CanClient interface. " alt="" coords="3654,571,3831,612"/>
+<area shape="rect" id="node40" href="$byte_8h.html" title="Defines the Byte class. " alt="" coords="4161,660,4338,701"/>
+<area shape="rect" id="node44" href="$protocol__data_8h.html" title="The class of ProtocolData. " alt="" coords="3376,571,3579,612"/>
+</map>

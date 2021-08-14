@@ -1,0 +1,11 @@
+<map id="modules/perception/camera/lib/interface/base_calibrator.h" name="modules/perception/camera/lib/interface/base_calibrator.h">
+<area shape="rect" id="node2" href="$lane__camera__perception_8h.html" title="modules/perception\l/camera/app/lane_camera\l_perception.h" alt="" coords="21,124,212,180"/>
+<area shape="rect" id="node4" href="$obstacle__camera__perception_8h.html" title="modules/perception\l/camera/app/obstacle\l_camera_perception.h" alt="" coords="253,124,420,180"/>
+<area shape="rect" id="node6" href="$obstacle__detection__camera_8h.html" title="modules/perception\l/camera/app/obstacle\l_detection_camera.h" alt="" coords="445,124,607,180"/>
+<area shape="rect" id="node8" href="$online__calibration__service_8h.html" title="modules/perception\l/camera/lib/calibration\l_service/online_calibration\l_service/online_calibration\l_service.h" alt="" coords="632,109,828,195"/>
+<area shape="rect" id="node9" href="$laneline__calibrator_8h.html" title="modules/perception\l/camera/lib/calibrator\l/laneline/laneline_calibrator.h" alt="" coords="852,124,1067,180"/>
+<area shape="rect" id="node10" href="$camera_2lib_2dummy_2dummy__algorithms_8h.html" title="modules/perception\l/camera/lib/dummy/dummy\l_algorithms.h" alt="" coords="1091,124,1294,180"/>
+<area shape="rect" id="node3" href="$lane__detection__component_8h.html" title="modules/perception\l/onboard/component/lane\l_detection_component.h" alt="" coords="5,243,193,299"/>
+<area shape="rect" id="node5" href="$fusion__camera__detection__component_8h.html" title="modules/perception\l/onboard/component/fusion\l_camera_detection_component.h" alt="" coords="217,243,456,299"/>
+<area shape="rect" id="node7" href="$camera__obstacle__detection__component_8h.html" title="modules/perception\l/onboard/component/camera\l_obstacle_detection_component.h" alt="" coords="480,243,724,299"/>
+</map>

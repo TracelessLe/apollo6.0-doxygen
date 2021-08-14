@@ -1,0 +1,27 @@
+<map id="modules/planning/lattice/trajectory_generation/backup_trajectory_generator.h" name="modules/planning/lattice/trajectory_generation/backup_trajectory_generator.h">
+<area shape="rect" id="node7" href="$planning__gflags_8h.html" title="modules/planning/common\l/planning_gflags.h" alt="" coords="246,533,444,574"/>
+<area shape="rect" id="node9" href="$discretized__trajectory_8h.html" title="modules/planning/common\l/trajectory/discretized\l_trajectory.h" alt="" coords="1324,525,1523,581"/>
+<area shape="rect" id="node19" href="$constant__deceleration__trajectory1d_8h.html" title="modules/planning/common\l/trajectory1d/constant\l_deceleration_trajectory1d.h" alt="" coords="4804,213,5012,269"/>
+<area shape="rect" id="node20" href="$curve1d_8h.html" title="modules/planning/math\l/curve1d/curve1d.h" alt="" coords="4836,325,5012,366"/>
+<area shape="rect" id="node21" href="$collision__checker_8h.html" title="modules/planning/constraint\l_checker/collision_checker.h" alt="" coords="1619,221,1826,262"/>
+<area shape="rect" id="node45" href="$trajectory1d__generator_8h.html" title="modules/planning/lattice\l/trajectory_generation\l/trajectory1d_generator.h" alt="" coords="1836,109,2022,165"/>
+<area shape="rect" id="node10" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="1332,637,1486,663"/>
+<area shape="rect" id="node16" href="$vec2d_8h.html" title="Defines the Vec2d class. " alt="" coords="3899,808,4076,849"/>
+<area shape="rect" id="node15" href="$binary_8h.html" title="cyber/binary.h" alt="" coords="1524,815,1638,842"/>
+<area shape="rect" id="node22" href="$box2d_8h.html" title="The class of Box2d. Here, the x/y axes are respectively Forward/Left, as opposed to what happens in e..." alt="" coords="3671,629,3848,671"/>
+<area shape="rect" id="node26" href="$planning_2common_2obstacle_8h.html" title="modules/planning/common\l/obstacle.h" alt="" coords="3203,429,3402,470"/>
+<area shape="rect" id="node38" href="$reference__line__info_8h.html" title="modules/planning/common\l/reference_line_info.h" alt="" coords="1274,429,1472,470"/>
+<area shape="rect" id="node44" href="$path__time__graph_8h.html" title="modules/planning/lattice\l/behavior/path_time_graph.h" alt="" coords="3948,325,4158,366"/>
+<area shape="rect" id="node24" href="$aabox2d_8h.html" title="Defines the AABox2d class. " alt="" coords="3367,719,3544,760"/>
+<area shape="rect" id="node25" href="$line__segment2d_8h.html" title="Define the LineSegment2d class. " alt="" coords="3722,719,3899,760"/>
+<area shape="rect" id="node31" href="$indexed__list_8h.html" title="modules/planning/common\l/indexed_list.h" alt="" coords="2306,533,2504,574"/>
+<area shape="rect" id="node32" href="$st__boundary_8h.html" title="modules/planning/common\l/speed/st_boundary.h" alt="" coords="3926,533,4124,574"/>
+<area shape="rect" id="node35" href="$reference__line_8h.html" title="modules/planning/reference\l_line/reference_line.h" alt="" coords="4351,533,4555,574"/>
+<area shape="rect" id="node41" href="$hdmap__common_8h.html" title="modules/map/hdmap/hdmap\l_common.h" alt="" coords="2528,533,2738,574"/>
+<area shape="rect" id="node42" href="$pnc__map_8h.html" title="modules/map/pnc_map\l/pnc_map.h" alt="" coords="720,533,895,574"/>
+<area shape="rect" id="node46" href="$prediction__querier_8h.html" title="modules/planning/lattice\l/behavior/prediction_querier.h" alt="" coords="2848,325,3064,366"/>
+<area shape="rect" id="node47" href="$end__condition__sampler_8h.html" title="modules/planning/lattice\l/trajectory_generation\l/end_condition_sampler.h" alt="" coords="2862,213,3050,269"/>
+<area shape="rect" id="node48" href="$lattice__trajectory1d_8h.html" title="modules/planning/lattice\l/trajectory_generation\l/lattice_trajectory1d.h" alt="" coords="1902,213,2084,269"/>
+<area shape="rect" id="node49" href="$quartic__polynomial__curve1d_8h.html" title="modules/planning/math\l/curve1d/quartic_polynomial\l_curve1d.h" alt="" coords="196,421,403,477"/>
+<area shape="rect" id="node50" href="$quintic__polynomial__curve1d_8h.html" title="modules/planning/math\l/curve1d/quintic_polynomial\l_curve1d.h" alt="" coords="608,317,815,373"/>
+</map>

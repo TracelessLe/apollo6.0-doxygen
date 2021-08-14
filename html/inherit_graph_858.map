@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classapollo_1_1perception_1_1lidar_1_1BaseObjectFilter.html" title="apollo::perception\l::lidar::BaseObjectFilter" alt="" coords="5,39,179,80"/>
+<area shape="rect" id="node2" href="$classapollo_1_1perception_1_1lidar_1_1DummyObjectFilter.html" title="apollo::perception\l::lidar::DummyObjectFilter" alt="" coords="227,5,420,47"/>
+<area shape="rect" id="node3" href="$classapollo_1_1perception_1_1lidar_1_1ROIBoundaryFilter.html" title="apollo::perception\l::lidar::ROIBoundaryFilter" alt="" coords="231,71,415,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="apollo::perception::lidar::LidarFrame" name="apollo::perception::lidar::LidarFrame">
+<area shape="rect" id="node2" href="$structapollo_1_1perception_1_1base_1_1SensorInfo.html" title="{apollo::perception\l::base::SensorInfo\n|+ orientation\l|+ Reset()\l}" alt="" coords="32,160,171,252"/>
+<area shape="rect" id="node5" href="$structapollo_1_1perception_1_1base_1_1PointIndices.html" title="{apollo::perception\l::base::PointIndices\n|+ indices\l|+ PointIndices()\l}" alt="" coords="309,160,457,252"/>
+</map>

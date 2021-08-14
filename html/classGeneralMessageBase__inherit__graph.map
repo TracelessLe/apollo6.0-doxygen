@@ -1,0 +1,5 @@
+<map id="GeneralMessageBase" name="GeneralMessageBase">
+<area shape="rect" id="node3" href="$classGeneralChannelMessage.html" title="{GeneralChannelMessage\n||+ ~GeneralChannelMessage()\l+ GetChannelName()\l+ set_message_type()\l+ message_type()\l+ is_enabled()\l+ has_message_come()\l+ frame_ratio()\l+ NodeName()\l+ add_reader()\l+ del_reader()\l+ add_writer()\l+ del_writer()\l+ Render()\l+ CloseChannel()\l+ ErrCode2Str()\l+ IsErrorCode()\l+ CastPtr2ErrorCode()\l+ CastErrorCode2Ptr()\l}" alt="" coords="5,652,224,979"/>
+<area shape="rect" id="node4" href="$classGeneralMessage.html" title="{GeneralMessage\n||+ GeneralMessage()\l+ ~GeneralMessage()\l+ Render()\l}" alt="" coords="249,762,415,869"/>
+<area shape="rect" id="node2" href="$classRenderableMessage.html" title="{RenderableMessage\n|+ FrameRatio_Precision\l# line_no_\l# pages_\l# page_index_\l# page_item_count_\l# parent_\l# frame_ratio_\l|+ RenderableMessage()\l+ ~RenderableMessage()\l+ Render()\l+ Child()\l+ frame_ratio()\l+ parent()\l+ set_parent()\l+ page_item_count()\l# line_no()\l# set_line_no()\l# reset_line_page()\l# SplitPages()\l}" alt="" coords="129,5,317,332"/>
+</map>

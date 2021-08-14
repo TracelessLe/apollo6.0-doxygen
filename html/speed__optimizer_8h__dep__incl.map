@@ -1,0 +1,5 @@
+<map id="modules/planning/tasks/optimizers/speed_optimizer.h" name="modules/planning/tasks/optimizers/speed_optimizer.h">
+<area shape="rect" id="node2" href="$path__time__heuristic__optimizer_8h.html" title="modules/planning/tasks\l/optimizers/path_time\l_heuristic/path_time_heuristic\l_optimizer.h" alt="" coords="5,95,224,165"/>
+<area shape="rect" id="node3" href="$piecewise__jerk__speed__nonlinear__optimizer_8h.html" title="modules/planning/tasks\l/optimizers/piecewise\l_jerk_speed/piecewise_jerk\l_speed_nonlinear_optimizer.h" alt="" coords="248,95,464,165"/>
+<area shape="rect" id="node4" href="$piecewise__jerk__speed__optimizer_8h.html" title="modules/planning/tasks\l/optimizers/piecewise\l_jerk_speed/piecewise_jerk\l_speed_optimizer.h" alt="" coords="489,95,690,165"/>
+</map>

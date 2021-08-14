@@ -1,0 +1,5 @@
+<map id="apollo::drivers::hesai::Hesai64Packet" name="apollo::drivers::hesai::Hesai64Packet">
+<area shape="rect" id="node2" href="$structapollo_1_1drivers_1_1hesai_1_1Hesai64Block.html" title="{apollo::drivers::hesai\l::Hesai64Block\n|+ azimuth\l|}" alt="" coords="5,204,164,296"/>
+<area shape="rect" id="node3" href="$structapollo_1_1drivers_1_1hesai_1_1Hesai64Unit.html" title="{apollo::drivers::hesai\l::Hesai64Unit\n|+ distance\l+ reflectivity\l|}" alt="" coords="5,5,164,112"/>
+<area shape="rect" id="node4" href="$structapollo_1_1drivers_1_1hesai_1_1Hesai64Header.html" title="{apollo::drivers::hesai\l::Hesai64Header\n|+ sob\l+ chLaserNumber\l+ chBlockNumber\l+ chReturnType\l+ chDisUnit\l|+ Hesai64Header()\l}" alt="" coords="188,175,347,325"/>
+</map>

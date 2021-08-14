@@ -1,0 +1,7 @@
+<map id="apollo::perception::base::Frame" name="apollo::perception::base::Frame">
+<area shape="rect" id="node2" href="$structapollo_1_1perception_1_1base_1_1LidarFrameSupplement.html" title="{apollo::perception\l::base::LidarFrameSupplement\n|+ on_use\l+ cloud_ptr\l|+ Reset()\l}" alt="" coords="5,167,224,274"/>
+<area shape="rect" id="node3" href="$structapollo_1_1perception_1_1base_1_1SensorInfo.html" title="{apollo::perception\l::base::SensorInfo\n|+ orientation\l|+ Reset()\l}" alt="" coords="248,175,387,267"/>
+<area shape="rect" id="node6" href="$structapollo_1_1perception_1_1base_1_1CameraFrameSupplement.html" title="{apollo::perception\l::base::CameraFrameSupplement\n|+ on_use\l+ image_ptr\l+ image_blob\l|+ Reset()\l}" alt="" coords="411,160,650,281"/>
+<area shape="rect" id="node7" href="$structapollo_1_1perception_1_1base_1_1UltrasonicFrameSupplement.html" title="{apollo::perception\l::base::UltrasonicFrameSupplement\n|+ on_use\l+ impending_collision\l_edges_ptr\l|+ Reset()\l}" alt="" coords="675,160,928,281"/>
+<area shape="rect" id="node8" href="$structapollo_1_1perception_1_1base_1_1RadarFrameSupplement.html" title="{apollo::perception\l::base::RadarFrameSupplement\n|+ on_use\l|+ Reset()\l}" alt="" coords="953,175,1178,267"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="ioc_bcan_msg" name="ioc_bcan_msg">
+<area shape="rect" id="node2" href="$structbcan__msg.html" title="{bcan_msg\n|+ bcan_msg_id\l+ bcan_msg_datalen\l+ bcan_msg_rsv\l+ bcan_msg_data\l+ bcan_msg_timestamp\l|}" alt="" coords="5,5,187,141"/>
+</map>

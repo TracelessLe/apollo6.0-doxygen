@@ -1,0 +1,15 @@
+<map id="modules/perception/lidar/lib/ground_detector" name="modules/perception/lidar/lib/ground_detector">
+<area shape="rect" id="node2" href="dir_f16df4a55be2529c9e0de7e03c4b006c.html" title="ground_service_detector" alt="" coords="38,63,221,111"/>
+<area shape="rect" id="node5" href="dir_e42992e7fe975a5de651dc034c1a5f87.html" title="interface" alt="" coords="99,159,179,207"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000340_000342.html" title="1" alt="" coords="138,132,148,147"/>
+<area shape="rect" id="node6" href="dir_0ace497d32721bef5e0aba7d8b1decff.html" title="scene_manager" alt="" coords="203,159,328,207"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000340_000351.html" title="2" alt="" coords="216,134,226,148"/>
+<area shape="rect" id="node3" href="dir_a09e8df781c5005baa5abe3080a0f69d.html" title="spatio_temporal_ground_detector" alt="" coords="245,63,486,111"/>
+<area shape="rect" id="node4" href="dir_b7e54f8867fbb6821830910b8e5b05cd.html" title="common" alt="" coords="213,255,291,303"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000341_000233.html" title="1" alt="" coords="306,244,316,258"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000341_000342.html" title="1" alt="" coords="194,157,204,172"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000341_000351.html" title="2" alt="" coords="305,145,314,159"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000342_000233.html" title="1" alt="" coords="210,229,220,244"/>
+<area shape="rect" id="clust2" href="dir_b3931012b1ba02912596711a1018fa20.html" alt="" coords="27,52,649,121"/>
+<area shape="rect" id="clust1" href="dir_d441de251c3972527526fddbd7d537ba.html" title="lib" alt="" coords="16,16,660,132"/>
+</map>

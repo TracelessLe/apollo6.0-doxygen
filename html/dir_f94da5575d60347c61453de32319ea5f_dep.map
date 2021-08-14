@@ -1,0 +1,17 @@
+<map id="modules/planning/open_space/coarse_trajectory_generator" name="modules/planning/open_space/coarse_trajectory_generator">
+<area shape="rect" id="node1" href="dir_f94da5575d60347c61453de32319ea5f.html" title="coarse_trajectory_generator" alt="" coords="27,52,232,100"/>
+<area shape="rect" id="node2" href="dir_9a5e51f49964887903df6eed98080585.html" title="common" alt="" coords="86,340,165,388"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000408_000028.html" title="5" alt="" coords="116,313,126,327"/>
+<area shape="rect" id="node3" href="dir_0d6dc3a33fbbb812401bd489d918ef1b.html" title="cyber" alt="" coords="89,436,161,484"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000408_000000.html" title="6" alt="" coords="92,409,102,423"/>
+<area shape="rect" id="node4" href="dir_a0ed3faa5d39b514a992bdb3446b058d.html" title="constraint_checker" alt="" coords="113,148,258,196"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000408_000394.html" title="1" alt="" coords="165,120,174,135"/>
+<area shape="rect" id="node5" href="dir_66bbc1175c980ce8ddd485259d3b02bb.html" title="common" alt="" coords="163,244,242,292"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000408_000045.html" title="3" alt="" coords="249,230,258,245"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000028_000000.html" title="21" alt="" coords="125,410,142,425"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000394_000028.html" title="1" alt="" coords="135,316,145,330"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000394_000045.html" title="5" alt="" coords="199,217,208,231"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000045_000028.html" title="19" alt="" coords="154,323,172,338"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000045_000000.html" title="6" alt="" coords="159,419,169,433"/>
+<area shape="rect" id="clust1" href="dir_6ae6c5fe825d09fbae4763988ad57c0b.html" title="open_space" alt="" coords="16,16,243,111"/>
+</map>

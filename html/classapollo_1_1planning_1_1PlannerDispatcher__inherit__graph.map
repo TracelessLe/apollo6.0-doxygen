@@ -1,0 +1,4 @@
+<map id="apollo::planning::PlannerDispatcher" name="apollo::planning::PlannerDispatcher">
+<area shape="rect" id="node2" href="$classapollo_1_1planning_1_1NaviPlannerDispatcher.html" title="{apollo::planning::NaviPlanner\lDispatcher\n||+ NaviPlannerDispatcher()\l+ ~NaviPlannerDispatcher()\l+ DispatchPlanner()\l}" alt="" coords="5,204,219,325"/>
+<area shape="rect" id="node3" href="$classapollo_1_1planning_1_1OnLanePlannerDispatcher.html" title="{apollo::planning::OnLane\lPlannerDispatcher\n||+ OnLanePlannerDispatcher()\l+ ~OnLanePlannerDispatcher()\l+ DispatchPlanner()\l}" alt="" coords="243,204,469,325"/>
+</map>

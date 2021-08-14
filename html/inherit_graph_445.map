@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classapollo_1_1localization_1_1msf_1_1BaseMapNode.html" title="The data structure of a Node in the map. " alt="" coords="5,71,161,112"/>
+<area shape="rect" id="node2" href="$classapollo_1_1localization_1_1msf_1_1LosslessMapNode.html" title="apollo::localization\l::msf::LosslessMapNode" alt="" coords="209,5,388,47"/>
+<area shape="rect" id="node3" href="$classapollo_1_1localization_1_1msf_1_1LossyMapNode2D.html" title="apollo::localization\l::msf::LossyMapNode2D" alt="" coords="209,71,388,112"/>
+<area shape="rect" id="node4" href="$classapollo_1_1localization_1_1msf_1_1NdtMapNode.html" title="apollo::localization\l::msf::NdtMapNode" alt="" coords="225,136,372,177"/>
+</map>

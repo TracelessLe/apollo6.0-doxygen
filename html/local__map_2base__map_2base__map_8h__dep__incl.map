@@ -1,0 +1,5 @@
+<map id="modules/localization/msf/local_map/base_map/base_map.h" name="modules/localization/msf/local_map/base_map/base_map.h">
+<area shape="rect" id="node2" href="$lossless__map_8h.html" title="modules/localization\l/msf/local_map/lossless\l_map/lossless_map.h" alt="" coords="5,109,184,165"/>
+<area shape="rect" id="node3" href="$lossy__map__2d_8h.html" title="modules/localization\l/msf/local_map/lossy\l_map/lossy_map_2d.h" alt="" coords="209,109,375,165"/>
+<area shape="rect" id="node4" href="$local__map_2ndt__map_2ndt__map_8h.html" title="modules/localization\l/msf/local_map/ndt_map\l/ndt_map.h" alt="" coords="399,109,582,165"/>
+</map>

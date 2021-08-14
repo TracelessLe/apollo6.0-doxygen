@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classapollo_1_1canbus_1_1ch_1_1ChMessageManager.html" title="apollo::canbus::ch\l::ChMessageManager" alt="" coords="231,5,391,47"/>
+<area shape="rect" id="node3" href="$classapollo_1_1canbus_1_1devkit_1_1DevkitMessageManager.html" title="apollo::canbus::devkit\l::DevkitMessageManager" alt="" coords="218,71,405,112"/>
+<area shape="rect" id="node4" href="$classapollo_1_1canbus_1_1ge3_1_1Ge3MessageManager.html" title="apollo::canbus::ge3\l::Ge3MessageManager" alt="" coords="227,136,396,177"/>
+<area shape="rect" id="node5" href="$classapollo_1_1canbus_1_1gem_1_1GemMessageManager.html" title="apollo::canbus::gem\l::GemMessageManager" alt="" coords="224,201,399,243"/>
+<area shape="rect" id="node6" href="$classapollo_1_1canbus_1_1lexus_1_1LexusMessageManager.html" title="apollo::canbus::lexus\l::LexusMessageManager" alt="" coords="221,267,402,308"/>
+<area shape="rect" id="node7" href="$classapollo_1_1canbus_1_1lincoln_1_1LincolnMessageManager.html" title="implementation of MessageManager for lincoln vehicle " alt="" coords="217,332,406,373"/>
+<area shape="rect" id="node8" href="$classapollo_1_1canbus_1_1neolix__edu_1_1Neolix__eduMessageManager.html" title="apollo::canbus::neolix\l_edu::Neolix_eduMessageManager" alt="" coords="188,397,435,439"/>
+<area shape="rect" id="node9" href="$classapollo_1_1canbus_1_1transit_1_1TransitMessageManager.html" title="apollo::canbus::transit\l::TransitMessageManager" alt="" coords="218,463,405,504"/>
+<area shape="rect" id="node10" href="$classapollo_1_1canbus_1_1wey_1_1WeyMessageManager.html" title="apollo::canbus::wey\l::WeyMessageManager" alt="" coords="226,528,397,569"/>
+<area shape="rect" id="node11" href="$classapollo_1_1canbus_1_1zhongyun_1_1ZhongyunMessageManager.html" title="apollo::canbus::zhongyun\l::ZhongyunMessageManager" alt="" coords="207,593,415,635"/>
+</map>

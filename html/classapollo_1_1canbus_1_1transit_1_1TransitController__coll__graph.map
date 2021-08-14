@@ -1,0 +1,4 @@
+<map id="apollo::canbus::transit::TransitController" name="apollo::canbus::transit::TransitController">
+<area shape="rect" id="node2" href="$classapollo_1_1canbus_1_1VehicleController.html" title="This is the interface class of vehicle controller. It defines pure virtual functions, and also some implemented common functions. " alt="" coords="19,409,254,692"/>
+<area shape="rect" id="node3" href="$classapollo_1_1drivers_1_1canbus_1_1MessageManager.html" title="{apollo::drivers::canbus\l::MessageManager\&lt; ChassisDetail \&gt;\n|# send_protocol_data_\l# recv_protocol_data_\l# protocol_data_map_\l# check_ids_\l# received_ids_\l# sensor_data_mutex_\l# sensor_data_\l# is_received_on_time_\l# cvar_\l|+ MessageManager()\l+ ~MessageManager()\l+ Parse()\l+ ClearSensorData()\l+ GetMutableCVar()\l+ GetMutableProtocolDataById()\l+ GetSensorData()\l+ ResetSendMessages()\l# AddRecvProtocolData()\l# AddSendProtocolData()\l}" alt="" coords="5,5,268,347"/>
+</map>

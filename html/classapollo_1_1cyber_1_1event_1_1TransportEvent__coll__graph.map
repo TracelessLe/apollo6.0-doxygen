@@ -1,0 +1,3 @@
+<map id="apollo::cyber::event::TransportEvent" name="apollo::cyber::event::TransportEvent">
+<area shape="rect" id="node2" href="$classapollo_1_1cyber_1_1event_1_1EventBase.html" title="{apollo::cyber::event\l::EventBase\n|# etype_\l# eid_\l# stamp_\l|+ SerializeToString()\l+ set_eid()\l+ set_etype()\l+ set_stamp()\l+ set_cr_id()\l+ set_cr_state()\l+ set_proc_id()\l+ set_fetch_res()\l+ set_msg_seq()\l+ set_channel_id()\l+ set_adder()\l}" alt="" coords="5,5,160,273"/>
+</map>

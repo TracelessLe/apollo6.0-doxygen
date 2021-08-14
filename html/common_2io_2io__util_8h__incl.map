@@ -1,0 +1,6 @@
+<map id="modules/perception/common/io/io_util.h" name="modules/perception/common/io/io_util.h">
+<area shape="rect" id="node6" href="$distortion__model_8h.html" title="modules/perception\l/base/distortion_model.h" alt="" coords="66,199,249,240"/>
+<area shape="rect" id="node10" href="$omnidirectional__model_8h.html" title="modules/perception\l/base/omnidirectional\l_model.h" alt="" coords="256,95,419,151"/>
+<area shape="rect" id="node8" href="$camera_8h.html" title="modules/perception\l/base/camera.h" alt="" coords="149,288,299,329"/>
+<area shape="rect" id="node11" href="$polynomial_8h.html" title="modules/perception\l/base/polynomial.h" alt="" coords="426,199,577,240"/>
+</map>

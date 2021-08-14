@@ -1,0 +1,30 @@
+<map id="modules/perception/fusion/lib/data_fusion/shape_fusion/pbf_shape_fusion/pbf_shape_fusion.h" name="modules/perception/fusion/lib/data_fusion/shape_fusion/pbf_shape_fusion/pbf_shape_fusion.h">
+<area shape="rect" id="node3" href="$sensor__data__manager_8h.html" title="modules/perception\l/fusion/base/sensor\l_data_manager.h" alt="" coords="2238,124,2389,180"/>
+<area shape="rect" id="node47" href="$track_8h.html" title="modules/perception\l/fusion/base/track.h" alt="" coords="403,325,554,366"/>
+<area shape="rect" id="node48" href="$base__shape__fusion_8h.html" title="modules/perception\l/fusion/lib/interface\l/base_shape_fusion.h" alt="" coords="516,124,679,180"/>
+<area shape="rect" id="node8" href="$cyber_2common_2macros_8h.html" title="cyber/common/macros.h" alt="" coords="3785,637,3967,663"/>
+<area shape="rect" id="node16" href="$perception_2base_2frame_8h.html" title="modules/perception\l/base/frame.h" alt="" coords="1577,429,1727,470"/>
+<area shape="rect" id="node37" href="$sensor__manager_8h.html" title="modules/perception\l/common/sensor_manager\l/sensor_manager.h" alt="" coords="3263,525,3457,581"/>
+<area shape="rect" id="node42" href="$sensor_8h.html" title="modules/perception\l/fusion/base/sensor.h" alt="" coords="2117,228,2275,269"/>
+<area shape="rect" id="node45" href="$sensor__frame_8h.html" title="modules/perception\l/fusion/base/sensor\l_frame.h" alt="" coords="2179,317,2330,373"/>
+<area shape="rect" id="node13" href="$cyber_2base_2macros_8h.html" title="cyber/base/macros.h" alt="" coords="4043,733,4200,760"/>
+<area shape="rect" id="node18" href="$frame__supplement_8h.html" title="modules/perception\l/base/frame_supplement.h" alt="" coords="2046,533,2242,574"/>
+<area shape="rect" id="node30" href="$base_2object_8h.html" title="modules/perception\l/base/object.h" alt="" coords="1343,533,1494,574"/>
+<area shape="rect" id="node33" href="$object__types_8h.html" title="modules/perception\l/base/object_types.h" alt="" coords="377,726,533,767"/>
+<area shape="rect" id="node36" href="$sensor__meta_8h.html" title="modules/perception\l/base/sensor_meta.h" alt="" coords="731,629,888,671"/>
+<area shape="rect" id="node19" href="$blob_8h.html" title="modules/perception\l/base/blob.h" alt="" coords="1931,629,2082,671"/>
+<area shape="rect" id="node26" href="$base_2image_8h.html" title="modules/perception\l/base/image.h" alt="" coords="2259,629,2410,671"/>
+<area shape="rect" id="node27" href="$impending__collision__edge_8h.html" title="modules/perception\l/base/impending_collision\l_edge.h" alt="" coords="2163,719,2354,775"/>
+<area shape="rect" id="node29" href="$point__cloud_8h.html" title="modules/perception\l/base/point_cloud.h" alt="" coords="1603,726,1754,767"/>
+<area shape="rect" id="node21" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="557,733,712,760"/>
+<area shape="rect" id="node25" href="$binary_8h.html" title="cyber/binary.h" alt="" coords="831,823,945,849"/>
+<area shape="rect" id="node32" href="$base_2object__supplement_8h.html" title="modules/perception\l/base/object_supplement.h" alt="" coords="1115,629,1312,671"/>
+<area shape="rect" id="node35" href="$vehicle__struct_8h.html" title="modules/perception\l/base/vehicle_struct.h" alt="" coords="1337,629,1501,671"/>
+<area shape="rect" id="node38" href="$camera_8h.html" title="modules/perception\l/base/camera.h" alt="" coords="3038,726,3189,767"/>
+<area shape="rect" id="node39" href="$distortion__model_8h.html" title="modules/perception\l/base/distortion_model.h" alt="" coords="3089,629,3271,671"/>
+<area shape="rect" id="node40" href="$perception__gflags_8h.html" title="modules/perception\l/common/perception_gflags.h" alt="" coords="3398,629,3613,671"/>
+<area shape="rect" id="node44" href="$base__forward__declaration_8h.html" title="modules/perception\l/fusion/base/base_forward\l_declaration.h" alt="" coords="2667,525,2861,581"/>
+<area shape="rect" id="node46" href="$sensor__object_8h.html" title="modules/perception\l/fusion/base/sensor\l_object.h" alt="" coords="1350,421,1501,477"/>
+<area shape="rect" id="node49" href="$scene_8h.html" title="modules/perception\l/fusion/base/scene.h" alt="" coords="520,228,675,269"/>
+<area shape="rect" id="node50" href="$registerer_8h.html" title="modules/perception\l/lib/registerer/registerer.h" alt="" coords="93,629,280,671"/>
+</map>

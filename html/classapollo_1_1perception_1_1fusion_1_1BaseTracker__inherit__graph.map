@@ -1,0 +1,4 @@
+<map id="apollo::perception::fusion::BaseTracker" name="apollo::perception::fusion::BaseTracker">
+<area shape="rect" id="node2" href="$classapollo_1_1perception_1_1fusion_1_1DummyTracker.html" title="{apollo::perception\l::fusion::DummyTracker\n||+ DummyTracker()\l+ ~DummyTracker()\l+ DummyTracker()\l+ operator=()\l+ Init()\l+ UpdateWithMeasurement()\l+ UpdateWithoutMeasurement()\l+ Name()\l}" alt="" coords="5,321,240,516"/>
+<area shape="rect" id="node3" href="$classapollo_1_1perception_1_1fusion_1_1PbfTracker.html" title="{apollo::perception\l::fusion::PbfTracker\n|# type_fusion_\l# motion_fusion_\l# existence_fusion_\l# shape_fusion_\l# s_type_fusion_method_\l# s_motion_fusion_method_\l# s_shape_fusion_method_\l# s_existence_fusion\l_method_\l|+ PbfTracker()\l+ ~PbfTracker()\l+ PbfTracker()\l+ operator=()\l+ Init()\l+ UpdateWithMeasurement()\l+ UpdateWithoutMeasurement()\l+ Name()\l+ InitParams()\l# InitMethods()\l}" alt="" coords="264,248,499,589"/>
+</map>

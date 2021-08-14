@@ -1,0 +1,10 @@
+<map id="modules/prediction/scenario/scenario_features/scenario_features.h" name="modules/prediction/scenario/scenario_features/scenario_features.h">
+<area shape="rect" id="node2" href="$scenario__analyzer_8h.html" title="modules/prediction\l/scenario/analyzer/scenario\l_analyzer.h" alt="" coords="22,109,222,165"/>
+<area shape="rect" id="node7" href="$cruise__scenario__features_8h.html" title="modules/prediction\l/scenario/scenario_features\l/cruise_scenario_features.h" alt="" coords="247,109,448,165"/>
+<area shape="rect" id="node8" href="$obstacles__prioritizer_8h.html" title="modules/prediction\l/scenario/prioritization\l/obstacles_prioritizer.h" alt="" coords="332,213,501,269"/>
+<area shape="rect" id="node9" href="$junction__scenario__features_8h.html" title="modules/prediction\l/scenario/scenario_features\l/junction_scenario_features.h" alt="" coords="523,109,737,165"/>
+<area shape="rect" id="node3" href="$prediction_2scenario_2scenario__manager_8h.html" title="modules/prediction\l/scenario/scenario_manager.h" alt="" coords="87,221,303,262"/>
+<area shape="rect" id="node4" href="$prediction_2common_2message__process_8h.html" title="modules/prediction\l/common/message_process.h" alt="" coords="88,317,303,359"/>
+<area shape="rect" id="node5" href="$prediction__component_8h.html" title="modules/prediction\l/prediction_component.h" alt="" coords="5,414,188,455"/>
+<area shape="rect" id="node6" href="$predictor__submodule_8h.html" title="Use predictor submodule to manage all predictors. " alt="" coords="212,407,379,463"/>
+</map>

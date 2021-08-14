@@ -1,0 +1,8 @@
+<map id="modules/perception/lidar/lib/scene_manager/scene_manager.h" name="modules/perception/lidar/lib/scene_manager/scene_manager.h">
+<area shape="rect" id="node4" href="$scene__service_8h.html" title="modules/perception\l/lidar/lib/scene_manager\l/scene_service.h" alt="" coords="505,109,687,165"/>
+<area shape="rect" id="node6" href="$cyber_2common_2macros_8h.html" title="cyber/common/macros.h" alt="" coords="370,221,553,247"/>
+<area shape="rect" id="node14" href="$registerer_8h.html" title="modules/perception\l/lib/registerer/registerer.h" alt="" coords="1191,213,1377,255"/>
+<area shape="rect" id="node11" href="$cyber_2base_2macros_8h.html" title="cyber/base/macros.h" alt="" coords="144,303,301,329"/>
+<area shape="rect" id="node16" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="1025,303,1180,329"/>
+<area shape="rect" id="node20" href="$binary_8h.html" title="cyber/binary.h" alt="" coords="1226,377,1339,404"/>
+</map>

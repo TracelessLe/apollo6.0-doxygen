@@ -1,0 +1,3 @@
+<map id="FreeCamera" name="FreeCamera">
+<area shape="rect" id="node2" href="$classAbstractCamera.html" title="{AbstractCamera\n|+ UP\l# camera_mode_\l# fov_\l# near_plane_width_\l# near_plane_height_\l# near_plane_\l# far_plane_\l# position_\l# attitude_\l# look_\l# up_\l# right_\l# projection_mat_\l# model_view_mat_\l|+ AbstractCamera()\l+ ~AbstractCamera()\l+ UpdateWorld()\l+ camera_mode()\l+ set_camera_mode()\l+ projection_matrix()\l+ model_view_matrix()\l+ near_plane_height()\l+ near_plane_width()\l+ set_near_plane_height()\land 28 more...\l+ Radians()\l+ Degrees()\l+ YawPitchRoll()\l}" alt="" coords="5,5,200,464"/>
+</map>

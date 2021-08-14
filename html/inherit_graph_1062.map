@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classapollo_1_1planning_1_1PlannerDispatcher.html" title="apollo::planning::Planner\lDispatcher" alt="" coords="5,39,188,80"/>
+<area shape="rect" id="node2" href="$classapollo_1_1planning_1_1NaviPlannerDispatcher.html" title="apollo::planning::NaviPlanner\lDispatcher" alt="" coords="236,5,449,47"/>
+<area shape="rect" id="node3" href="$classapollo_1_1planning_1_1OnLanePlannerDispatcher.html" title="apollo::planning::OnLane\lPlannerDispatcher" alt="" coords="251,71,434,112"/>
+</map>

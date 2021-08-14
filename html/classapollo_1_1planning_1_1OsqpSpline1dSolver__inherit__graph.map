@@ -1,0 +1,3 @@
+<map id="apollo::planning::OsqpSpline1dSolver" name="apollo::planning::OsqpSpline1dSolver">
+<area shape="rect" id="node2" href="$classapollo_1_1planning_1_1Spline1dSolver.html" title="{apollo::planning::Spline1d\lSolver\n|# spline_\l# constraint_\l# kernel_\l# last_num_constraint_\l# last_num_param_\l# last_problem_success_\l|+ Spline1dSolver()\l+ ~Spline1dSolver()\l+ Reset()\l+ mutable_spline_constraint()\l+ mutable_spline_kernel()\l+ Solve()\l+ spline()\l+ GenerateProblemProto()\l# ConvertMatrixXdToProto()\l}" alt="" coords="7,5,226,288"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="apollo::cyber::blocker::IntraWriter&lt; MessageT &gt;" name="apollo::cyber::blocker::IntraWriter&lt; MessageT &gt;">
+<area shape="rect" id="node2" href="$classapollo_1_1cyber_1_1Writer.html" title="{apollo::cyber::Writer\l\&lt; MessageT \&gt;\n||+ Writer()\l+ ~Writer()\l+ Init()\l+ Shutdown()\l+ Write()\l+ Write()\l+ HasReader()\l+ GetReaders()\l}" alt="" coords="26,263,179,457"/>
+<area shape="rect" id="node3" href="$classapollo_1_1cyber_1_1WriterBase.html" title="Base class for a Writer. A Writer is an object to send messages through a &#39;Channel&#39;. " alt="" coords="10,5,195,215"/>
+</map>

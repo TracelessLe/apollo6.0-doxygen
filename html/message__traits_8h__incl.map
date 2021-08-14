@@ -1,0 +1,13 @@
+<map id="cyber/message/message_traits.h" name="cyber/message/message_traits.h">
+<area shape="rect" id="node3" href="$cyber_2base_2macros_8h.html" title="cyber/base/macros.h" alt="" coords="2308,452,2465,479"/>
+<area shape="rect" id="node6" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="184,191,339,218"/>
+<area shape="rect" id="node11" href="$message__header_8h.html" title="cyber/message/message\l_header.h" alt="" coords="763,184,947,225"/>
+<area shape="rect" id="node16" href="$protobuf__traits_8h.html" title="cyber/message/protobuf\l_traits.h" alt="" coords="1799,184,1979,225"/>
+<area shape="rect" id="node30" href="$py__message__traits_8h.html" title="cyber/message/py_message\l_traits.h" alt="" coords="1311,95,1518,136"/>
+<area shape="rect" id="node33" href="$raw__message__traits_8h.html" title="cyber/message/raw_message\l_traits.h" alt="" coords="1594,95,1809,136"/>
+<area shape="rect" id="node10" href="$binary_8h.html" title="cyber/binary.h" alt="" coords="435,281,549,307"/>
+<area shape="rect" id="node19" href="$protobuf__factory_8h.html" title="cyber/message/protobuf\l_factory.h" alt="" coords="1537,273,1717,315"/>
+<area shape="rect" id="node27" href="$cyber_2common_2macros_8h.html" title="cyber/common/macros.h" alt="" coords="835,370,1018,397"/>
+<area shape="rect" id="node31" href="$py__message_8h.html" title="cyber/message/py_message.h" alt="" coords="1305,191,1524,218"/>
+<area shape="rect" id="node34" href="$raw__message_8h.html" title="cyber/message/raw_message.h" alt="" coords="1548,191,1775,218"/>
+</map>

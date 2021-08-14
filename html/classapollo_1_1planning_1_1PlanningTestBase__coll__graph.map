@@ -1,0 +1,3 @@
+<map id="apollo::planning::PlanningTestBase" name="apollo::planning::PlanningTestBase">
+<area shape="rect" id="node3" href="$structapollo_1_1planning_1_1LocalView.html" title="{apollo::planning::LocalView\n|+ prediction_obstacles\l+ chassis\l+ localization_estimate\l+ traffic_light\l+ routing\l+ relative_map\l+ pad_msg\l+ stories\l|}" alt="" coords="77,5,277,185"/>
+</map>

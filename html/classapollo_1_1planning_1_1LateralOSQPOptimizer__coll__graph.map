@@ -1,0 +1,3 @@
+<map id="apollo::planning::LateralOSQPOptimizer" name="apollo::planning::LateralOSQPOptimizer">
+<area shape="rect" id="node2" href="$classapollo_1_1planning_1_1LateralQPOptimizer.html" title="{apollo::planning::Lateral\lQPOptimizer\n|# delta_s_\l# opt_d_\l# opt_d_prime_\l# opt_d_pprime_\l|+ LateralQPOptimizer()\l+ ~LateralQPOptimizer()\l+ optimize()\l+ GetOptimalTrajectory()\l+ GetFrenetFramePath()\l}" alt="" coords="13,5,200,200"/>
+</map>

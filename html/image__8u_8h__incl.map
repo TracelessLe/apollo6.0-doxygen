@@ -1,0 +1,10 @@
+<map id="modules/perception/base/image_8u.h" name="modules/perception/base/image_8u.h">
+<area shape="rect" id="node4" href="$blob_8h.html" title="modules/perception\l/base/blob.h" alt="" coords="934,95,1085,136"/>
+<area shape="rect" id="node17" href="$box_8h.html" title="modules/perception\l/base/box.h" alt="" coords="285,95,435,136"/>
+<area shape="rect" id="node9" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="1173,281,1328,307"/>
+<area shape="rect" id="node14" href="$syncedmem_8h.html" title="modules/perception\l/base/syncedmem.h" alt="" coords="1174,184,1327,225"/>
+<area shape="rect" id="node13" href="$binary_8h.html" title="cyber/binary.h" alt="" coords="1241,363,1354,389"/>
+<area shape="rect" id="node15" href="$perception_2base_2common_8h.html" title="modules/perception\l/base/common.h" alt="" coords="865,273,1015,315"/>
+<area shape="rect" id="node20" href="$comparison__traits_8h.html" title="modules/perception\l/base/comparison_traits.h" alt="" coords="265,184,455,225"/>
+<area shape="rect" id="node23" href="$point_8h.html" title="modules/perception\l/base/point.h" alt="" coords="479,184,630,225"/>
+</map>

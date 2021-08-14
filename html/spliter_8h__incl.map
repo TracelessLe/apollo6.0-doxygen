@@ -1,0 +1,11 @@
+<map id="cyber/tools/cyber_recorder/spliter.h" name="cyber/tools/cyber_recorder/spliter.h">
+<area shape="rect" id="node7" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="471,191,625,218"/>
+<area shape="rect" id="node13" href="$record__file__reader_8h.html" title="cyber/record/file/record\l_file_reader.h" alt="" coords="1163,95,1335,136"/>
+<area shape="rect" id="node28" href="$record__file__writer_8h.html" title="cyber/record/file/record\l_file_writer.h" alt="" coords="1783,95,1955,136"/>
+<area shape="rect" id="node32" href="$header__builder_8h.html" title="cyber/record/header\l_builder.h" alt="" coords="189,95,341,136"/>
+<area shape="rect" id="node11" href="$binary_8h.html" title="cyber/binary.h" alt="" coords="723,273,837,300"/>
+<area shape="rect" id="node21" href="$record__file__base_8h.html" title="cyber/record/file/record\l_file_base.h" alt="" coords="1989,184,2161,225"/>
+<area shape="rect" id="node23" href="$section_8h.html" title="cyber/record/file/section.h" alt="" coords="1774,191,1965,218"/>
+<area shape="rect" id="node24" href="$time_8h.html" title="cyber/time/time.h" alt="" coords="2185,191,2324,218"/>
+<area shape="rect" id="node25" href="$duration_8h.html" title="cyber/time/duration.h" alt="" coords="2851,273,3013,300"/>
+</map>

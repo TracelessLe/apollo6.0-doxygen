@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classapollo_1_1cyber_1_1service__discovery_1_1RoleBase.html" title="apollo::cyber::service\l_discovery::RoleBase" alt="" coords="5,39,167,80"/>
+<area shape="rect" id="node2" href="$classapollo_1_1cyber_1_1service__discovery_1_1RoleServer.html" title="apollo::cyber::service\l_discovery::RoleServer" alt="" coords="215,5,384,47"/>
+<area shape="rect" id="node3" href="$classapollo_1_1cyber_1_1service__discovery_1_1RoleWriter.html" title="apollo::cyber::service\l_discovery::RoleWriter" alt="" coords="216,71,383,112"/>
+</map>

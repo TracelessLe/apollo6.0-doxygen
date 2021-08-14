@@ -1,0 +1,3 @@
+<map id="apollo::drivers::hesai::Hesai64Parser" name="apollo::drivers::hesai::Hesai64Parser">
+<area shape="rect" id="node2" href="$classapollo_1_1drivers_1_1hesai_1_1Parser.html" title="{apollo::drivers::hesai\l::Parser\n|# is_calibration_\l# node_\l# conf_\l# raw_pointcloud_writer_\l# pool_size_\l# pool_index_\l# raw_last_time_\l# seq_index_\l# raw_pointcloud_pool_\l# raw_pointcloud_out_\land 8 more...\l|+ Parser()\l+ ~Parser()\l+ Parse()\l+ Parse()\l+ Init()\l# ParseRawPacket()\l# CheckPktTime()\l# ResetRawPointCloud()\l}" alt="" coords="5,5,193,347"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="modules/planning/tasks/learning_model/learning_model_inference_task.h" name="modules/planning/tasks/learning_model/learning_model_inference_task.h">
+<area shape="rect" id="node5" href="$common_2trajectory__evaluator_8h.html" title="modules/planning/common\l/trajectory_evaluator.h" alt="" coords="285,503,483,545"/>
+<area shape="rect" id="node8" href="$trajectory__imitation__libtorch__inference_8h.html" title="Define the trajectory_imitation_libtorch_inference class. " alt="" coords="520,377,731,448"/>
+<area shape="rect" id="node13" href="$modules_2planning_2tasks_2task_8h.html" title="modules/planning/tasks\l/task.h" alt="" coords="4199,109,4377,151"/>
+<area shape="rect" id="node11" href="$model__inference_8h.html" title="Define the model inference base class. " alt="" coords="65,496,260,552"/>
+<area shape="rect" id="node14" href="$common_2status_2status_8h.html" title="modules/common/status\l/status.h" alt="" coords="5986,600,6169,641"/>
+<area shape="rect" id="node18" href="$planning_2common_2dependency__injector_8h.html" title="modules/planning/common\l/dependency_injector.h" alt="" coords="4257,199,4455,240"/>
+<area shape="rect" id="node27" href="$planning_2common_2frame_8h.html" title="modules/planning/common\l/frame.h" alt="" coords="4121,288,4319,329"/>
+<area shape="rect" id="node41" href="$reference__line__info_8h.html" title="modules/planning/common\l/reference_line_info.h" alt="" coords="2317,392,2515,433"/>
+<area shape="rect" id="node17" href="$future_8h.html" title="modules/common/util\l/future.h" alt="" coords="5995,689,6159,731"/>
+<area shape="rect" id="node19" href="$vehicle__state__provider_8h.html" title="modules/common/vehicle\l_state/vehicle_state_provider.h" alt="" coords="5585,503,5810,545"/>
+<area shape="rect" id="node22" href="$ego__info_8h.html" title="modules/planning/common\l/ego_info.h" alt="" coords="4639,392,4838,433"/>
+<area shape="rect" id="node46" href="$planning__context_8h.html" title="modules/planning/common\l/planning_context.h" alt="" coords="2566,503,2765,545"/>
+<area shape="rect" id="node49" href="$modules_2planning_2common_2history_8h.html" title="modules/planning/common\l/history.h" alt="" coords="4657,503,4855,545"/>
+<area shape="rect" id="node50" href="$learning__based__data_8h.html" title="modules/planning/common\l/learning_based_data.h" alt="" coords="999,503,1198,545"/>
+<area shape="rect" id="node20" href="$vec2d_8h.html" title="Defines the Vec2d class. " alt="" coords="4837,600,5014,641"/>
+<area shape="rect" id="node23" href="$planning_2common_2obstacle_8h.html" title="modules/planning/common\l/obstacle.h" alt="" coords="4434,503,4633,545"/>
+<area shape="rect" id="node30" href="$monitor__log__buffer_8h.html" title="The class of MonitorLogBuffer. " alt="" coords="1911,503,2105,545"/>
+<area shape="rect" id="node33" href="$indexed__queue_8h.html" title="modules/planning/common\l/indexed_queue.h" alt="" coords="3858,503,4057,545"/>
+<area shape="rect" id="node34" href="$local__view_8h.html" title="modules/planning/common\l/local_view.h" alt="" coords="3074,392,3273,433"/>
+<area shape="rect" id="node37" href="$open__space__info_8h.html" title="modules/planning/common\l/open_space_info.h" alt="" coords="4053,392,4251,433"/>
+<area shape="rect" id="node38" href="$publishable__trajectory_8h.html" title="modules/planning/common\l/trajectory/publishable\l_trajectory.h" alt="" coords="3635,496,3834,552"/>
+<area shape="rect" id="node48" href="$reference__line__provider_8h.html" title="Declaration of the class ReferenceLineProvider. " alt="" coords="4933,392,5155,433"/>
+<area shape="rect" id="node45" href="$hdmap__common_8h.html" title="modules/map/hdmap/hdmap\l_common.h" alt="" coords="2130,503,2339,545"/>
+</map>

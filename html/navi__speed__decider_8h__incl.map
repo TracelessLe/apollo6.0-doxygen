@@ -1,0 +1,24 @@
+<map id="modules/planning/navi/decider/navi_speed_decider.h" name="modules/planning/navi/decider/navi_speed_decider.h">
+<area shape="rect" id="node5" href="$common_2status_2status_8h.html" title="modules/common/status\l/status.h" alt="" coords="4353,392,4535,433"/>
+<area shape="rect" id="node9" href="$speed__data_8h.html" title="modules/planning/common\l/speed/speed_data.h" alt="" coords="143,585,342,627"/>
+<area shape="rect" id="node11" href="$navi__obstacle__decider_8h.html" title="This file provides the declaration of the class &quot;NaviSpeedDecider&quot;. " alt="" coords="3908,95,4079,151"/>
+<area shape="rect" id="node49" href="$navi__task_8h.html" title="modules/planning/navi\l/decider/navi_task.h" alt="" coords="1777,199,1948,240"/>
+<area shape="rect" id="node50" href="$navi__speed__ts__graph_8h.html" title="This file provides the declaration of the class &quot;NaviSpeedTsGraph&quot;. " alt="" coords="4760,288,4931,344"/>
+<area shape="rect" id="node8" href="$future_8h.html" title="modules/common/util\l/future.h" alt="" coords="4665,489,4829,530"/>
+<area shape="rect" id="node14" href="$vehicle__config__helper_8h.html" title="modules/common/configs\l/vehicle_config_helper.h" alt="" coords="3384,489,3573,530"/>
+<area shape="rect" id="node21" href="$vec2d_8h.html" title="Defines the Vec2d class. " alt="" coords="4255,764,4433,805"/>
+<area shape="rect" id="node23" href="$planning_2common_2frame_8h.html" title="modules/planning/common\l/frame.h" alt="" coords="2003,295,2202,337"/>
+<area shape="rect" id="node31" href="$planning_2common_2obstacle_8h.html" title="modules/planning/common\l/obstacle.h" alt="" coords="3130,489,3329,530"/>
+<area shape="rect" id="node16" href="$cyber_2common_2macros_8h.html" title="cyber/common/macros.h" alt="" coords="2375,593,2558,619"/>
+<area shape="rect" id="node19" href="$box2d_8h.html" title="The class of Box2d. Here, the x/y axes are respectively Forward/Left, as opposed to what happens in e..." alt="" coords="4078,675,4255,716"/>
+<area shape="rect" id="node26" href="$monitor__log__buffer_8h.html" title="The class of MonitorLogBuffer. " alt="" coords="667,585,861,627"/>
+<area shape="rect" id="node30" href="$ego__info_8h.html" title="modules/planning/common\l/ego_info.h" alt="" coords="2139,392,2338,433"/>
+<area shape="rect" id="node39" href="$indexed__queue_8h.html" title="modules/planning/common\l/indexed_queue.h" alt="" coords="1790,585,1989,627"/>
+<area shape="rect" id="node40" href="$local__view_8h.html" title="modules/planning/common\l/local_view.h" alt="" coords="1029,392,1227,433"/>
+<area shape="rect" id="node43" href="$open__space__info_8h.html" title="modules/planning/common\l/open_space_info.h" alt="" coords="2522,392,2721,433"/>
+<area shape="rect" id="node44" href="$publishable__trajectory_8h.html" title="modules/planning/common\l/trajectory/publishable\l_trajectory.h" alt="" coords="3598,481,3797,537"/>
+<area shape="rect" id="node46" href="$reference__line__info_8h.html" title="modules/planning/common\l/reference_line_info.h" alt="" coords="1407,489,1606,530"/>
+<area shape="rect" id="node48" href="$reference__line__provider_8h.html" title="Declaration of the class ReferenceLineProvider. " alt="" coords="1630,489,1853,530"/>
+<area shape="rect" id="node33" href="$indexed__list_8h.html" title="modules/planning/common\l/indexed_list.h" alt="" coords="3099,585,3298,627"/>
+<area shape="rect" id="node34" href="$st__boundary_8h.html" title="modules/planning/common\l/speed/st_boundary.h" alt="" coords="4226,585,4425,627"/>
+</map>

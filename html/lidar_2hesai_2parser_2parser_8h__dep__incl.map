@@ -1,0 +1,10 @@
+<map id="modules/drivers/lidar/hesai/parser/parser.h" name="modules/drivers/lidar/hesai/parser/parser.h">
+<area shape="rect" id="node2" href="$lidar__driver__factory_8h.html" title="Defines the LidarFactory class. " alt="" coords="49,95,228,151"/>
+<area shape="rect" id="node4" href="$lidar_2hesai_2driver_2driver_8h.html" title="modules/drivers/lidar\l/hesai/driver/driver.h" alt="" coords="221,206,381,247"/>
+<area shape="rect" id="node6" href="$parser__factory_8h.html" title="modules/drivers/lidar\l/hesai/parser/parser\l_factory.h" alt="" coords="339,95,499,151"/>
+<area shape="rect" id="node8" href="$hesai40__parser_8h.html" title="modules/drivers/lidar\l/hesai/parser/hesai40\l_parser.h" alt="" coords="523,95,685,151"/>
+<area shape="rect" id="node9" href="$hesai64__parser_8h.html" title="modules/drivers/lidar\l/hesai/parser/hesai64\l_parser.h" alt="" coords="709,95,870,151"/>
+<area shape="rect" id="node3" href="$lidar__driver__component_8h.html" title="modules/drivers/lidar\l/lidar_driver_component.h" alt="" coords="5,206,197,247"/>
+<area shape="rect" id="node5" href="$hesai__component_8h.html" title="modules/drivers/lidar\l/hesai/driver/hesai_component.h" alt="" coords="243,303,477,344"/>
+<area shape="rect" id="node7" href="$hesai__convert__component_8h.html" title="modules/drivers/lidar\l/hesai/parser/hesai_convert\l_component.h" alt="" coords="457,199,658,255"/>
+</map>

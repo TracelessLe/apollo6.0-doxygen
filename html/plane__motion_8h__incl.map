@@ -1,0 +1,9 @@
+<map id="modules/perception/camera/lib/motion/plane_motion.h" name="modules/perception/camera/lib/motion/plane_motion.h">
+<area shape="rect" id="node10" href="$base_2object__supplement_8h.html" title="modules/perception\l/base/object_supplement.h" alt="" coords="489,109,687,151"/>
+<area shape="rect" id="node15" href="$eigen__defs_8h.html" title="modules/common/util\l/eigen_defs.h" alt="" coords="654,288,818,329"/>
+<area shape="rect" id="node19" href="$box_8h.html" title="modules/perception\l/base/box.h" alt="" coords="381,199,531,240"/>
+<area shape="rect" id="node24" href="$object__types_8h.html" title="modules/perception\l/base/object_types.h" alt="" coords="99,199,255,240"/>
+<area shape="rect" id="node25" href="$point__cloud_8h.html" title="modules/perception\l/base/point_cloud.h" alt="" coords="985,199,1135,240"/>
+<area shape="rect" id="node22" href="$comparison__traits_8h.html" title="modules/perception\l/base/comparison_traits.h" alt="" coords="439,288,630,329"/>
+<area shape="rect" id="node23" href="$point_8h.html" title="modules/perception\l/base/point.h" alt="" coords="1123,288,1274,329"/>
+</map>

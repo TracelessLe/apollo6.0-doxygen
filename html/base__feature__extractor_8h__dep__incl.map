@@ -1,0 +1,17 @@
+<map id="modules/perception/camera/lib/interface/base_feature_extractor.h" name="modules/perception/camera/lib/interface/base_feature_extractor.h">
+<area shape="rect" id="node2" href="$lane__camera__perception_8h.html" title="modules/perception\l/camera/app/lane_camera\l_perception.h" alt="" coords="40,117,231,173"/>
+<area shape="rect" id="node4" href="$obstacle__camera__perception_8h.html" title="modules/perception\l/camera/app/obstacle\l_camera_perception.h" alt="" coords="272,117,439,173"/>
+<area shape="rect" id="node6" href="$obstacle__detection__camera_8h.html" title="modules/perception\l/camera/app/obstacle\l_detection_camera.h" alt="" coords="501,117,663,173"/>
+<area shape="rect" id="node8" href="$traffic__light__camera__perception_8h.html" title="modules/perception\l/camera/app/traffic\l_light_camera_perception.h" alt="" coords="687,117,890,173"/>
+<area shape="rect" id="node10" href="$camera_2lib_2dummy_2dummy__algorithms_8h.html" title="modules/perception\l/camera/lib/dummy/dummy\l_algorithms.h" alt="" coords="914,117,1117,173"/>
+<area shape="rect" id="node11" href="$external__feature__extractor_8h.html" title="modules/perception\l/camera/lib/feature\l_extractor/tfe/external\l_feature_extractor.h" alt="" coords="1141,109,1309,180"/>
+<area shape="rect" id="node12" href="$project__feature_8h.html" title="modules/perception\l/camera/lib/feature\l_extractor/tfe/project\l_feature.h" alt="" coords="1333,109,1492,180"/>
+<area shape="rect" id="node13" href="$tracking__feat__extractor_8h.html" title="modules/perception\l/camera/lib/feature\l_extractor/tfe/tracking\l_feat_extractor.h" alt="" coords="1516,109,1683,180"/>
+<area shape="rect" id="node14" href="$smoke__obstacle__detector_8h.html" title="modules/perception\l/camera/lib/obstacle\l/detector/smoke/smoke\l_obstacle_detector.h" alt="" coords="1707,109,1883,180"/>
+<area shape="rect" id="node15" href="$yolo__obstacle__detector_8h.html" title="modules/perception\l/camera/lib/obstacle\l/detector/yolo/yolo_obstacle\l_detector.h" alt="" coords="1908,109,2115,180"/>
+<area shape="rect" id="node16" href="$yolov4__obstacle__detector_8h.html" title="modules/perception\l/camera/lib/obstacle\l/detector/yolov4/yolov4\l_obstacle_detector.h" alt="" coords="2139,109,2315,180"/>
+<area shape="rect" id="node3" href="$lane__detection__component_8h.html" title="modules/perception\l/onboard/component/lane\l_detection_component.h" alt="" coords="5,228,193,284"/>
+<area shape="rect" id="node5" href="$fusion__camera__detection__component_8h.html" title="modules/perception\l/onboard/component/fusion\l_camera_detection_component.h" alt="" coords="217,228,456,284"/>
+<area shape="rect" id="node7" href="$camera__obstacle__detection__component_8h.html" title="modules/perception\l/onboard/component/camera\l_obstacle_detection_component.h" alt="" coords="480,228,724,284"/>
+<area shape="rect" id="node9" href="$trafficlights__perception__component_8h.html" title="modules/perception\l/onboard/component/trafficlights\l_perception_component.h" alt="" coords="749,228,983,284"/>
+</map>

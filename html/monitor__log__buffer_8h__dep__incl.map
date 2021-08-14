@@ -1,0 +1,51 @@
+<map id="modules/common/monitor_log/monitor_log_buffer.h" name="modules/common/monitor_log/monitor_log_buffer.h">
+<area shape="rect" id="node2" href="$udp__bridge__multi__receiver__component_8h.html" title="modules/bridge/udp\l_bridge_multi_receiver\l_component.h" alt="" coords="5,95,176,151"/>
+<area shape="rect" id="node3" href="$udp__bridge__receiver__component_8h.html" title="modules/bridge/udp\l_bridge_receiver_component.h" alt="" coords="201,102,423,143"/>
+<area shape="rect" id="node4" href="$udp__bridge__sender__component_8h.html" title="modules/bridge/udp\l_bridge_sender_component.h" alt="" coords="448,102,661,143"/>
+<area shape="rect" id="node5" href="$canbus__component_8h.html" title="modules/canbus/canbus\l_component.h" alt="" coords="685,102,864,143"/>
+<area shape="rect" id="node6" href="$control__component_8h.html" title="modules/control/control\l_component.h" alt="" coords="885,206,1061,247"/>
+<area shape="rect" id="node8" href="$preprocessor__submodule_8h.html" title="modules/control/submodules\l/preprocessor_submodule.h" alt="" coords="939,102,1149,143"/>
+<area shape="rect" id="node9" href="$lat__lon__controller__submodule_8h.html" title="modules/control/submodules\l/lat_lon_controller_submodule.h" alt="" coords="1174,102,1405,143"/>
+<area shape="rect" id="node10" href="$mpc__controller__submodule_8h.html" title="modules/control/submodules\l/mpc_controller_submodule.h" alt="" coords="1429,102,1643,143"/>
+<area shape="rect" id="node11" href="$postprocessor__submodule_8h.html" title="modules/control/submodules\l/postprocessor_submodule.h" alt="" coords="1668,102,1879,143"/>
+<area shape="rect" id="node12" href="$hmi_8h.html" title="modules/dreamview/backend\l/hmi/hmi.h" alt="" coords="1762,206,1977,247"/>
+<area shape="rect" id="node14" href="$simulation__world__service_8h.html" title="modules/dreamview/backend\l/simulation_world/simulation\l_world_service.h" alt="" coords="1954,95,2169,151"/>
+<area shape="rect" id="node16" href="$sensor__canbus_8h.html" title="modules/drivers/canbus\l/sensor_canbus.h" alt="" coords="2193,102,2370,143"/>
+<area shape="rect" id="node17" href="$gnss__component_8h.html" title="modules/drivers/gnss\l/gnss_component.h" alt="" coords="2394,102,2555,143"/>
+<area shape="rect" id="node18" href="$conti__radar__canbus__component_8h.html" title="modules/drivers/radar\l/conti_radar/conti_radar\l_canbus_component.h" alt="" coords="2580,95,2756,151"/>
+<area shape="rect" id="node19" href="$racobit__radar__canbus__component_8h.html" title="modules/drivers/radar\l/racobit_radar/racobit\l_radar_canbus_component.h" alt="" coords="2780,95,2988,151"/>
+<area shape="rect" id="node20" href="$ultrasonic__radar__canbus_8h.html" title="modules/drivers/radar\l/ultrasonic_radar/ultrasonic\l_radar_canbus.h" alt="" coords="3013,95,3211,151"/>
+<area shape="rect" id="node22" href="$msf__localization_8h.html" title="The class of MSFLocalization. " alt="" coords="3235,102,3410,143"/>
+<area shape="rect" id="node24" href="$rtk__localization_8h.html" title="modules/localization\l/rtk/rtk_localization.h" alt="" coords="3435,102,3595,143"/>
+<area shape="rect" id="node26" href="$relative__map_8h.html" title="modules/map/relative\l_map/relative_map.h" alt="" coords="3619,102,3784,143"/>
+<area shape="rect" id="node28" href="$monitor__manager_8h.html" title="modules/monitor/common\l/monitor_manager.h" alt="" coords="3808,102,4003,143"/>
+<area shape="rect" id="node29" href="$planning_2common_2frame_8h.html" title="modules/planning/common\l/frame.h" alt="" coords="4325,102,4523,143"/>
+<area shape="rect" id="node48" href="$routing_8h.html" title="modules/routing/routing.h" alt="" coords="4547,109,4738,136"/>
+<area shape="rect" id="node49" href="$frame__manager_8h.html" title="modules/storytelling\l/frame_manager.h" alt="" coords="4762,102,4918,143"/>
+<area shape="rect" id="node50" href="$cycle__routing__manager_8h.html" title="modules/task_manager\l/cycle_routing_manager.h" alt="" coords="4943,102,5132,143"/>
+<area shape="rect" id="node7" href="$control__test__base_8h.html" title="modules/control/integration\l_tests/control_test_base.h" alt="" coords="872,310,1075,351"/>
+<area shape="rect" id="node13" href="$dreamview_8h.html" title="modules/dreamview/backend\l/dreamview.h" alt="" coords="1882,310,2097,351"/>
+<area shape="rect" id="node15" href="$simulation__world__updater_8h.html" title="modules/dreamview/backend\l/simulation_world/simulation\l_world_updater.h" alt="" coords="2001,199,2215,255"/>
+<area shape="rect" id="node21" href="$ultrasonic__radar__canbus__component_8h.html" title="modules/drivers/radar\l/ultrasonic_radar/ultrasonic\l_radar_canbus_component.h" alt="" coords="2708,199,2916,255"/>
+<area shape="rect" id="node23" href="$msf__localization__component_8h.html" title="modules/localization\l/msf/msf_localization\l_component.h" alt="" coords="2940,199,3103,255"/>
+<area shape="rect" id="node25" href="$rtk__localization__component_8h.html" title="modules/localization\l/rtk/rtk_localization\l_component.h" alt="" coords="3127,199,3284,255"/>
+<area shape="rect" id="node27" href="$relative__map__component_8h.html" title="modules/map/relative\l_map/relative_map_component.h" alt="" coords="3308,206,3548,247"/>
+<area shape="rect" id="node30" href="$planning_2common_2dependency__injector_8h.html" title="modules/planning/common\l/dependency_injector.h" alt="" coords="4486,206,4685,247"/>
+<area shape="rect" id="node31" href="$modules_2planning_2tasks_2task_8h.html" title="modules/planning/tasks\l/task.h" alt="" coords="4437,310,4614,351"/>
+<area shape="rect" id="node32" href="$stage_8h.html" title="modules/planning/scenarios\l/stage.h" alt="" coords="4309,407,4513,448"/>
+<area shape="rect" id="node33" href="$scenario_8h.html" title="modules/planning/scenarios\l/scenario.h" alt="" coords="4561,496,4765,537"/>
+<area shape="rect" id="node34" href="$planner_8h.html" title="modules/planning/planner\l/planner.h" alt="" coords="5005,600,5195,641"/>
+<area shape="rect" id="node35" href="$planning__base_8h.html" title="modules/planning/planning\l_base.h" alt="" coords="4401,704,4599,745"/>
+<area shape="rect" id="node36" href="$lattice__planner_8h.html" title="modules/planning/planner\l/lattice/lattice_planner.h" alt="" coords="4989,704,5179,745"/>
+<area shape="rect" id="node37" href="$rtk__replay__planner_8h.html" title="modules/planning/planner\l/rtk/rtk_replay_planner.h" alt="" coords="5203,704,5394,745"/>
+<area shape="rect" id="node38" href="$emergency__pull__over__scenario_8h.html" title="modules/planning/scenarios\l/emergency/emergency_pull\l_over/emergency_pull_over\l_scenario.h" alt="" coords="4538,585,4745,656"/>
+<area shape="rect" id="node39" href="$emergency__stop__scenario_8h.html" title="modules/planning/scenarios\l/emergency/emergency_stop\l/emergency_stop_scenario.h" alt="" coords="4769,593,4980,649"/>
+<area shape="rect" id="node40" href="$lane__follow__scenario_8h.html" title="modules/planning/scenarios\l/lane_follow/lane_follow\l_scenario.h" alt="" coords="4258,593,4462,649"/>
+<area shape="rect" id="node41" href="$obstacle__blocking__analyzer_8h.html" title="modules/planning/common\l/obstacle_blocking_analyzer.h" alt="" coords="5322,206,5539,247"/>
+<area shape="rect" id="node42" href="$smoother_8h.html" title="modules/planning/common\l/smoothers/smoother.h" alt="" coords="5563,206,5762,247"/>
+<area shape="rect" id="node43" href="$planning_2common_2util_2common_8h.html" title="modules/planning/common\l/util/common.h" alt="" coords="5786,206,5985,247"/>
+<area shape="rect" id="node44" href="$path__time__graph_8h.html" title="modules/planning/lattice\l/behavior/path_time_graph.h" alt="" coords="3573,206,3782,247"/>
+<area shape="rect" id="node45" href="$navi__obstacle__decider_8h.html" title="This file provides the declaration of the class &quot;NaviSpeedDecider&quot;. " alt="" coords="3868,303,4039,359"/>
+<area shape="rect" id="node46" href="$navi__task_8h.html" title="modules/planning/navi\l/decider/navi_task.h" alt="" coords="3807,206,3977,247"/>
+<area shape="rect" id="node47" href="$stage__intersection__cruise__impl_8h.html" title="modules/planning/scenarios\l/common/stage_intersection\l_cruise_impl.h" alt="" coords="4053,199,4259,255"/>
+</map>

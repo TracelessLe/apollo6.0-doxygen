@@ -1,0 +1,7 @@
+<map id="modules/perception/radar/lib/interface/base_detector.h" name="modules/perception/radar/lib/interface/base_detector.h">
+<area shape="rect" id="node2" href="$base__radar__obstacle__perception_8h.html" title="modules/perception\l/radar/lib/interface\l/base_radar_obstacle\l_perception.h" alt="" coords="23,109,183,180"/>
+<area shape="rect" id="node5" href="$conti__ars__detector_8h.html" title="modules/perception\l/radar/lib/detector\l/conti_ars_detector/conti\l_ars_detector.h" alt="" coords="207,109,390,180"/>
+<area shape="rect" id="node6" href="$radar_2lib_2dummy_2dummy__algorithms_8h.html" title="modules/perception\l/radar/lib/dummy/dummy\l_algorithms.h" alt="" coords="414,117,602,173"/>
+<area shape="rect" id="node3" href="$radar__obstacle__perception_8h.html" title="modules/perception\l/radar/app/radar_obstacle\l_perception.h" alt="" coords="9,228,197,284"/>
+<area shape="rect" id="node4" href="$radar__detection__component_8h.html" title="modules/perception\l/onboard/component/radar\l_detection_component.h" alt="" coords="5,332,200,388"/>
+</map>

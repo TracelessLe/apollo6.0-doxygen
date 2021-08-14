@@ -1,0 +1,4 @@
+<map id="apollo::cyber::service_discovery::RoleBase" name="apollo::cyber::service_discovery::RoleBase">
+<area shape="rect" id="node2" href="$classapollo_1_1cyber_1_1service__discovery_1_1RoleServer.html" title="{apollo::cyber::service\l_discovery::RoleServer\n||+ RoleServer()\l+ RoleServer()\l+ ~RoleServer()\l+ Match()\l}" alt="" coords="5,277,175,413"/>
+<area shape="rect" id="node3" href="$classapollo_1_1cyber_1_1service__discovery_1_1RoleWriter.html" title="{apollo::cyber::service\l_discovery::RoleWriter\n||+ RoleWriter()\l+ RoleWriter()\l+ ~RoleWriter()\l+ Match()\l}" alt="" coords="199,277,365,413"/>
+</map>

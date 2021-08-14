@@ -1,0 +1,26 @@
+<map id="modules/localization/msf/local_map/lossy_map/lossy_map_pool_2d.h" name="modules/localization/msf/local_map/lossy_map/lossy_map_pool_2d.h">
+<area shape="rect" id="node2" href="$local__map_2base__map_2base__map__config_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map_config.h" alt="" coords="441,629,634,685"/>
+<area shape="rect" id="node10" href="$local__map_2base__map_2base__map__node__index_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map_node_index.h" alt="" coords="306,525,499,581"/>
+<area shape="rect" id="node11" href="$local__map_2base__map_2base__map__pool_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map_pool.h" alt="" coords="782,109,975,165"/>
+<area shape="rect" id="node45" href="$lossy__map__matrix__2d_8h.html" title="modules/localization\l/msf/local_map/lossy\l_map/lossy_map_matrix_2d.h" alt="" coords="491,317,709,373"/>
+<area shape="rect" id="node50" href="$lossy__map__node__2d_8h.html" title="modules/localization\l/msf/local_map/lossy\l_map/lossy_map_node_2d.h" alt="" coords="542,213,749,269"/>
+<area shape="rect" id="node6" href="$rect2d_8h.html" title="modules/localization\l/msf/common/util/rect2d.h" alt="" coords="397,741,592,782"/>
+<area shape="rect" id="node8" href="$local__map_2base__map_2base__map__fwd_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map_fwd.h" alt="" coords="129,733,322,789"/>
+<area shape="rect" id="node15" href="$cyber_2task_2task_8h.html" title="cyber/task/task.h" alt="" coords="1558,228,1693,255"/>
+<area shape="rect" id="node18" href="$task__manager_8h.html" title="cyber/task/task_manager.h" alt="" coords="1805,332,2003,359"/>
+<area shape="rect" id="node22" href="$bounded__queue_8h.html" title="cyber/base/bounded\l_queue.h" alt="" coords="2462,533,2615,574"/>
+<area shape="rect" id="node34" href="$scheduler__factory_8h.html" title="cyber/scheduler/scheduler\l_factory.h" alt="" coords="1417,429,1609,470"/>
+<area shape="rect" id="node27" href="$cyber_2base_2macros_8h.html" title="cyber/base/macros.h" alt="" coords="3008,644,3165,671"/>
+<area shape="rect" id="node29" href="$wait__strategy_8h.html" title="cyber/base/wait_strategy.h" alt="" coords="2737,644,2933,671"/>
+<area shape="rect" id="node35" href="$environment_8h.html" title="cyber/common/environment.h" alt="" coords="963,644,1181,671"/>
+<area shape="rect" id="node38" href="$file_8h.html" title="cyber/common/file.h" alt="" coords="1307,644,1461,671"/>
+<area shape="rect" id="node40" href="$global__data_8h.html" title="cyber/common/global\l_data.h" alt="" coords="1235,533,1397,574"/>
+<area shape="rect" id="node41" href="$cyber_2common_2util_8h.html" title="cyber/common/util.h" alt="" coords="1486,644,1642,671"/>
+<area shape="rect" id="node42" href="$scheduler__choreography_8h.html" title="cyber/scheduler/policy\l/scheduler_choreography.h" alt="" coords="1684,533,1879,574"/>
+<area shape="rect" id="node43" href="$scheduler_8h.html" title="cyber/scheduler/scheduler.h" alt="" coords="1869,644,2072,671"/>
+<area shape="rect" id="node44" href="$scheduler__classic_8h.html" title="cyber/scheduler/policy\l/scheduler_classic.h" alt="" coords="1903,533,2071,574"/>
+<area shape="rect" id="node37" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="1224,748,1379,775"/>
+<area shape="rect" id="node46" href="$local__map_2base__map_2base__map__matrix_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map_matrix.h" alt="" coords="6,421,199,477"/>
+<area shape="rect" id="node48" href="$local__map_2base__map_2base__map__node_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map_node.h" alt="" coords="571,421,765,477"/>
+<area shape="rect" id="node49" href="$compression_8h.html" title="modules/localization\l/msf/common/util/compression.h" alt="" coords="759,533,995,574"/>
+</map>

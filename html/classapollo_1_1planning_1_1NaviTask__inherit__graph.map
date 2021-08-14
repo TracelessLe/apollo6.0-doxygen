@@ -1,0 +1,5 @@
+<map id="apollo::planning::NaviTask" name="apollo::planning::NaviTask">
+<area shape="rect" id="node2" href="$classapollo_1_1planning_1_1NaviObstacleDecider.html" title="NaviObstacleDecider is used to make appropriate decisions for obstacles around the vehicle in navigat..." alt="" coords="5,219,227,384"/>
+<area shape="rect" id="node3" href="$classapollo_1_1planning_1_1NaviPathDecider.html" title="NaviPathDecider is used to generate the local driving path of the .* vehicle in navigation mode..." alt="" coords="251,233,443,369"/>
+<area shape="rect" id="node4" href="$classapollo_1_1planning_1_1NaviSpeedDecider.html" title="NaviSpeedDecider is used to generate an appropriate speed curve of the vehicle in navigation mode..." alt="" coords="467,233,671,369"/>
+</map>

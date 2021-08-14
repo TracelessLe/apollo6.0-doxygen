@@ -1,0 +1,4 @@
+<map id="apollo::data::RecordProcessor" name="apollo::data::RecordProcessor">
+<area shape="rect" id="node2" href="$classapollo_1_1data_1_1PostRecordProcessor.html" title="Post processor against recorded tasks that have been completed. " alt="" coords="5,270,199,421"/>
+<area shape="rect" id="node3" href="$classapollo_1_1data_1_1RealtimeRecordProcessor.html" title="Realtime processor against recorded tasks that are being recorded. " alt="" coords="223,263,445,428"/>
+</map>

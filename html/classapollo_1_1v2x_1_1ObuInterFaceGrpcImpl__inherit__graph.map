@@ -1,0 +1,3 @@
+<map id="apollo::v2x::ObuInterFaceGrpcImpl" name="apollo::v2x::ObuInterFaceGrpcImpl">
+<area shape="rect" id="node2" href="$classapollo_1_1v2x_1_1ObuInterFaceBase.html" title="{apollo::v2x::ObuInterFaceBase\n||+ ObuInterFaceBase()\l+ ~ObuInterFaceBase()\l+ InitialServer()\l+ InitialClient()\l+ GetV2xTrafficLightFromObu()\l+ SendCarStatusToObu()\l+ GetV2xRsiFromObu()\l+ GetV2xObstaclesFromObu()\l}" alt="" coords="5,5,229,185"/>
+</map>

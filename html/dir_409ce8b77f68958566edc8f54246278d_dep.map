@@ -1,0 +1,33 @@
+<map id="modules/canbus/vehicle" name="modules/canbus/vehicle">
+<area shape="rect" id="node13" href="dir_9a5e51f49964887903df6eed98080585.html" title="common" alt="" coords="638,255,717,303"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000108_000028.html" title="2" alt="" coords="616,257,625,272"/>
+<area shape="rect" id="node2" href="dir_daf8391f2c5500faa63000907c3fafd7.html" title="ch" alt="" coords="325,63,397,111"/>
+<area shape="rect" id="node12" href="dir_fa7c3dda3a065b7e0bb8d7e2b3a94e74.html" title="drivers" alt="" coords="641,159,713,207"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000109_000006.html" title="16" alt="" coords="615,160,633,175"/>
+<area shape="rect" id="node3" href="dir_8c207da71d02d3ab9f4b2f66386ed723.html" title="devkit" alt="" coords="229,63,301,111"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000111_000006.html" title="20" alt="" coords="615,163,632,178"/>
+<area shape="rect" id="node4" href="dir_f5482a99aa1c74808be75c138939cec1.html" title="ge3" alt="" coords="133,63,205,111"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000113_000006.html" title="18" alt="" coords="615,163,632,178"/>
+<area shape="rect" id="node5" href="dir_22e1c44bfc8f48df8aa0a1a6c67db45e.html" title="gem" alt="" coords="936,63,1008,111"/>
+<area shape="rect" id="edge15-headlabel" href="dir_000115_000006.html" title="32" alt="" coords="724,176,741,191"/>
+<area shape="rect" id="node14" href="dir_0d6dc3a33fbbb812401bd489d918ef1b.html" title="cyber" alt="" coords="827,351,899,399"/>
+<area shape="rect" id="edge16-headlabel" href="dir_000115_000000.html" title="1" alt="" coords="882,329,891,344"/>
+<area shape="rect" id="node6" href="dir_bac3d3ace058379509bef1501557b3fc.html" title="lexus" alt="" coords="744,63,816,111"/>
+<area shape="rect" id="edge13-headlabel" href="dir_000117_000006.html" title="58" alt="" coords="714,145,731,160"/>
+<area shape="rect" id="node7" href="dir_3044a1412260c9255668c0b3516674b0.html" title="lincoln" alt="" coords="1032,63,1104,111"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000119_000006.html" title="25" alt="" coords="724,180,741,194"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000119_000000.html" title="1" alt="" coords="895,334,904,348"/>
+<area shape="rect" id="node8" href="dir_1895dc1df1033da897b2cb7f57e30482.html" title="neolix_edu" alt="" coords="517,63,611,111"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000121_000006.html" title="23" alt="" coords="632,133,649,148"/>
+<area shape="rect" id="node9" href="dir_06d6e166d1baf643ba4c1be745bab555.html" title="transit" alt="" coords="421,63,493,111"/>
+<area shape="rect" id="edge14-headlabel" href="dir_000123_000006.html" title="14" alt="" coords="616,158,634,173"/>
+<area shape="rect" id="node10" href="dir_f8f5a7036e812eb8bb65595521b791e0.html" title="wey" alt="" coords="840,63,912,111"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000125_000006.html" title="16" alt="" coords="725,171,742,186"/>
+<area shape="rect" id="node11" href="dir_8da2faa64ffe62fbdd1e2a6d70d2b003.html" title="zhongyun" alt="" coords="635,63,720,111"/>
+<area shape="rect" id="edge12-headlabel" href="dir_000127_000006.html" title="11" alt="" coords="677,133,694,147"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000006_000028.html" title="13" alt="" coords="677,229,694,243"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000006_000000.html" title="65" alt="" coords="824,324,842,339"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000028_000000.html" title="21" alt="" coords="805,333,823,347"/>
+<area shape="rect" id="clust2" href="dir_409ce8b77f68958566edc8f54246278d.html" alt="" coords="27,52,1115,121"/>
+<area shape="rect" id="clust1" href="dir_b90ee871b6121347977cfc3f2f605b81.html" title="canbus" alt="" coords="16,16,1125,132"/>
+</map>

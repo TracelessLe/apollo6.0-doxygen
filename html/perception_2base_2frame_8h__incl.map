@@ -1,0 +1,21 @@
+<map id="modules/perception/base/frame.h" name="modules/perception/base/frame.h">
+<area shape="rect" id="node5" href="$frame__supplement_8h.html" title="modules/perception\l/base/frame_supplement.h" alt="" coords="1322,95,1518,136"/>
+<area shape="rect" id="node35" href="$base_2object_8h.html" title="modules/perception\l/base/object.h" alt="" coords="2029,191,2179,233"/>
+<area shape="rect" id="node38" href="$object__types_8h.html" title="modules/perception\l/base/object_types.h" alt="" coords="1839,377,1995,419"/>
+<area shape="rect" id="node40" href="$sensor__meta_8h.html" title="modules/perception\l/base/sensor_meta.h" alt="" coords="3175,95,3332,136"/>
+<area shape="rect" id="node6" href="$blob_8h.html" title="modules/perception\l/base/blob.h" alt="" coords="966,377,1117,419"/>
+<area shape="rect" id="node18" href="$base_2image_8h.html" title="modules/perception\l/base/image.h" alt="" coords="1249,191,1399,233"/>
+<area shape="rect" id="node28" href="$impending__collision__edge_8h.html" title="modules/perception\l/base/impending_collision\l_edge.h" alt="" coords="1423,184,1614,240"/>
+<area shape="rect" id="node30" href="$point__cloud_8h.html" title="modules/perception\l/base/point_cloud.h" alt="" coords="2677,377,2827,419"/>
+<area shape="rect" id="node10" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="336,563,491,590"/>
+<area shape="rect" id="node15" href="$syncedmem_8h.html" title="modules/perception\l/base/syncedmem.h" alt="" coords="497,467,650,508"/>
+<area shape="rect" id="node14" href="$binary_8h.html" title="cyber/binary.h" alt="" coords="409,645,522,672"/>
+<area shape="rect" id="node16" href="$perception_2base_2common_8h.html" title="modules/perception\l/base/common.h" alt="" coords="515,556,666,597"/>
+<area shape="rect" id="node19" href="$image__8u_8h.html" title="modules/perception\l/base/image_8u.h" alt="" coords="1297,288,1447,329"/>
+<area shape="rect" id="node21" href="$box_8h.html" title="modules/perception\l/base/box.h" alt="" coords="1665,377,1815,419"/>
+<area shape="rect" id="node24" href="$comparison__traits_8h.html" title="modules/perception\l/base/comparison_traits.h" alt="" coords="1910,467,2101,508"/>
+<area shape="rect" id="node27" href="$point_8h.html" title="modules/perception\l/base/point.h" alt="" coords="2329,467,2479,508"/>
+<area shape="rect" id="node32" href="$eigen__defs_8h.html" title="modules/common/util\l/eigen_defs.h" alt="" coords="2809,467,2973,508"/>
+<area shape="rect" id="node37" href="$base_2object__supplement_8h.html" title="modules/perception\l/base/object_supplement.h" alt="" coords="2141,288,2339,329"/>
+<area shape="rect" id="node39" href="$vehicle__struct_8h.html" title="modules/perception\l/base/vehicle_struct.h" alt="" coords="2657,288,2821,329"/>
+</map>

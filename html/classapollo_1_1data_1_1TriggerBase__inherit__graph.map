@@ -1,0 +1,8 @@
+<map id="apollo::data::TriggerBase" name="apollo::data::TriggerBase">
+<area shape="rect" id="node2" href="$classapollo_1_1data_1_1DriveEventTrigger.html" title="DriveEvent trigger that records drive events. " alt="" coords="5,263,184,399"/>
+<area shape="rect" id="node3" href="$classapollo_1_1data_1_1EmergencyModeTrigger.html" title="EmergencyMode trigger that fires when emergency mode is engaged. " alt="" coords="209,263,423,399"/>
+<area shape="rect" id="node4" href="$classapollo_1_1data_1_1HardBrakeTrigger.html" title="HardBrake trigger that fires when hard break is engaged. " alt="" coords="447,270,667,391"/>
+<area shape="rect" id="node5" href="$classapollo_1_1data_1_1RegularIntervalTrigger.html" title="{apollo::data::RegularInterval\lTrigger\n||+ RegularIntervalTrigger()\l+ Pull()\l+ ShouldRestore()\l+ ~RegularIntervalTrigger()\l}" alt="" coords="691,263,898,399"/>
+<area shape="rect" id="node6" href="$classapollo_1_1data_1_1SmallTopicsTrigger.html" title="A specialized trigger that does not trigger anything but indicates what small topics need to be resto..." alt="" coords="923,263,1107,399"/>
+<area shape="rect" id="node7" href="$classapollo_1_1data_1_1SwerveTrigger.html" title="Swerve trigger that fires when swerve is engaged. " alt="" coords="1131,270,1330,391"/>
+</map>

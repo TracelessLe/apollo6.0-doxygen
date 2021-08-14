@@ -1,0 +1,5 @@
+<map id="apollo::cyber::transport::Segment" name="apollo::cyber::transport::Segment">
+<area shape="rect" id="node2" href="$classapollo_1_1cyber_1_1transport_1_1Block.html" title="{apollo::cyber::transport\l::Block\n|+ kRWLockFree\l+ kWriteExclusive\l+ kMaxTryLockTimes\l|+ Block()\l+ ~Block()\l+ msg_size()\l+ set_msg_size()\l+ msg_info_size()\l+ set_msg_info_size()\l}" alt="" coords="5,20,179,215"/>
+<area shape="rect" id="node3" href="$classapollo_1_1cyber_1_1transport_1_1State.html" title="{apollo::cyber::transport\l::State\n||+ State()\l+ ~State()\l+ DecreaseReferenceCounts()\l+ IncreaseReferenceCounts()\l+ FetchAddSeq()\l+ seq()\l+ set_need_remap()\l+ need_remap()\l+ ceiling_msg_size()\l+ reference_counts()\l}" alt="" coords="203,5,421,229"/>
+<area shape="rect" id="node4" href="$classapollo_1_1cyber_1_1transport_1_1ShmConf.html" title="{apollo::cyber::transport\l::ShmConf\n||+ ShmConf()\l+ ShmConf()\l+ ~ShmConf()\l+ Update()\l+ ceiling_msg_size()\l+ block_buf_size()\l+ block_num()\l+ managed_shm_size()\l}" alt="" coords="445,20,621,215"/>
+</map>

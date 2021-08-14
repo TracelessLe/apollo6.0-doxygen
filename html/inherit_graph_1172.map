@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classapollo_1_1third__party__perception_1_1ThirdPartyPerception.html" title="apollo::third_party\l_perception::ThirdPartyPerception" alt="" coords="5,53,247,94"/>
+<area shape="rect" id="node2" href="$classapollo_1_1third__party__perception_1_1ThirdPartyPerceptionMobileye.html" title="apollo::third_party\l_perception::ThirdPartyPerception\lMobileye" alt="" coords="295,5,536,61"/>
+<area shape="rect" id="node3" href="$classapollo_1_1third__party__perception_1_1ThirdPartyPerceptionSmartereye.html" title="apollo::third_party\l_perception::ThirdPartyPerception\lSmartereye" alt="" coords="295,85,536,141"/>
+</map>

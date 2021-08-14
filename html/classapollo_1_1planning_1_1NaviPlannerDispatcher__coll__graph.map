@@ -1,0 +1,4 @@
+<map id="apollo::planning::NaviPlannerDispatcher" name="apollo::planning::NaviPlannerDispatcher">
+<area shape="rect" id="node2" href="$classapollo_1_1planning_1_1PlannerDispatcher.html" title="{apollo::planning::Planner\lDispatcher\n||+ PlannerDispatcher()\l+ ~PlannerDispatcher()\l+ Init()\l+ DispatchPlanner()\l# RegisterPlanners()\l}" alt="" coords="53,321,236,472"/>
+<area shape="rect" id="node3" href="$classapollo_1_1common_1_1util_1_1Factory.html" title="{apollo::common::util\l::Factory\&lt; PlannerType,\l apollo::planning::Planner,\l apollo::planning::Planner\l *(*)(const std::shared_ptr\l\&lt; apollo::planning::DependencyInjector\l \&gt; &amp;injector)\&gt;\n||+ Register()\l+ Contains()\l+ Unregister()\l+ Clear()\l+ Empty()\l+ CreateObjectOrNull()\l+ CreateObject()\l}" alt="" coords="5,5,284,259"/>
+</map>

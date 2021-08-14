@@ -1,0 +1,5 @@
+<map id="apollo::localization::msf::BaseMap" name="apollo::localization::msf::BaseMap">
+<area shape="rect" id="node2" href="$classapollo_1_1localization_1_1msf_1_1LosslessMap.html" title="{apollo::localization\l::msf::LosslessMap\n||+ LosslessMap()\l+ ~LosslessMap()\l+ SetValue()\l+ SetValueLayer()\l+ GetValue()\l+ GetValueSafe()\l+ GetVar()\l+ GetVarSafe()\l+ GetAlt()\l+ GetAltSafe()\land 17 more...\l}" alt="" coords="5,527,151,765"/>
+<area shape="rect" id="node3" href="$classapollo_1_1localization_1_1msf_1_1LossyMap2D.html" title="{apollo::localization\l::msf::LossyMap2D\n||+ LossyMap2D()\l+ ~LossyMap2D()\l+ PreloadMapArea()\l+ LoadMapArea()\l}" alt="" coords="175,578,328,714"/>
+<area shape="rect" id="node4" href="$classapollo_1_1localization_1_1msf_1_1NdtMap.html" title="{apollo::localization\l::msf::NdtMap\n||+ NdtMap()\l+ ~NdtMap()\l+ PreloadMapArea()\l+ LoadMapArea()\l}" alt="" coords="352,578,505,714"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="apollo::bridge::ProtoDiserializedBufBase" name="apollo::bridge::ProtoDiserializedBufBase">
+<area shape="rect" id="node2" href="$classapollo_1_1bridge_1_1BridgeProtoDiserializedBuf.html" title="{apollo::bridge::BridgeProto\lDiserializedBuf\&lt; T \&gt;\n||+ BridgeProtoDiserializedBuf()\l+ BridgeProtoDiserializedBuf()\l+ ~BridgeProtoDiserializedBuf()\l+ DiserializedAndPub()\l+ Initialize()\l+ IsReadyDiserialize()\l+ UpdateStatus()\l+ IsTheProto()\l+ Initialize()\l+ Diserialized()\l+ GetBuf()\l+ GetMsgID()\l+ GetMsgName()\l}" alt="" coords="5,277,239,545"/>
+</map>

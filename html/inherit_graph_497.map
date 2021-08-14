@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classapollo_1_1localization_1_1msf_1_1pyramid__map_1_1BaseMapMatrixHandler.html" title="apollo::localization\l::msf::pyramid_map::BaseMap\lMatrixHandler" alt="" coords="5,125,225,181"/>
+<area shape="rect" id="node2" href="$classapollo_1_1localization_1_1msf_1_1pyramid__map_1_1LosslessMapMatrixHandler.html" title="apollo::localization\l::msf::pyramid_map::Lossless\lMapMatrixHandler" alt="" coords="291,5,507,61"/>
+<area shape="rect" id="node3" href="$classapollo_1_1localization_1_1msf_1_1pyramid__map_1_1LossyMapMatrixHandler.html" title="apollo::localization\l::msf::pyramid_map::LossyMap\lMatrixHandler" alt="" coords="287,85,512,141"/>
+<area shape="rect" id="node6" href="$classapollo_1_1localization_1_1msf_1_1pyramid__map_1_1NdtMapMatrixHandler.html" title="apollo::localization\l::msf::pyramid_map::NdtMapMatrix\lHandler" alt="" coords="273,165,525,221"/>
+<area shape="rect" id="node7" href="$classapollo_1_1localization_1_1msf_1_1pyramid__map_1_1PyramidLosslessMapMatrixHandler.html" title="apollo::localization\l::msf::pyramid_map::Pyramid\lLosslessMapMatrixHandler" alt="" coords="292,245,507,301"/>
+<area shape="rect" id="node4" href="$classapollo_1_1localization_1_1msf_1_1pyramid__map_1_1LossyMapFullAltMatrixHandler.html" title="apollo::localization\l::msf::pyramid_map::LossyMap\lFullAltMatrixHandler" alt="" coords="573,45,799,101"/>
+<area shape="rect" id="node5" href="$classapollo_1_1localization_1_1msf_1_1pyramid__map_1_1PyramidLossyMapMatrixHandler.html" title="apollo::localization\l::msf::pyramid_map::Pyramid\lLossyMapMatrixHandler" alt="" coords="579,125,793,181"/>
+</map>

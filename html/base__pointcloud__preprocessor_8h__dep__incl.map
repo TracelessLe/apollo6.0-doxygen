@@ -1,0 +1,5 @@
+<map id="modules/perception/lidar/lib/interface/base_pointcloud_preprocessor.h" name="modules/perception/lidar/lib/interface/base_pointcloud_preprocessor.h">
+<area shape="rect" id="node2" href="$lidar__obstacle__detection_8h.html" title="modules/perception\l/lidar/app/lidar_obstacle\l_detection.h" alt="" coords="27,117,205,173"/>
+<area shape="rect" id="node4" href="$pointcloud__preprocessor_8h.html" title="modules/perception\l/lidar/lib/pointcloud\l_preprocessor/pointcloud\l_preprocessor.h" alt="" coords="230,109,415,180"/>
+<area shape="rect" id="node3" href="$detection__component_8h.html" title="modules/perception\l/onboard/component/detection\l_component.h" alt="" coords="5,228,227,284"/>
+</map>

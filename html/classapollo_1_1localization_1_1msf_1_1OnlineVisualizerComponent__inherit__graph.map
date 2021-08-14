@@ -1,0 +1,4 @@
+<map id="apollo::localization::msf::OnlineVisualizerComponent" name="apollo::localization::msf::OnlineVisualizerComponent">
+<area shape="rect" id="node2" href="$classapollo_1_1cyber_1_1Component.html" title="{apollo::cyber::Component\l\&lt; drivers::PointCloud \&gt;\n||+ Component()\l+ ~Component()\l+ Initialize()\l+ Process()\l}" alt="" coords="33,447,222,583"/>
+<area shape="rect" id="node3" href="$classapollo_1_1cyber_1_1ComponentBase.html" title="{apollo::cyber::ComponentBase\n|# is_shutdown_\l# node_\l# config_file_path_\l# readers_\l|+ ~ComponentBase()\l+ Initialize()\l+ Initialize()\l+ Shutdown()\l+ GetProtoConfig()\l# Init()\l# Clear()\l# ConfigFilePath()\l# LoadConfigFiles()\l# LoadConfigFiles()\l}" alt="" coords="17,145,238,399"/>
+</map>

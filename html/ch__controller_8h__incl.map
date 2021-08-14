@@ -1,0 +1,24 @@
+<map id="modules/canbus/vehicle/ch/ch_controller.h" name="modules/canbus/vehicle/ch/ch_controller.h">
+<area shape="rect" id="node7" href="$vehicle__controller_8h.html" title="The class of VehicleController. " alt="" coords="1067,102,1246,143"/>
+<area shape="rect" id="node45" href="$brake__command__111_8h.html" title="modules/canbus/vehicle\l/ch/protocol/brake_command_111.h" alt="" coords="2176,102,2431,143"/>
+<area shape="rect" id="node46" href="$control__command__115_8h.html" title="modules/canbus/vehicle\l/ch/protocol/control_command_115.h" alt="" coords="2455,102,2717,143"/>
+<area shape="rect" id="node47" href="$gear__command__114_8h.html" title="modules/canbus/vehicle\l/ch/protocol/gear_command_114.h" alt="" coords="2741,102,2988,143"/>
+<area shape="rect" id="node48" href="$steer__command__112_8h.html" title="modules/canbus/vehicle\l/ch/protocol/steer_command_112.h" alt="" coords="3013,102,3263,143"/>
+<area shape="rect" id="node49" href="$throttle__command__110_8h.html" title="modules/canbus/vehicle\l/ch/protocol/throttle\l_command_110.h" alt="" coords="1770,95,1949,151"/>
+<area shape="rect" id="node50" href="$turnsignal__command__113_8h.html" title="modules/canbus/vehicle\l/ch/protocol/turnsignal\l_command_113.h" alt="" coords="1973,95,2151,151"/>
+<area shape="rect" id="node11" href="$vehicle__config__helper_8h.html" title="modules/common/configs\l/vehicle_config_helper.h" alt="" coords="2086,199,2275,240"/>
+<area shape="rect" id="node29" href="$can__sender_8h.html" title="Defines SenderMessage class and CanSender class. " alt="" coords="933,199,1119,240"/>
+<area shape="rect" id="node39" href="$protocol__data_8h.html" title="The class of ProtocolData. " alt="" coords="2757,288,2959,329"/>
+<area shape="rect" id="node42" href="$message__manager_8h.html" title="The class of MessageManager. " alt="" coords="1193,199,1429,240"/>
+<area shape="rect" id="node15" href="$cyber_2common_2macros_8h.html" title="cyber/common/macros.h" alt="" coords="1444,295,1627,322"/>
+<area shape="rect" id="node21" href="$box2d_8h.html" title="The class of Box2d. Here, the x/y axes are respectively Forward/Left, as opposed to what happens in e..." alt="" coords="2504,288,2681,329"/>
+<area shape="rect" id="node20" href="$cyber_2base_2macros_8h.html" title="cyber/base/macros.h" alt="" coords="1354,385,1511,411"/>
+<area shape="rect" id="node24" href="$aabox2d_8h.html" title="Defines the AABox2d class. " alt="" coords="2191,377,2368,419"/>
+<area shape="rect" id="node25" href="$vec2d_8h.html" title="Defines the Vec2d class. " alt="" coords="2392,467,2569,508"/>
+<area shape="rect" id="node27" href="$line__segment2d_8h.html" title="Define the LineSegment2d class. " alt="" coords="2392,377,2569,419"/>
+<area shape="rect" id="node33" href="$log_8h.html" title="cyber/common/log.h" alt="" coords="733,385,887,411"/>
+<area shape="rect" id="node36" href="$time_8h.html" title="cyber/time/time.h" alt="" coords="1230,295,1369,322"/>
+<area shape="rect" id="node37" href="$can__client_8h.html" title="Defines the CanFrame struct and CanClient interface. " alt="" coords="676,288,853,329"/>
+<area shape="rect" id="node38" href="$byte_8h.html" title="Defines the Byte class. " alt="" coords="912,377,1089,419"/>
+<area shape="rect" id="node41" href="$canbus__consts_8h.html" title="modules/drivers/canbus\l/common/canbus_consts.h" alt="" coords="2915,377,3110,419"/>
+</map>
