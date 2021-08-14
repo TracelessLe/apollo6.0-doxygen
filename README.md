@@ -5,6 +5,10 @@ Apollo 6.0 Project Doxygen Documentation
 
 ```
 ./html/index.html
+
+or
+
+https://tracelessle.github.io/apollo6.0-doxygen/html/index.html
 ```
 
 # How to generate from apollo project
